@@ -1,4 +1,4 @@
-Revision-de-la-Bible
+Révision de la Bible
 ====================
 
 Révision de la Bible, à partir des versions Ostervald et Martin, et des textes hébreux et grecs fidèles aux originaux.
