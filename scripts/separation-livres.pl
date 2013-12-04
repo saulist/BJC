@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# Tableau de correspondance numéro->nom des livres
+require('var-livres.pl');
+
 # Chemin fichier source
 $src = "../sources/ostervald_1996.txt";
 
@@ -20,9 +23,9 @@ while($ligne = <SRC>) {
 		close(LIVRE);
 		close(COMMENTAIRES);
 		# Ouverture des fichiers sortie correspondants au livre en cours
-		print("> ../txt/".$numLivre.".txt\n");
+		print("> ../txt/".$numLivre."-".$livre{$numLivre}.".txt\n");
 		open(LIVRE, "> ../txt/".$numLivre.".txt");
-		open(COMMENTAIRES, "> ../txt/".$numLivre."-commentaires.txt");
+		open(COMMENTAIRES, "> ../txt/".$numLivre."-".$livre{$numLivre}."-commentaires.txt");
 	} else {
 		# Suppression premier élément
 		shift(@ligne);
