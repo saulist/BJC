@@ -10,15 +10,21 @@ while($ligne = <SRC>) {
 	# Découpage de chaque éléments de la ligne en cours
 	@ligne = split(/\s/, $ligne);
 
-	# Ouverture du fichier sortie correspondant au livre en cours
+	# Si on travaille sur un nouveau livre
 	if($numLivre != $ligne[0]) {
+		# Premier élément, numéro du livre
+		$numLivre = shift(@ligne);
+
+		# Fermeture du précédant fichier de sortie
 		close(OUT);
-		print("> ../txt/".$ligne[0].".txt\n");
-		open(OUT, "> ../txt/".$ligne[0].".txt");
+		# Ouverture du fichier sortie correspondant au livre en cours
+		print("> ../txt/".$numLivre.".txt\n");
+		open(OUT, "> ../txt/".$numLivre.".txt");
+	} else {
+		# Premier élément, numéro du livre
+		$numLivre = shift(@ligne);
 	}
 
-	# Premier élément, numéro du livre
-	$numLivre = shift(@ligne);
 	# Deuxième élément, numéro du chapitre
 	$numChapitre = shift(@ligne);
 	# Troisième élément, numéro du verset
