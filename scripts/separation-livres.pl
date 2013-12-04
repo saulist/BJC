@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # Chemin fichier source
-$src = "../src/ostervald_1996.txt";
+$src = "../sources/ostervald_1996.txt";
 
 # Ouvrir fichier source
 open(SRC, $src);
@@ -14,15 +14,18 @@ while($ligne = <SRC>) {
 	if($numLivre != $ligne[0]) {
 		# Premier élément, numéro du livre
 		$numLivre = shift(@ligne);
+		$numLivre = $1 if($numLivre =~ /^(\d{2})/);
 
-		# Fermeture du précédant fichier de sortie
-		close(OUT);
-		# Ouverture du fichier sortie correspondant au livre en cours
+		# Fermeture des précédants fichiers de sortie
+		close(LIVRE);
+		close(COMMENTAIRES);
+		# Ouverture des fichiers sortie correspondants au livre en cours
 		print("> ../txt/".$numLivre.".txt\n");
-		open(OUT, "> ../txt/".$numLivre.".txt");
+		open(LIVRE, "> ../txt/".$numLivre.".txt");
+		open(COMMENTAIRES, "> ../txt/".$numLivre."-commentaires.txt");
 	} else {
-		# Premier élément, numéro du livre
-		$numLivre = shift(@ligne);
+		# Suppression premier élément
+		shift(@ligne);
 	}
 
 	# Deuxième élément, numéro du chapitre
@@ -33,10 +36,12 @@ while($ligne = <SRC>) {
 	$verset = join(' ', @ligne);
 
 	# Écriture de la ligne
-	print(OUT "${numChapitre}:${numVerset} ${verset}\n");
+	print(LIVRE "${numChapitre}:${numVerset} ${verset}\n");
+	print(COMMENTAIRES "#${numChapitre}:${numVerset}\n");
 }
 
 # Fermer fichier de sortie
-close(OUT);
+close(LIVRE);
+close(COMMENTAIRES);
 # Fermer fichier source
 close(SRC);
