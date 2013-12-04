@@ -24,7 +24,7 @@ while($ligne = <SRC>) {
 		close(COMMENTAIRES);
 		# Ouverture des fichiers sortie correspondants au livre en cours
 		print("> ../txt/".$numLivre."-".$livre{$numLivre}.".txt\n");
-		open(LIVRE, "> ../txt/".$numLivre.".txt");
+		open(LIVRE, "> ../txt/".$numLivre."-".$livre{$numLivre}.".txt");
 		open(COMMENTAIRES, "> ../txt/".$numLivre."-".$livre{$numLivre}."-commentaires.txt");
 	} else {
 		# Suppression premier élément
