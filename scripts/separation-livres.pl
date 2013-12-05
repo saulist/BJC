@@ -4,8 +4,8 @@
 require('var-livres.pl');
 
 # Chemin fichier source
-$src = "../sources/ostervald_1996.txt";
-#$src = "../sources/revision.txt";
+#$src = "../sources/ostervald_1996.txt";
+$src = "../sources/revision.txt";
 
 # Ouvrir fichier source
 open(SRC, $src);
