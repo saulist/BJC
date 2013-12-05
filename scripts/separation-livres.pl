@@ -5,6 +5,7 @@ require('var-livres.pl');
 
 # Chemin fichier source
 $src = "../sources/ostervald_1996.txt";
+#$src = "../sources/revision.txt";
 
 # Ouvrir fichier source
 open(SRC, $src);
@@ -21,11 +22,11 @@ while($ligne = <SRC>) {
 
 		# Fermeture des précédants fichiers de sortie
 		close(LIVRE);
-		close(COMMENTAIRES);
+		#close(COMMENTAIRES);
 		# Ouverture des fichiers sortie correspondants au livre en cours
 		print("> ../txt/".$numLivre."-".$livre{$numLivre}.".txt\n");
 		open(LIVRE, "> ../txt/".$numLivre."-".$livre{$numLivre}.".txt");
-		open(COMMENTAIRES, "> ../txt/".$numLivre."-".$livre{$numLivre}."-commentaires.txt");
+		#open(COMMENTAIRES, "> ../txt/".$numLivre."-".$livre{$numLivre}."-commentaires.txt");
 	} else {
 		# Suppression premier élément
 		shift(@ligne);
@@ -40,7 +41,7 @@ while($ligne = <SRC>) {
 
 	# Écriture de la ligne
 	print(LIVRE "${numChapitre}:${numVerset} ${verset}\n");
-	print(COMMENTAIRES "#${numChapitre}:${numVerset}\n");
+	#print(COMMENTAIRES "#${numChapitre}:${numVerset}\n");
 }
 
 # Fermer fichier de sortie
