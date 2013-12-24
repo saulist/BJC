@@ -26,7 +26,7 @@
 1:26 Mais il n'a convié ni moi, ton serviteur, ni le sacrificateur Tsadok, ni Bénaja, fils de Jéhojada, ni Salomon, ton serviteur.
 1:27 Ceci aurait-il été fait par le roi, mon seigneur, sans que tu eusses fait savoir à tes serviteurs qui doit s'asseoir sur le trône du roi, mon seigneur, après lui ?
 1:28 Alors le roi David répondit et dit : Appelez-moi Bath-Shéba ; et elle se présenta devant le roi et se tint devant lui.
-1:29 Alors le roi jura, et dit : L'Yahweh, qui a délivré mon âme de toute détresse, est vivant !
+1:29 Alors le roi jura, et dit : Yahweh, qui a délivré mon âme de toute détresse, est vivant !
 1:30 Comme je te l'ai juré par Yahweh, le Dieu d'Israël, en disant : Certainement ton fils Salomon régnera après moi et s'assiéra sur mon trône à ma place, ainsi ferai-je aujourd'hui.
 1:31 Et Bath-Shéba s'inclina le visage contre terre, et se prosterna devant le roi, et dit : Que le roi David, mon seigneur, vive à jamais !
 1:32 Puis le roi David dit : Appelez-moi Tsadok, le sacrificateur, et Nathan, le prophète, et Bénaja, fils de Jéhojada. Et ils se présentèrent devant le roi.
@@ -170,7 +170,7 @@
 5:9 Mes serviteurs les descendront du Liban à la mer ; puis je les ferai mettre sur la mer en radeaux, jusqu'au lieu que tu m'auras marqué, et je les ferai délivrer là ; tu les y prendras ; mais, de ton côté, tu me satisferas en fournissant de vivres ma maison.
 5:10 Hiram donc donna du bois de cèdre et du bois de cyprès à Salomon, autant qu'il en voulut.
 5:11 Et Salomon donnait à Hiram vingt mille cores de froment, pour la nourriture de sa maison, et vingt cores d'huile très pure. Salomon en donnait autant à Hiram chaque année.
-5:12 L'Yahweh donna donc de la sagesse à Salomon, comme il lui en avait parlé. Et il y eut paix entre Hiram et Salomon, et ils traitèrent alliance ensemble.
+5:12 Yahweh donna donc de la sagesse à Salomon, comme il lui en avait parlé. Et il y eut paix entre Hiram et Salomon, et ils traitèrent alliance ensemble.
 5:13 Et le roi Salomon leva des gens de corvée dans tout Israël ; et la corvée fut de trente mille hommes.
 5:14 Et il les envoyait au Liban tour à tour, dix mille chaque mois ; ils étaient un mois au Liban et deux mois chez eux ; et Adoniram était préposé à la corvée.
 5:15 Salomon eut aussi soixante et dix mille hommes qui portaient les fardeaux, et quatre-vingt mille qui taillaient dans la montagne ;
@@ -277,7 +277,7 @@
 8:9 Il n'y avait dans l'arche que les deux tables de pierre que Moïse y avait mises à Horeb, quand Yahweh  traita alliance avec les enfants d'Israël, à leur sortie du pays d'Égypte.
 8:10 Or il arriva, comme les sacrificateurs sortaient du lieu saint, que la nuée remplit la maison de Yahweh  ;
 8:11 Et les sacrificateurs ne purent s'y tenir pour faire le service, à cause de la nuée ; car la gloire de Yahweh  remplissait la maison de Yahweh.
-8:12 Alors Salomon dit : L'Yahweh a dit qu'il habiterait dans l'obscurité.
+8:12 Alors Salomon dit : Yahweh a dit qu'il habiterait dans l'obscurité.
 8:13 J'ai achevé de bâtir une maison pour ta demeure, un domicile afin que tu y habites à toujours !
 8:14 Et le roi, tournant son visage, bénit toute l'assemblée d'Israël ; et toute l'assemblée d'Israël se tenait debout.
 8:15 Et il dit : Béni soit Yahweh, le Dieu d'Israël, qui, de sa bouche, a parlé à David mon père, et qui, de sa main, a accompli ce qu'il avait promis, en disant :
@@ -285,7 +285,7 @@
 8:17 Or David, mon père, avait dessein de bâtir une maison au nom de Yahweh, le Dieu d'Israël.
 8:18 Mais Yahweh  dit à David mon père : Quand tu as eu le dessein de bâtir une maison à mon nom, tu as bien fait de former ce dessein.
 8:19 Néanmoins, tu ne bâtiras point cette maison ; mais ton fils, issu de tes reins, sera celui qui bâtira cette maison à mon nom.
-8:20 L'Yahweh a donc accompli la parole qu'il avait prononcée ; et j'ai succédé à David, mon père, et je me suis assis sur le trône d'Israël, comme l'avait dit Yahweh, et j'ai bâti cette maison au nom de Yahweh, le Dieu d'Israël.
+8:20 Yahweh a donc accompli la parole qu'il avait prononcée ; et j'ai succédé à David, mon père, et je me suis assis sur le trône d'Israël, comme l'avait dit Yahweh, et j'ai bâti cette maison au nom de Yahweh, le Dieu d'Israël.
 8:21 Et j'y ai établi un lieu pour l'arche, où est l'alliance de Yahweh, qu'il traita avec nos pères quand il les retira du pays d'Égypte.
 8:22 Ensuite Salomon se tint devant l'autel de Yahweh, en présence de toute l'assemblée d'Israël, et, étendant ses mains vers les cieux, il dit :
 8:23 O Yahweh, Dieu d'Israël, ni là-haut dans les cieux, ni en bas sur la terre, il n'y a de Dieu semblable à toi, qui gardes l'alliance et la miséricorde envers tes serviteurs qui marchent de tout leur coeur devant ta face ;
@@ -333,7 +333,7 @@
 8:65 Ainsi, en ce temps-là, Salomon célébra la fête, et avec lui tout Israël, venu en grande assemblée, depuis les environs de Hamath jusqu'au torrent d'Égypte, devant Yahweh  notre Dieu, pendant sept jours et sept autres jours, c'est-à-dire, quatorze jours.
 8:66 Le huitième jour il renvoya le peuple ; et ils bénirent le roi et s'en allèrent dans leurs demeures, joyeux et heureux de tout le bien que Yahweh  avait fait à David, son serviteur, et à Israël, son peuple.
 9:1 Après que Salomon eut achevé de bâtir la maison de Yahweh, et la maison royale, et tout ce que Salomon prit plaisir à faire,
-9:2 L'Yahweh apparut à Salomon pour la seconde fois, comme il lui était apparu à Gabaon.
+9:2 Yahweh apparut à Salomon pour la seconde fois, comme il lui était apparu à Gabaon.
 9:3 Et Yahweh  lui dit : J'ai exaucé ta prière et la supplication que tu m'as présentée ; j'ai sanctifié cette maison que tu as bâtie, pour y mettre mon nom à jamais ; et mes yeux et mon coeur seront toujours là.
 9:4 Pour toi, si tu marches devant moi, comme David, ton père, a marché, avec intégrité de coeur et droiture, en faisant tout ce que je t'ai commandé, et si tu gardes mes statuts et mes ordonnances,
 9:5 Alors j'affermirai le trône de ton royaume sur Israël à jamais, comme j'en ai parlé à David, ton père, en disant : Il ne te manquera point de successeur sur le trône d'Israël.
@@ -402,7 +402,7 @@
 11:11 Et Yahweh  dit à Salomon : Puisque tu as agi ainsi, et que tu n'as pas gardé mon alliance et mes ordonnances que je t'avais données, je t'arracherai certainement le royaume et je le donnerai à ton serviteur.
 11:12 Seulement, pour l'amour de David, ton père, je ne le ferai point pendant ta vie ; c'est des mains de ton fils que je l'arracherai.
 11:13 Toutefois je n'arracherai pas tout le royaume ; j'en donnerai une tribu à ton fils pour l'amour de David, mon serviteur, et pour l'amour de Jérusalem que j'ai choisie.
-11:14 L'Yahweh suscita donc un ennemi à Salomon : Hadad, Iduméen, qui était de la race royale d'Édom.
+11:14 Yahweh suscita donc un ennemi à Salomon : Hadad, Iduméen, qui était de la race royale d'Édom.
 11:15 Dans le temps que David était en Édom, lorsque Joab, chef de l'armée, monta pour ensevelir ceux qui avaient été tués, il tua tous les mâles d'Édom.
 11:16 Car Joab demeura là six mois avec tout Israël, jusqu'à ce qu'il eût exterminé tous les mâles d'Édom.
 11:17 Alors Hadad s'enfuit avec quelques Iduméens des serviteurs de son père, pour se retirer en Égypte. Or, Hadad était fort jeune.
@@ -490,7 +490,7 @@
 13:23 Après qu'il eut mangé du pain et qu'il eut bu, il fit seller l'âne pour le prophète qu'il avait ramené.
 13:24 Et celui-ci s'en alla, et un lion le trouva dans le chemin et le tua ; et son corps était étendu dans le chemin, et l'âne se tenait auprès du corps ; le lion aussi se tenait auprès du corps.
 13:25 Et voici, quelques passants virent le corps étendu dans le chemin, et le lion qui se tenait auprès du corps ; et ils vinrent le dire dans la ville où demeurait le vieux prophète.
-13:26 Quand le prophète qui avait ramené du chemin l'homme de Dieu, l'eut appris, il dit : C'est l'homme de Dieu qui a été rebelle à l'ordre de Yahweh. L'Yahweh l'a livré au lion, qui l'a déchiré et l'a tué, selon la parole que Yahweh  lui avait dite.
+13:26 Quand le prophète qui avait ramené du chemin l'homme de Dieu, l'eut appris, il dit : C'est l'homme de Dieu qui a été rebelle à l'ordre de Yahweh. Yahweh l'a livré au lion, qui l'a déchiré et l'a tué, selon la parole que Yahweh  lui avait dite.
 13:27 Et il dit a ses fils : Sellez-moi l'âne ; et ils le sellèrent.
 13:28 Et il alla, et trouva son corps gisant dans le chemin, et l'âne et le lion qui se tenaient auprès du corps ; le lion n'avait pas dévoré le corps et n'avait pas déchiré l'âne.
 13:29 Et le prophète releva le corps de l'homme de Dieu, et le mit sur l'âne, et le ramena. Et ce vieux prophète revint dans la ville pour en faire le deuil et l'ensevelir.
@@ -598,7 +598,7 @@
 16:32 Et il dressa un autel à Baal dans la maison de Baal, qu'il bâtit à Samarie.
 16:33 Et Achab fit aussi une idole d'Ashéra. Et Achab fit plus encore que tous les rois d'Israël qui avaient été avant lui, pour irriter Yahweh, le Dieu d'Israël.
 16:34 De son temps, Hiel de Béthel bâtit Jérico. Il la fonda sur Abiram, son aîné, et il en posa les portes sur Ségub, son dernier-né, selon la parole que Yahweh  avait prononcée par Josué, fils de Nun.
-17:1 Alors Élie, le Thishbite, l'un de ceux qui s'étaient établis en Galaad, dit à Achab : L'Yahweh, le Dieu d'Israël, en la présence de qui je me tiens, est vivant ! pendant ces années-ci, il n'y aura ni rosée ni pluie, sinon à ma parole.
+17:1 Alors Élie, le Thishbite, l'un de ceux qui s'étaient établis en Galaad, dit à Achab : Yahweh, le Dieu d'Israël, en la présence de qui je me tiens, est vivant ! pendant ces années-ci, il n'y aura ni rosée ni pluie, sinon à ma parole.
 17:2 Et la parole de Yahweh  lui fut adressée en ces termes :
 17:3 Va-t'en d'ici, tourne-toi vers l'Orient, et cache-toi au torrent de Kérith, qui est en face du Jourdain.
 17:4 Tu boiras au torrent, et j'ai commandé aux corbeaux de t'y nourrir.
@@ -609,7 +609,7 @@
 17:9 Lève-toi, va-t'en à Sarepta, qui appartient à Sidon, et demeure là. Voici, j'ai commandé là à une femme veuve de te nourrir.
 17:10 Il se leva donc et s'en alla à Sarepta ; et, comme il arrivait à la porte de la ville, voici, il y avait là une femme veuve qui ramassait du bois ; il l'appela et lui dit : Je te prie, prends-moi un peu d'eau dans un vase, et que je boive.
 17:11 Et elle s'en alla pour en prendre ; mais il la rappela et lui dit : Je te prie, prends en ta main une bouchée de pain pour moi.
-17:12 Mais elle répondit : L'Yahweh ton Dieu est vivant ! je n'ai pas une galette ; je n'ai qu'une poignée de farine dans une cruche, et un peu d'huile dans une fiole ; et voici, je ramasse deux bûches, puis je rentrerai et j'apprêterai cela pour moi et pour mon fils ; nous le mangerons, et après nous mourrons.
+17:12 Mais elle répondit : Yahweh ton Dieu est vivant ! je n'ai pas une galette ; je n'ai qu'une poignée de farine dans une cruche, et un peu d'huile dans une fiole ; et voici, je ramasse deux bûches, puis je rentrerai et j'apprêterai cela pour moi et pour mon fils ; nous le mangerons, et après nous mourrons.
 17:13 Et Élie lui dit : Ne crains point, rentre, fais comme tu l'as dit ; toutefois fais-m'en premièrement une petite galette ; tu me l'apporteras dehors, et après tu en feras pour toi et pour ton fils.
 17:14 Car ainsi a dit Yahweh, le Dieu d'Israël : La farine qui est dans la cruche ne manquera point, et l'huile qui est dans la fiole ne finira point, jusqu'au jour où Yahweh  enverra de la pluie sur la terre.
 17:15 Elle s'en alla donc, et fit comme Élie avait dit ; et elle en mangea, elle et sa famille, ainsi que lui, pendant longtemps.
@@ -631,12 +631,12 @@
 18:7 Et comme Abdias était en chemin, voici Élie le rencontra ; et Abdias le reconnut, et il tomba sur son visage, et dit : Est-ce toi, mon seigneur Élie ?
 18:8 Et il dit : C'est moi ; va, dis à ton maître : Voici Élie !
 18:9 Et Abdias dit : Quel péché ai-je commis que tu livres ton serviteur entre les mains d'Achab, pour me faire mourir ?
-18:10 L'Yahweh ton Dieu est vivant ! il n'y a point de nation, ni de royaume, où mon maître n'ait envoyé pour te chercher ; et comme l'on répondait : Il n'y est point, il faisait jurer le royaume et la nation, qu'on ne pouvait te trouver.
+18:10 Yahweh ton Dieu est vivant ! il n'y a point de nation, ni de royaume, où mon maître n'ait envoyé pour te chercher ; et comme l'on répondait : Il n'y est point, il faisait jurer le royaume et la nation, qu'on ne pouvait te trouver.
 18:11 Et maintenant tu dis : Va, dis à ton maître : Voici Élie !
 18:12 Et il arrivera, quand je serai parti d'avec toi, que l'Esprit de Yahweh  te transportera où je ne saurai point ; et j'irai faire mon rapport à Achab ; et, ne te trouvant point, il me tuera. Or ton serviteur craint Yahweh  dès sa jeunesse.
 18:13 N'a-t-on pas dit à mon seigneur ce que je fis quand Jésabel tuait les prophètes de Yahweh, comment j'en cachai cent, cinquante dans une caverne et cinquante dans une autre, et les y nourris de pain et d'eau ?
 18:14 Et maintenant, tu dis : Va, dis à ton maître : Voici Élie ! Mais il me tuera !
-18:15 Mais Élie lui répondit : L'Yahweh des armées, devant qui je me tiens, est vivant ! certainement je me montrerai aujourd'hui à Achab.
+18:15 Mais Élie lui répondit : Yahweh des armées, devant qui je me tiens, est vivant ! certainement je me montrerai aujourd'hui à Achab.
 18:16 Abdias s'en alla donc à la rencontre d'Achab et lui fit son rapport ; et Achab vint au-devant d'Élie.
 18:17 Et aussitôt qu'Achab eut vu Élie, il lui dit : Est-ce toi, perturbateur d'Israël ?
 18:18 Mais il répondit : Je n'ai point troublé Israël ; mais c'est toi et la maison de ton père, en ce que vous avez abandonné les commandements de Yahweh, et que tu es allé après les Baals.
@@ -716,7 +716,7 @@
 20:25 Puis lève une armée semblable à celle que tu as perdue, et autant de chevaux et autant de chars ; et nous combattrons contre eux dans la plaine, et l'on verra si nous ne serons pas plus forts qu'eux. Et il écouta leur avis et fit ainsi.
 20:26 Ainsi, un an après, Ben-Hadad passa les Syriens en revue, et monta à Aphek pour combattre contre Israël.
 20:27 Et les enfants d'Israël furent aussi passés en revue et fournis de vivres ; et ils marchèrent à leur rencontre. Les enfants d'Israël campèrent vis-à-vis d'eux, comme deux petits troupeaux de chèvres ; mais les Syriens remplissaient le pays.
-20:28 Alors l'homme de Dieu s'approcha, et parla au roi d'Israël en ces termes : Ainsi a dit Yahweh  : Parce que les Syriens ont dit : L'Yahweh est un dieu de montagnes et non un dieu de vallées, je livrerai entre tes mains toute cette grande multitude, et vous saurez que je suis Yahweh.
+20:28 Alors l'homme de Dieu s'approcha, et parla au roi d'Israël en ces termes : Ainsi a dit Yahweh  : Parce que les Syriens ont dit : Yahweh est un dieu de montagnes et non un dieu de vallées, je livrerai entre tes mains toute cette grande multitude, et vous saurez que je suis Yahweh.
 20:29 Sept jours durant, ils demeurèrent campés les uns vis-à-vis des autres. Mais au septième jour ils en vinrent aux mains ; et les enfants d'Israël frappèrent en un jour cent mille hommes de pied des Syriens ;
 20:30 Et le reste s'enfuit dans la ville d'Aphek, où la muraille tomba sur vingt-sept mille hommes qui étaient demeurés de reste. Ben-Hadad aussi s'enfuit, et entra dans la ville, où il se cacha de chambre en chambre.
 20:31 Et ses serviteurs lui dirent : Voici, maintenant nous avons appris que les rois de la maison d'Israël sont des rois cléments ; laisse-nous donc mettre des sacs sur nos reins et des cordes à nos têtes, et sortir vers le roi d'Israël ; peut-être t'accordera-t-il la vie.
@@ -754,7 +754,7 @@
 21:20 Et Achab dit à Élie : M'as-tu trouvé, mon ennemi ? Et il lui répondit : Je t'ai trouvé ; parce que tu t'es vendu pour faire ce qui déplaît à Yahweh.
 21:21 Voici, je vais faire venir le malheur sur toi, et je te balayerai, et je retrancherai à Achab jusqu'à un seul homme, et ce qui est serré et ce qui est abandonné en Israël ;
 21:22 Et je rendrai ta maison semblable à la maison de Jéroboam, fils de Nébat, et à la maison de Baesha, fils d'Achija ; à cause des péchés par lesquels tu m'as provoqué et as fait pécher Israël.
-21:23 L'Yahweh parla aussi contre Jésabel, en disant : Les chiens mangeront Jésabel près du rempart de Jizréel.
+21:23 Yahweh parla aussi contre Jésabel, en disant : Les chiens mangeront Jésabel près du rempart de Jizréel.
 21:24 Celui qui mourra à Achab dans la ville, les chiens le mangeront ; et celui qui mourra aux champs, sera mangé par les oiseaux des cieux.
 21:25 En effet, il n'y avait eu personne comme Achab, qui se fût vendu pour faire ce qui est mauvais aux yeux de Yahweh, selon que l'y incitait sa femme Jésabel ;
 21:26 De sorte qu'il se rendit fort abominable, allant après les idoles, comme avaient fait les Amoréens que Yahweh  avait chassés devant les enfants d'Israël.
@@ -774,7 +774,7 @@
 22:11 Alors Tsidkija, fils de Kénaana, s'étant fait des cornes de fer, dit : Ainsi a dit Yahweh  : Avec ces cornes tu heurteras les Syriens jusqu'à les détruire.
 22:12 Et tous les prophètes prophétisaient de même, disant : Monte à Ramoth de Galaad, et tu réussiras ; et Yahweh  la livrera entre les mains du roi.
 22:13 Or le messager qui était allé appeler Michée, lui parla et lui dit : Voici, maintenant les prophètes prédisent tous d'une voix du bien au roi ; je te prie, que ta parole soit semblable à celle de chacun d'eux, et annonce du bien.
-22:14 Mais Michée dit : L'Yahweh est vivant, je dirai ce que Yahweh  me dira.
+22:14 Mais Michée dit : Yahweh est vivant, je dirai ce que Yahweh  me dira.
 22:15 Il vint donc vers le roi, et le roi lui dit : Michée, irons-nous à la guerre contre Ramoth de Galaad, ou y renoncerons-nous ? Et il lui dit : Monte ; et tu réussiras ; et Yahweh  la livrera entre les mains du roi.
 22:16 Et le roi lui dit : Combien de fois t'adjurerai-je de ne me dire que la vérité au nom de Yahweh  ?
 22:17 Et il répondit : J'ai vu tout Israël dispersé par les montagnes, comme un troupeau de brebis qui n'a point de pasteur ; et Yahweh  a dit : Ces gens n'ont point de seigneur ; que chacun retourne en paix dans sa maison !

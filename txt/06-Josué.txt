@@ -10,7 +10,7 @@
 1:10 Alors Josué donna des ordres aux officiers du peuple, et dit :
 1:11 Passez au milieu du camp, et commandez au peuple, en disant : Préparez-vous des provisions ; car dans trois jours vous passerez ce Jourdain, pour aller posséder le pays que Yahweh  votre Dieu vous donne afin que vous le possédiez.
 1:12 Josué parla aussi aux Rubénites, aux Gadites, et à la moitié de la tribu de Manassé, et leur dit :
-1:13 Souvenez-vous de ce que vous a commandé Moïse, serviteur de Yahweh, en disant : L'Yahweh votre Dieu vous a accordé du repos, et vous a donné ce pays ;
+1:13 Souvenez-vous de ce que vous a commandé Moïse, serviteur de Yahweh, en disant : Yahweh votre Dieu vous a accordé du repos, et vous a donné ce pays ;
 1:14 Vos femmes, vos petits enfants et votre bétail demeureront au pays que Moïse vous a donné, de l'autre côté du Jourdain ; mais vous, vous passerez en armes devant vos frères, tous les hommes forts et vaillants, et vous les aiderez,
 1:15 Jusqu'à ce que Yahweh  ait donné du repos à vos frères comme à vous, et qu'eux aussi possèdent le pays que Yahweh  votre Dieu leur donne. Puis vous retournerez au pays de votre possession, et vous le posséderez, celui que Moïse, serviteur de Yahweh, vous a donné, de l'autre côté du Jourdain, vers le soleil levant.
 1:16 Et ils répondirent à Josué, en disant : Nous ferons tout ce que tu nous as commandé, et nous irons partout où tu nous enverras ;
@@ -89,7 +89,7 @@
 5:6 Car les enfants d'Israël avaient marché dans le désert pendant quarante ans, jusqu'à ce que toute la nation des gens de guerre, qui étaient sortis d'Égypte et qui n'avaient point obéi à la voix de Yahweh, eût été consumée ; parce que Yahweh  leur avait juré qu'il ne leur laisserait point voir le pays que Yahweh  avait fait serment à leurs pères de nous donner, pays où coulent le lait et le miel ;
 5:7 Et il avait suscité leurs enfants à leur place. Ce sont eux que Josué circoncit, parce qu'ils étaient incirconcis ; car on ne les avait pas circoncis en chemin.
 5:8 Et lorsqu'on eut achevé de circoncire tout le peuple, ils restèrent à leur place dans le camp, jusqu'à ce qu'ils fussent guéris.
-5:9 L'Yahweh dit alors à Josué : Aujourd'hui j'ai roulé de dessus vous l'opprobre de l'Égypte. Et on nomma ce lieu Guilgal (ce qui roule), jusqu'à ce jour.
+5:9 Yahweh dit alors à Josué : Aujourd'hui j'ai roulé de dessus vous l'opprobre de l'Égypte. Et on nomma ce lieu Guilgal (ce qui roule), jusqu'à ce jour.
 5:10 Et les enfants d'Israël campèrent à Guilgal, et ils célébrèrent la Pâque le quatorzième jour du mois, sur le soir, dans les campagnes de Jérico.
 5:11 Et ils mangèrent du blé du pays, le lendemain de la Pâque, des pains sans levain et du grain rôti en ce même jour.
 5:12 Et la manne cessa le lendemain, quand ils mangèrent du blé du pays ; et les enfants d'Israël n'eurent plus de manne, mais ils mangèrent, cette année-là, des produits de la terre de Canaan.
@@ -147,9 +147,9 @@
 7:22 Alors Josué envoya des messagers qui coururent à la tente ; et voici, le manteau était caché dans sa tente, et l'argent était dessous.
 7:23 Ils les prirent donc du milieu de la tente, et les apportèrent à Josué et à tous les enfants d'Israël, et les déposèrent devant Yahweh.
 7:24 Alors Josué, et tout Israël avec lui, prirent Acan, fils de Zérach, l'argent, le manteau, le lingot d'or, ses fils et ses filles, ses boeufs, ses ânes, ses brebis, sa tente, et tout ce qui était à lui ; et ils les firent monter dans la vallée d'Acor.
-7:25 Et Josué dit : Pourquoi nous as-tu troublés ? L'Yahweh te troublera aujourd'hui. Et tous les Israélites l'assommèrent de pierres. Ils les brûlèrent au feu, et ils les lapidèrent.
+7:25 Et Josué dit : Pourquoi nous as-tu troublés ? Yahweh te troublera aujourd'hui. Et tous les Israélites l'assommèrent de pierres. Ils les brûlèrent au feu, et ils les lapidèrent.
 7:26 Et ils élevèrent sur lui un grand monceau de pierres, qui a subsisté jusqu'à ce jour. Et Yahweh  revint de l'ardeur de sa colère. C'est pourquoi on a nommé ce lieu-là, la vallée d'Acor (du trouble), jusqu'à aujourd'hui.
-8:1 L'Yahweh dit ensuite à Josué : Ne crains point et ne t'effraie point ; prends avec toi tous les gens de guerre, et lève-toi, monte à Aï. Regarde, j'ai livré entre tes mains le roi d'Aï, son peuple, sa ville et son pays.
+8:1 Yahweh dit ensuite à Josué : Ne crains point et ne t'effraie point ; prends avec toi tous les gens de guerre, et lève-toi, monte à Aï. Regarde, j'ai livré entre tes mains le roi d'Aï, son peuple, sa ville et son pays.
 8:2 Tu feras à Aï et à son roi, comme tu as fait à Jérico et à son roi ; seulement vous en pillerez pour vous le butin et le bétail. Dresse une embuscade à la ville, par derrière.
 8:3 Josué se leva donc, avec tout le peuple propre à la guerre, pour monter à Aï ; et Josué choisit trente mille hommes forts et vaillants, et il les envoya de nuit.
 8:4 Et il leur commanda, en disant : Voyez, vous serez en embuscade derrière la ville ; ne vous éloignez pas beaucoup de la ville, et soyez tous prêts.
@@ -425,7 +425,7 @@
 17:1 On jeta aussi le sort pour la tribu de Manassé, car il était le premier-né de Joseph. Quant à Makir, premier-né de Manassé et père de Galaad, comme c'était un homme de guerre, il avait eu Galaad et Bassan.
 17:2 On jeta donc le sort pour les autres enfants de Manassé, selon leurs familles : pour les enfants d'Abiézer, pour les enfants de Hélek, pour les enfants d'Asriel, pour les enfants de Sichem, pour les enfants de Hépher, et pour les enfants de Shemida. Ce sont les enfants mâles de Manassé, fils de Joseph, selon leurs familles.
 17:3 Or, Tsélophcad, fils de Hépher, fils de Galaad, fils de Makir, fils de Manassé, n'eut point de fils, mais il n'eut que des filles, dont voici les noms : Machla, Noa, Hogla, Milca, et Thirtsa.
-17:4 Elles se présentèrent devant Éléazar le sacrificateur, et devant Josué, fils de Nun, et devant les princes, en disant : L'Yahweh a commandé à Moïse qu'on nous donnât un héritage parmi nos frères. Et on leur donna, selon le commandement de Yahweh, un héritage parmi les frères de leur père.
+17:4 Elles se présentèrent devant Éléazar le sacrificateur, et devant Josué, fils de Nun, et devant les princes, en disant : Yahweh a commandé à Moïse qu'on nous donnât un héritage parmi nos frères. Et on leur donna, selon le commandement de Yahweh, un héritage parmi les frères de leur père.
 17:5 Dix portions échurent donc à Manassé, outre les pays de Galaad et de Bassan, qui sont au delà du Jourdain ;
 17:6 Car les filles de Manassé eurent un héritage parmi ses enfants ; et le pays de Galaad fut pour les autres enfants de Manassé.
 17:7 Or la frontière de Manassé fut d'Asser à Micmethath, qui est en face de Sichem ; puis la frontière allait à Jamin vers les habitants d'En-Thappuach.
@@ -529,7 +529,7 @@
 20:8 Et au delà du Jourdain de Jérico, au levant, ils établirent, dans la tribu de Ruben, Betser au désert, dans la plaine ; Ramoth en Galaad, dans la tribu de Gad ; et Golan en Bassan, dans la tribu de Manassé.
 20:9 Telles furent les villes assignées à tous les enfants d'Israël et à l'étranger séjournant parmi eux, afin que quiconque aurait tué quelqu'un par mégarde pût s'y enfuir, et ne mourût point par la main du vengeur du sang, jusqu'à ce qu'il comparût devant l'assemblée.
 21:1 Or, les chefs de famille des Lévites s'approchèrent d'Éléazar, le sacrificateur, et de Josué, fils de Nun, et des chefs de famille des tribus des enfants d'Israël ;
-21:2 Et ils leur parlèrent à Silo, dans le pays de Canaan, et leur dirent : L'Yahweh a commandé par l'organe de Moïse qu'on nous donnât des villes pour y habiter, et leurs banlieues pour notre bétail.
+21:2 Et ils leur parlèrent à Silo, dans le pays de Canaan, et leur dirent : Yahweh a commandé par l'organe de Moïse qu'on nous donnât des villes pour y habiter, et leurs banlieues pour notre bétail.
 21:3 Et les enfants d'Israël donnèrent de leur héritage aux Lévites, selon le commandement de Yahweh, ces villes-ci avec leurs banlieues.
 21:4 Le sort échut aux familles des Kéhathites ; et les enfants d'Aaron, le sacrificateur, d'entre les Lévites, obtinrent par le sort treize villes, de la tribu de Juda, de la tribu de Siméon et de la tribu de Benjamin.
 21:5 Et les autres enfants de Kéhath obtinrent par le sort dix villes des familles de la tribu d'Éphraïm, de la tribu de Dan, et de la demi-tribu de Manassé.
@@ -570,7 +570,7 @@
 21:40 Total des villes données aux enfants de Mérari, selon leurs familles, qui étaient le reste des familles des Lévites : leur lot fut de douze villes.
 21:41 Total des villes des Lévites au milieu des possessions des enfants d'Israël : quarante-huit villes et leurs banlieues.
 21:42 Chacune de ces villes avait sa banlieue autour d'elle, il en était ainsi de toutes ces villes.
-21:43 L'Yahweh donna donc à Israël tout le pays qu'il avait juré de donner à leurs pères. Ils le possédèrent, et y habitèrent.
+21:43 Yahweh donna donc à Israël tout le pays qu'il avait juré de donner à leurs pères. Ils le possédèrent, et y habitèrent.
 21:44 Et Yahweh  leur donna du repos de tous côtés, selon tout ce qu'il avait juré à leurs pères ; et il n'y eut aucun de tous leurs ennemis qui subsistât devant eux ; Yahweh  livra tous leurs ennemis entre leurs mains.
 21:45 Il ne tomba pas un seul mot de toutes les bonnes paroles que Yahweh  avait dites à la maison d'Israël ; toutes s'accomplirent.
 22:1 Alors Josué appela les Rubénites, les Gadites, et la demi-tribu de Manassé,
@@ -597,7 +597,7 @@
 22:22 Dieu, Dieu, Yahweh, Dieu, Dieu, Yahweh, le sait, et Israël le saura ! Si c'est par rébellion, si c'est par un forfait contre Yahweh, ne nous viens point en aide en ce jour !
 22:23 Si nous nous sommes bâti un autel pour nous détourner de Yahweh, si c'est pour y offrir des holocaustes et des oblations, et si c'est pour y faire des sacrifices de prospérité, que Yahweh  lui-même en redemande compte,
 22:24 Si nous ne l'avons fait, au contraire, parce que nous avons craint ceci, que vos enfants ne disent demain à nos enfants : Qu'avez-vous de commun avec Yahweh, le Dieu d'Israël ?
-22:25 L'Yahweh a mis le Jourdain pour limite entre nous et vous, enfants de Ruben et enfants de Gad ; vous n'avez point de part à Yahweh  ! Et ainsi vos enfants feraient que nos enfants cesseraient de craindre Yahweh.
+22:25 Yahweh a mis le Jourdain pour limite entre nous et vous, enfants de Ruben et enfants de Gad ; vous n'avez point de part à Yahweh  ! Et ainsi vos enfants feraient que nos enfants cesseraient de craindre Yahweh.
 22:26 C'est pourquoi, nous avons dit : Bâtissons-nous un autel, non pour des holocaustes ni pour des sacrifices,
 22:27 Mais comme un témoin entre nous et vous, et entre nos descendants après nous, que nous pratiquons le culte de Yahweh  devant sa face, par nos holocaustes, nos sacrifices d'expiation et nos sacrifices de prospérité, afin que vos enfants ne disent pas dans l'avenir à nos enfants : Vous n'avez point de part à Yahweh  !
 22:28 Et nous avons dit : Lorsqu'ils nous tiendront ce discours, ou à nos descendants dans l'avenir, nous dirons : Voyez la forme de l'autel de Yahweh, que nos pères ont fait non pour des holocaustes ni pour des sacrifices, mais afin qu'il soit témoin entre nous et vous.

@@ -3,11 +3,11 @@
 1:3 Or, en la quarantième année, au premier jour du onzième mois, Moïse dit aux enfants d'Israël tout ce que Yahweh  lui avait commandé de leur dire ;
 1:4 Après qu'il eut défait Sihon, roi des Amoréens, qui habitait à Hesbon, et Og, roi de Bassan, qui habitait à Ashtaroth et à Édréi.
 1:5 Moïse commença à expliquer cette loi, au delà du Jourdain, dans le pays de Moab, en disant :
-1:6 L'Yahweh notre Dieu nous parla en Horeb, et nous dit : Vous avez assez demeuré dans cette montagne ;
+1:6 Yahweh notre Dieu nous parla en Horeb, et nous dit : Vous avez assez demeuré dans cette montagne ;
 1:7 Tournez-vous et partez, et allez vers la montagne des Amoréens, et dans tous les lieux circonvoisins, dans la campagne, dans la montagne, et dans la plaine, et vers le Midi, et sur la côte de la mer, au pays des Cananéens, et au Liban, jusqu'au grand fleuve, le fleuve d'Euphrate.
 1:8 Voyez, j'ai mis devant vous le pays ; entrez et possédez le pays que Yahweh  a juré de donner à vos pères, Abraham, Isaac et Jacob, et à leur postérité après eux.
 1:9 Et je vous parlai en ce temps là, et je vous dis : Je ne puis vous porter, moi seul.
-1:10 L'Yahweh votre Dieu vous a multipliés, et vous voici, aujourd'hui, nombreux comme les étoiles du ciel.
+1:10 Yahweh votre Dieu vous a multipliés, et vous voici, aujourd'hui, nombreux comme les étoiles du ciel.
 1:11 Que Yahweh, le Dieu de vos pères, vous fasse croître encore mille fois autant, et qu'il vous bénisse comme il vous l'a dit.
 1:12 Comment porterais-je moi seul vos peines, vos fardeaux et vos procès ?
 1:13 Prenez dans vos tribus des hommes sages, intelligents et connus, et je les établirai chefs sur vous.
@@ -27,14 +27,14 @@
 1:27 Et vous murmurâtes dans vos tentes, et vous dîtes : C'est parce que Yahweh  nous haïssait, qu'il nous a fait sortir du pays d'Égypte, pour nous livrer entre les mains des Amoréens, pour nous exterminer.
 1:28 Où monterions-nous ? Nos frères nous ont fait fondre le coeur, en nous disant : C'est un peuple plus grand et de plus haute taille que nous, ce sont des villes grandes et fortifiées jusqu'au ciel, et même nous avons vu là des descendants des Anakim.
 1:29 Mais je vous dis : N'ayez point peur, et ne les craignez point.
-1:30 L'Yahweh votre Dieu, qui marche devant vous, combattra lui-même pour vous, selon tout ce qu'il a fait pour vous, sous vos yeux, en Égypte,
+1:30 Yahweh votre Dieu, qui marche devant vous, combattra lui-même pour vous, selon tout ce qu'il a fait pour vous, sous vos yeux, en Égypte,
 1:31 Et dans le désert ; où tu as vu que Yahweh  ton Dieu t'a porté, comme un homme porte son fils, dans tout le chemin que vous avez fait, jusqu'à ce que vous soyez arrivés en ce lieu.
 1:32 Mais malgré cela vous n'eûtes point foi en Yahweh  votre Dieu,
 1:33 Qui marchait devant vous par le chemin afin de chercher un lieu pour votre camp, la nuit dans la colonne de feu, pour vous montrer le chemin où vous deviez marcher, et le jour, dans la nuée.
 1:34 Alors Yahweh  entendit la voix de vos paroles, et se courrouça, et jura, en disant :
 1:35 Aucun des hommes de cette méchante génération ne verra ce bon pays que j'ai juré de donner à vos pères,
 1:36 Excepté Caleb, fils de Jephunné. Lui, il le verra ; et je lui donnerai, à lui et à ses enfants, le pays sur lequel il a marché, parce qu'il a pleinement suivi Yahweh.
-1:37 L'Yahweh se mit même en colère contre moi à cause de vous, en disant : Toi non plus, tu n'y entreras pas.
+1:37 Yahweh se mit même en colère contre moi à cause de vous, en disant : Toi non plus, tu n'y entreras pas.
 1:38 Josué, fils de Nun, qui te sert, y entrera ; encourage-le, car c'est lui qui mettra Israël en possession de ce pays ;
 1:39 Et vos petits enfants, dont vous avez dit qu'ils y seraient une proie, et vos fils, qui aujourd'hui ne savent ce que c'est que le bien ou le mal, ce sont eux qui y entreront, et je leur donnerai ce pays, et ils le posséderont ;
 1:40 Mais vous, retournez-vous-en, et partez pour le désert dans la direction de la mer Rouge.
@@ -60,7 +60,7 @@
 2:14 Or, le temps que nous avons marché, depuis Kadès-Barnéa jusqu'au passage du torrent de Zéred, a été de trente-huit ans, jusqu'à ce que toute la génération des gens de guerre ait été consumée du milieu du camp, comme Yahweh  le leur avait juré.
 2:15 Et même la main de Yahweh  a été sur eux pour les détruire du milieu du camp, jusqu'à ce qu'ils aient été consumés.
 2:16 Et, lorsque tous les hommes de guerre eurent été consumés et furent morts du milieu du peuple,
-2:17 L'Yahweh me parla, en disant :
+2:17 Yahweh me parla, en disant :
 2:18 Tu vas aujourd'hui passer Ar, la frontière de Moab ;
 2:19 Et tu t'approcheras vis-à-vis des enfants d'Ammon ; ne les attaque point, et n'aie point de démêlé avec eux ; car je ne te donnerai rien du pays des enfants d'Ammon en héritage, parce que je l'ai donné en héritage aux descendants de Lot.
 2:20 (Ce pays aussi était réputé pays de Rephaïm ; les Rephaïm y habitaient auparavant, et les Ammonites les appelaient Zamzummim ;
@@ -98,7 +98,7 @@
 3:15 Je donnai aussi Galaad à Makir.
 3:16 Mais je donnai aux Rubénites et aux Gadites, depuis Galaad jusqu'au torrent de l'Arnon, jusqu'au milieu du torrent, et son territoire, et jusqu'au torrent de Jabbok, frontière des enfants d'Ammon ;
 3:17 Et la campagne, et le Jourdain, et son territoire, depuis Kinnéreth jusqu'à la mer de la campagne, la mer Salée, sous les pentes du Pisga, vers l'orient.
-3:18 Or, en ce temps-là, je vous fis ce commandement, et vous dis : L'Yahweh votre Dieu vous a donné ce pays pour le posséder ; vous tous, hommes vaillants, passez en armes devant vos frères les enfants d'Israël.
+3:18 Or, en ce temps-là, je vous fis ce commandement, et vous dis : Yahweh votre Dieu vous a donné ce pays pour le posséder ; vous tous, hommes vaillants, passez en armes devant vos frères les enfants d'Israël.
 3:19 Que seulement vos femmes, vos petits enfants et votre bétail (je sais que vous en avez beaucoup), demeurent dans les villes que je vous ai données,
 3:20 Jusqu'à ce que Yahweh  ait mis vos frères en repos comme vous, et qu'eux aussi possèdent le pays que Yahweh  votre Dieu va leur donner au delà du Jourdain ; et vous reviendrez chacun dans la possession que je vous ai donnée.
 3:21 En ce temps-là je donnai aussi cet ordre à Josué, en disant : Tes yeux ont vu tout ce que Yahweh  votre Dieu a fait à ces deux rois ; Yahweh  fera de même à tous les royaumes où tu vas passer.
@@ -123,7 +123,7 @@
 4:11 Vous vous approchâtes donc, et vous vous tîntes sous la montagne (or, la montagne était tout en feu, jusqu'au milieu du ciel ; et il y avait des ténèbres, des nuées, et de l'obscurité) ;
 4:12 Et Yahweh  vous parla du milieu du feu ; vous entendiez une voix qui parlait, mais vous ne voyiez aucune figure ; vous entendiez seulement une voix.
 4:13 Et il vous fit entendre son alliance, qu'il vous commanda d'observer, les dix paroles ; et il les écrivit sur deux tables de pierre.
-4:14 L'Yahweh me commanda aussi, en ce temps-là, de vous enseigner des statuts et des ordonnances, pour que vous les pratiquiez au pays où vous allez passer pour le posséder.
+4:14 Yahweh me commanda aussi, en ce temps-là, de vous enseigner des statuts et des ordonnances, pour que vous les pratiquiez au pays où vous allez passer pour le posséder.
 4:15 Vous prendrez donc bien garde à vos âmes, car vous ne vîtes aucune figure au jour où Yahweh  votre Dieu vous parla, en Horeb, du milieu du feu ;
 4:16 De peur que vous ne vous corrompiez, et que vous ne vous fassiez quelque image taillée, quelque ressemblance qui représente quoi que ce soit, quelque figure de mâle ou de femelle,
 4:17 La figure de quelque bête qui soit sur la terre, la figure d'un oiseau ailé qui vole dans les cieux,
@@ -160,9 +160,9 @@
 4:48 Depuis Aroër, qui est sur le bord du torrent de l'Arnon, jusqu'à la montagne de Sion, qui est l'Hermon,
 4:49 Et toute la campagne de ce côté-ci du Jourdain, vers l'Orient, jusqu'à la mer de la campagne, sous les pentes du Pisga.
 5:1 Moïse appela donc tout Israël, et leur dit : Écoute, Israël, les statuts et les ordonnances que je prononce aujourd'hui à vos oreilles ; apprenez-les, prenez garde de les pratiquer.
-5:2 L'Yahweh notre Dieu traita alliance avec nous en Horeb.
+5:2 Yahweh notre Dieu traita alliance avec nous en Horeb.
 5:3 Ce n'est point avec nos pères que Yahweh  a traité cette alliance, mais avec nous qui sommes ici aujourd'hui, tous vivants.
-5:4 L'Yahweh vous parla face à face sur la montagne, du milieu du feu.
+5:4 Yahweh vous parla face à face sur la montagne, du milieu du feu.
 5:5 Je me tenais en ce temps-là entre Yahweh  et vous, pour vous rapporter la parole de Yahweh  ; car vous eûtes peur du feu, et vous ne montâtes point sur la montagne. Il dit :
 5:6 Je suis Yahweh  ton Dieu, qui t'ai retiré du pays d'Égypte, de la maison de servitude.
 5:7 Tu n'auras point d'autres dieux devant ma face.
@@ -180,7 +180,7 @@
 5:19 Tu ne déroberas point.
 5:20 Tu ne diras point de faux témoignage contre ton prochain.
 5:21 Tu ne convoiteras point la femme de ton prochain, et tu ne désireras point la maison de ton prochain, ni son champ, ni son serviteur, ni sa servante, ni son boeuf, ni son âne, ni aucune chose qui soit à ton prochain.
-5:22 L'Yahweh prononça ces paroles à toute votre assemblée, sur la montagne, du milieu du feu, de la nuée et de l'obscurité, d'une voix forte, et il n'y ajouta rien ; puis il les écrivit sur deux tables de pierre, qu'il me donna.
+5:22 Yahweh prononça ces paroles à toute votre assemblée, sur la montagne, du milieu du feu, de la nuée et de l'obscurité, d'une voix forte, et il n'y ajouta rien ; puis il les écrivit sur deux tables de pierre, qu'il me donna.
 5:23 Or, dès que vous eûtes entendu la voix du milieu de l'obscurité, la montagne étant tout en feu, vous vous approchâtes de moi, tous vos chefs de tribu et vos anciens,
 5:24 Et vous dîtes : Voici, Yahweh  notre Dieu nous a montré sa gloire et sa grandeur, et nous avons entendu sa voix du milieu du feu ; aujourd'hui nous avons vu que Dieu peut parler avec l'homme, et l'homme demeurer en vie.
 5:25 Mais maintenant, pourquoi mourrions-nous ? Car ce grand feu nous consumera. Si nous entendons encore la voix de Yahweh  notre Dieu, nous mourrons.
@@ -231,7 +231,7 @@
 7:12 Et il arrivera que si, après avoir entendu ces ordonnances, vous les gardez et les pratiquez, Yahweh  ton Dieu te gardera l'alliance et la miséricorde qu'il a jurées à tes pères ;
 7:13 Il t'aimera, il te bénira, il te multipliera, il bénira le fruit de tes entrailles et le fruit de ton sol, ton froment, ton moût et ton huile, les portées de tes vaches et de tes brebis, sur la terre qu'il a juré à tes pères de te donner ;
 7:14 Tu seras béni plus que tous les peuples : au milieu de toi, ni parmi ton bétail, il n'y aura ni mâle ni femelle stérile ;
-7:15 L'Yahweh détournera de toi toutes les maladies ; et toutes ces langueurs malignes d'Égypte que tu as connues, il ne les mettra point sur toi ; mais il les fera venir sur tous ceux qui te haïssent.
+7:15 Yahweh détournera de toi toutes les maladies ; et toutes ces langueurs malignes d'Égypte que tu as connues, il ne les mettra point sur toi ; mais il les fera venir sur tous ceux qui te haïssent.
 7:16 Tu détruiras donc tous les peuples que Yahweh  ton Dieu te livre ; ton oeil sera pour eux sans pitié, et tu ne serviras point leurs dieux ; car ce serait un piège pour toi.
 7:17 Si tu dis en ton coeur : Ces nations sont plus nombreuses que moi, comment pourrai-je les déposséder ?
 7:18 Ne les crains point ; souviens-toi bien de ce que Yahweh  ton Dieu a fait à Pharaon et à tous les Égyptiens,
@@ -275,14 +275,14 @@
 9:10 Et Yahweh  me donna les deux tables de pierre, écrites du doigt de Dieu, et sur lesquelles étaient toutes les paroles que Yahweh  avait prononcées, lorsqu'il parlait avec vous sur la montagne, du milieu du feu, au jour de l'assemblée.
 9:11 Et il arriva qu'au bout de quarante jours et quarante nuits, Yahweh  me donna les deux tables de pierre, les tables de l'alliance.
 9:12 Puis Yahweh  me dit : Lève-toi, hâte-toi de descendre d'ici ; car ton peuple, que tu as fait sortir d'Égypte, s'est corrompu ; ils se sont bientôt détournés de la voie que je leur avais prescrite ; ils se sont fait une image de fonte.
-9:13 L'Yahweh me parla aussi, en disant : J'ai regardé ce peuple, et voici, c'est un peuple de cou roide ;
+9:13 Yahweh me parla aussi, en disant : J'ai regardé ce peuple, et voici, c'est un peuple de cou roide ;
 9:14 Laisse-moi, et je les détruirai, et j'effacerai leur nom de dessous les cieux ; mais je te ferai devenir une nation plus puissante et plus grande que celle-ci.
 9:15 Je retournai donc et je descendis de la montagne (or, la montagne était tout en feu), ayant les deux tables de l'alliance dans mes deux mains.
 9:16 Alors je regardai, et voici, vous aviez péché contre Yahweh  votre Dieu, vous vous étiez fait un veau de fonte, vous vous étiez bientôt détournés de la voie que Yahweh  vous avait prescrite.
 9:17 Alors je saisis les deux tables, et je les jetai de mes mains, et je les rompis devant vos yeux.
 9:18 Puis je me prosternai devant Yahweh  comme auparavant, quarante jours et quarante nuits, sans manger de pain ni boire d'eau, à cause de tout le péché que vous aviez commis en faisant ce qui est mal aux yeux de Yahweh, pour l'irriter ;
 9:19 Car je craignais la colère et la fureur dont Yahweh  était enflammé contre vous pour vous détruire ; et Yahweh  m'exauça encore cette fois.
-9:20 L'Yahweh fut aussi fort irrité contre Aaron, voulant le faire périr ; mais je priai aussi pour Aaron en ce temps-là.
+9:20 Yahweh fut aussi fort irrité contre Aaron, voulant le faire périr ; mais je priai aussi pour Aaron en ce temps-là.
 9:21 Puis je pris votre péché, le veau que vous aviez fait, et je le brûlai au feu, et je le mis en pièces et le moulus jusqu'à ce qu'il fût réduit en poudre ; et j'en jetai la poudre au torrent qui descendait de la montagne.
 9:22 Vous avez aussi fort irrité Yahweh  à Thabeéra, à Massa et à Kibroth-Hatthaava.
 9:23 Et quand Yahweh  vous envoya de Kadès-Barnéa, en disant : Montez, et prenez possession du pays que je vous ai donné ; vous vous rebellâtes contre le commandement de Yahweh  votre Dieu, et vous ne le crûtes point, et vous n'obéîtes point à sa voix.
@@ -336,7 +336,7 @@
 11:20 Tu les écriras aussi sur les poteaux de ta maison et sur tes portes ;
 11:21 Afin que vos jours et les jours de vos enfants, sur le sol que Yahweh  a juré à vos pères de leur donner, soient multipliés comme les jours des cieux sur la terre.
 11:22 Car si vous gardez avec soin tous ces commandements que je vous ordonne de pratiquer, aimant Yahweh  votre Dieu, marchant dans toutes ses voies et vous attachant à lui,
-11:23 L'Yahweh dépossédera devant vous toutes ces nations, et vous vous rendrez maîtres de nations plus grandes et plus puissantes que vous.
+11:23 Yahweh dépossédera devant vous toutes ces nations, et vous vous rendrez maîtres de nations plus grandes et plus puissantes que vous.
 11:24 Tout lieu que foulera la plante de votre pied, sera à vous ; votre frontière sera depuis le désert et le Liban, depuis le fleuve, le fleuve de l'Euphrate, jusqu'à la mer occidentale.
 11:25 Nul ne subsistera devant vous ; Yahweh  votre Dieu répandra la terreur et l'effroi qu'on aura de vous, par tout le pays où vous marcherez, comme il vous l'a dit.
 11:26 Voyez, je mets aujourd'hui devant vous la bénédiction et la malédiction ;
@@ -504,7 +504,7 @@
 18:12 Car quiconque fait ces choses est en abomination à Yahweh, et c'est à cause de ces abominations que Yahweh  ton Dieu chasse ces nations de devant toi.
 18:13 Tu seras intègre à l'égard de Yahweh  ton Dieu.
 18:14 Car ces nations, que tu vas déposséder, écoutent les pronostiqueurs et les devins ; mais pour toi, Yahweh  ton Dieu ne t'a point permis d'agir ainsi.
-18:15 L'Yahweh ton Dieu te suscitera un prophète comme moi, du milieu de toi, d'entre tes frères ; vous l'écouterez ;
+18:15 Yahweh ton Dieu te suscitera un prophète comme moi, du milieu de toi, d'entre tes frères ; vous l'écouterez ;
 18:16 Suivant tout ce que tu demandas à Yahweh  ton Dieu en Horeb, au jour de l'assemblée, en disant : Que je n'entende plus la voix de Yahweh  mon Dieu, et que je ne voie plus ce grand feu, de peur que je ne meure.
 18:17 Alors Yahweh  me dit : Ils ont bien parlé ;
 18:18 Je leur susciterai un prophète comme toi, d'entre leurs frères, et je mettrai mes paroles en sa bouche, et il leur dira tout ce que je lui commanderai.
@@ -723,36 +723,36 @@
 28:4 Béni sera le fruit de tes entrailles, le fruit de ton sol, et le fruit de ton bétail, la portée de tes vaches et de tes brebis ;
 28:5 Bénie sera ta corbeille et ta huche.
 28:6 Tu seras béni dans ton entrée, et tu seras béni dans ta sortie.
-28:7 L'Yahweh fera que tes ennemis, qui s'élèveront contre toi, seront battus devant toi ; ils sortiront contre toi par un chemin, et par sept chemins ils s'enfuiront devant toi.
-28:8 L'Yahweh commandera à la bénédiction d'être avec toi dans tes greniers et dans tout ce à quoi tu mettras la main ; et il te bénira dans le pays que Yahweh  ton Dieu te donne.
-28:9 L'Yahweh t'établira pour lui être un peuple consacré, comme il te l'a juré, parce que tu garderas les commandements de Yahweh  ton Dieu, et que tu marcheras dans ses voies ;
+28:7 Yahweh fera que tes ennemis, qui s'élèveront contre toi, seront battus devant toi ; ils sortiront contre toi par un chemin, et par sept chemins ils s'enfuiront devant toi.
+28:8 Yahweh commandera à la bénédiction d'être avec toi dans tes greniers et dans tout ce à quoi tu mettras la main ; et il te bénira dans le pays que Yahweh  ton Dieu te donne.
+28:9 Yahweh t'établira pour lui être un peuple consacré, comme il te l'a juré, parce que tu garderas les commandements de Yahweh  ton Dieu, et que tu marcheras dans ses voies ;
 28:10 Et tous les peuples de la terre verront que le nom de Yahweh  est proclamé sur toi, et ils te craindront.
 28:11 Et Yahweh  ton Dieu te fera abonder en biens, en multipliant le fruit de tes entrailles, le fruit de ton bétail et le fruit de ton sol, dans le pays que Yahweh  a juré à tes pères de te donner.
-28:12 L'Yahweh t'ouvrira son bon trésor, les cieux, pour donner à ta terre la pluie en sa saison, et pour bénir toutes les oeuvres de tes mains. Tu prêteras à beaucoup de nations, et tu n'emprunteras point.
-28:13 L'Yahweh te mettra à la tête des peuples et non à leur queue ; et tu seras toujours en haut, et jamais en bas, quand tu obéiras aux commandements de Yahweh  ton Dieu, que je te prescris aujourd'hui d'observer et de pratiquer,
+28:12 Yahweh t'ouvrira son bon trésor, les cieux, pour donner à ta terre la pluie en sa saison, et pour bénir toutes les oeuvres de tes mains. Tu prêteras à beaucoup de nations, et tu n'emprunteras point.
+28:13 Yahweh te mettra à la tête des peuples et non à leur queue ; et tu seras toujours en haut, et jamais en bas, quand tu obéiras aux commandements de Yahweh  ton Dieu, que je te prescris aujourd'hui d'observer et de pratiquer,
 28:14 Et que tu ne te détourneras, ni à droite ni à gauche, d'aucune des paroles que je vous commande aujourd'hui, pour aller après d'autres dieux et pour les servir.
 28:15 Mais si tu n'obéis pas à la voix de Yahweh  ton Dieu, pour prendre garde de pratiquer tous ses commandements et ses statuts que je te prescris aujourd'hui, voici toutes les malédictions qui viendront sur toi, et t'arriveront :
 28:16 Tu seras maudit dans la ville, et tu seras maudit aux champs ;
 28:17 Maudite sera ta corbeille, et ta huche ;
 28:18 Maudit sera le fruit de tes entrailles, et le fruit de ton sol, la portée de tes vaches et de tes brebis.
 28:19 Tu seras maudit dans ton entrée, et tu seras maudit dans ta sortie.
-28:20 L'Yahweh enverra sur toi la malédiction, l'effroi et la ruine, dans tout ce à quoi tu mettras la main et que tu feras, jusqu'à ce que tu sois détruit et que tu périsses promptement, à cause de la méchanceté des actions par lesquelles tu m'auras abandonné.
-28:21 L'Yahweh fera que la mortalité s'attachera à toi, jusqu'à ce qu'elle t'ait consumé de dessus la terre où tu vas entrer pour la posséder.
-28:22 L'Yahweh te frappera de langueur, de fièvre, d'inflammation, de chaleur brûlante, de l'épée, de sécheresse et de nielle, qui te poursuivront jusqu'à ce que tu périsses.
+28:20 Yahweh enverra sur toi la malédiction, l'effroi et la ruine, dans tout ce à quoi tu mettras la main et que tu feras, jusqu'à ce que tu sois détruit et que tu périsses promptement, à cause de la méchanceté des actions par lesquelles tu m'auras abandonné.
+28:21 Yahweh fera que la mortalité s'attachera à toi, jusqu'à ce qu'elle t'ait consumé de dessus la terre où tu vas entrer pour la posséder.
+28:22 Yahweh te frappera de langueur, de fièvre, d'inflammation, de chaleur brûlante, de l'épée, de sécheresse et de nielle, qui te poursuivront jusqu'à ce que tu périsses.
 28:23 Les cieux qui sont sur ta tête, seront d'airain, et la terre qui est sous toi sera de fer.
-28:24 L'Yahweh te donnera, au lieu de la pluie qu'il faut à ta terre, de la poussière et de la poudre, qui descendra sur toi des cieux, jusqu'à ce que tu sois détruit.
-28:25 L'Yahweh fera que tu seras battu devant tes ennemis ; tu sortiras par un chemin contre eux, et par sept chemins tu t'enfuiras devant eux ; et tu seras vagabond par tous les royaumes de la terre ;
+28:24 Yahweh te donnera, au lieu de la pluie qu'il faut à ta terre, de la poussière et de la poudre, qui descendra sur toi des cieux, jusqu'à ce que tu sois détruit.
+28:25 Yahweh fera que tu seras battu devant tes ennemis ; tu sortiras par un chemin contre eux, et par sept chemins tu t'enfuiras devant eux ; et tu seras vagabond par tous les royaumes de la terre ;
 28:26 Et tes cadavres seront la nourriture de tous les oiseaux des cieux, et des bêtes de la terre, et il n'y aura personne qui les chasse.
-28:27 L'Yahweh te frappera de l'ulcère d'Égypte, d'hémorrhoïdes, de gale et de grattelle, dont tu ne pourras guérir.
-28:28 L'Yahweh te frappera de frénésie, d'aveuglement et d'égarement d'esprit ;
+28:27 Yahweh te frappera de l'ulcère d'Égypte, d'hémorrhoïdes, de gale et de grattelle, dont tu ne pourras guérir.
+28:28 Yahweh te frappera de frénésie, d'aveuglement et d'égarement d'esprit ;
 28:29 Tu iras tâtonnant en plein midi, comme l'aveugle tâtonne dans les ténèbres ; tu ne réussiras point dans tes entreprises ; et tu ne seras jamais qu'opprimé et pillé ; et il n'y aura personne qui te délivre.
 28:30 Tu fianceras une femme, mais un autre homme couchera avec elle ; tu bâtiras une maison, et tu n'y demeureras point ; tu planteras une vigne, et tu n'en cueilleras point les premiers fruits ;
 28:31 Ton boeuf sera égorgé sous tes yeux, et tu n'en mangeras point ; ton âne sera ravi devant toi, et ne te sera point rendu ; tes brebis seront livrées à tes ennemis, et tu n'auras personne qui les délivre.
 28:32 Tes fils et tes filles seront livrés à un autre peuple ; tes yeux le verront, et se consumeront tout le jour après eux ; et ta main sera sans force.
 28:33 Un peuple que tu n'auras point connu, mangera le fruit de ton sol et tout ton travail ; et tu ne seras jamais qu'opprimé et écrasé.
 28:34 Et tu deviendras fou de ce que tu verras de tes yeux.
-28:35 L'Yahweh te frappera sur les genoux et sur les jambes d'un ulcère malin dont tu ne pourras guérir ; il t'en frappera depuis la plante de ton pied jusqu'au sommet de ta tête.
-28:36 L'Yahweh te fera marcher, toi et ton roi, que tu auras établi sur toi, vers une nation que tu n'auras point connue, ni toi ni tes pères ; et tu serviras là d'autres dieux, des dieux de bois et de pierre ;
+28:35 Yahweh te frappera sur les genoux et sur les jambes d'un ulcère malin dont tu ne pourras guérir ; il t'en frappera depuis la plante de ton pied jusqu'au sommet de ta tête.
+28:36 Yahweh te fera marcher, toi et ton roi, que tu auras établi sur toi, vers une nation que tu n'auras point connue, ni toi ni tes pères ; et tu serviras là d'autres dieux, des dieux de bois et de pierre ;
 28:37 Et tu seras un sujet d'étonnement, de raillerie et de sarcasme, parmi tous les peuples où Yahweh  t'aura emmené.
 28:38 Tu porteras beaucoup de semence aux champs, et tu en recueilleras peu ; car la sauterelle la broutera.
 28:39 Tu planteras des vignes et tu les cultiveras, mais tu ne boiras point de vin, et tu n'en recueilleras rien ; car le ver les mangera.
@@ -765,7 +765,7 @@
 28:46 Et elles seront sur toi et sur ta postérité à jamais, comme un signe et un prodige.
 28:47 Parce que tu n'auras point servi Yahweh  ton Dieu avec joie et de bon coeur dans l'abondance de toutes choses,
 28:48 Tu serviras, dans la faim, dans la soif, dans la nudité et dans la disette de toutes choses, ton ennemi que Dieu enverra contre toi ; et il mettra un joug de fer sur ton cou, jusqu'à ce qu'il t'ait exterminé.
-28:49 L'Yahweh fera lever contre toi, de loin, du bout de la terre, une nation qui volera comme l'aigle, une nation dont tu n'entendras point la langue,
+28:49 Yahweh fera lever contre toi, de loin, du bout de la terre, une nation qui volera comme l'aigle, une nation dont tu n'entendras point la langue,
 28:50 Une nation au visage farouche, qui n'aura ni égard pour le vieillard, ni pitié pour l'enfant ;
 28:51 Qui mangera le fruit de ton bétail, et le fruit de ton sol, jusqu'à ce que tu sois exterminé ; qui ne te laissera de reste ni froment, ni vin, ni huile, ni portée de tes vaches et de tes brebis, jusqu'à ce qu'elle t'ait détruit.
 28:52 Et elle t'assiégera dans toutes tes portes, jusqu'à ce que tes murailles hautes et fortes sur lesquelles tu te fiais, tombent dans tout ton pays ; elle t'assiégera dans toutes tes portes, dans tout le pays que Yahweh  ton Dieu t'aura donné.
@@ -775,9 +775,9 @@
 28:56 La plus tendre et la plus délicate d'entre vous, qui, par mollesse et par délicatesse, n'eût point essayé de mettre la plante de son pied sur la terre, regardera d'un oeil d'envie son mari bien-aimé, son fils et sa fille,
 28:57 Et la taie de son petit enfant, qui sortira d'entre ses pieds, et les enfants qu'elle enfantera ; car dans la disette de toutes choses, elle les mangera en secret, durant le siège et dans l'extrémité où ton ennemi te réduira dans toutes tes portes.
 28:58 Si tu ne prends pas garde de faire toutes les paroles de cette loi, écrites dans ce livre, en craignant ce nom glorieux et terrible, YAHWEH TON DIEU,
-28:59 L'Yahweh te frappera, toi et ta postérité, de plaies extraordinaires, de plaies grandes et persistantes, de maladies malignes et persistantes.
+28:59 Yahweh te frappera, toi et ta postérité, de plaies extraordinaires, de plaies grandes et persistantes, de maladies malignes et persistantes.
 28:60 Il ramènera sur toi toutes les langueurs d'Égypte devant lesquelles tu as tremblé, et elles s'attacheront à toi ;
-28:61 L'Yahweh fera aussi venir sur toi toute autre maladie et toute autre plaie, qui n'est point écrite au livre de cette loi, jusqu'à ce que tu sois exterminé ;
+28:61 Yahweh fera aussi venir sur toi toute autre maladie et toute autre plaie, qui n'est point écrite au livre de cette loi, jusqu'à ce que tu sois exterminé ;
 28:62 Et vous resterez en petit nombre, au lieu que vous étiez nombreux comme les étoiles des cieux, parce que tu n'auras point obéi à la voix de Yahweh  ton Dieu.
 28:63 Et il arrivera que comme Yahweh  prenait plaisir à vous faire du bien et à vous multiplier, ainsi Yahweh  prendra plaisir à vous faire périr et à vous exterminer. Et vous serez arrachés du pays où tu vas entrer pour le posséder ;
 28:64 Et Yahweh  te dispersera parmi tous les peuples, d'un bout de la terre jusqu'à l'autre ; et tu serviras là d'autres dieux, que ni toi ni tes pères n'avez connus, des dieux de bois et de pierre.
@@ -804,7 +804,7 @@
 29:17 Et vous avez vu leurs abominations et leurs dieux infâmes, de bois et de pierre, d'argent et d'or, qui sont parmi eux.
 29:18 Qu'il n'y ait parmi vous ni homme, ni femme, ni famille, ni tribu, qui détourne aujourd'hui son coeur de Yahweh  notre Dieu, pour aller servir les dieux de ces nations ; qu'il n'y ait point parmi vous de racine qui produise du poison et de l'absinthe ;
 29:19 Et que nul, en entendant les paroles de cette imprécation, ne se flatte en son coeur, en disant : J'aurai la paix, bien que je marche dans l'endurcissement de mon coeur ; en sorte qu'il ajoute l'ivresse à la soif.
-29:20 L'Yahweh ne consentira point à lui pardonner ; mais alors la colère de Yahweh  et sa jalousie s'allumeront contre cet homme, et toute la malédiction écrite dans ce livre pèsera sur lui, et Yahweh  effacera son nom de dessous les cieux,
+29:20 Yahweh ne consentira point à lui pardonner ; mais alors la colère de Yahweh  et sa jalousie s'allumeront contre cet homme, et toute la malédiction écrite dans ce livre pèsera sur lui, et Yahweh  effacera son nom de dessous les cieux,
 29:21 Et Yahweh  le séparera, pour son malheur, de toutes les tribus d'Israël, selon toutes les imprécations de l'alliance écrite dans ce livre de la loi.
 29:22 Et la génération à venir, vos enfants qui se lèveront après vous, et l'étranger qui viendra d'un pays éloigné, diront, - quand ils verront les plaies de ce pays et les maladies dont Yahweh  l'aura affligé,
 29:23 Lorsque toute la terre de ce pays ne sera que soufre et sel, et qu'embrasement, qu'elle ne sera point ensemencée, qu'elle ne fera rien germer, et que nulle herbe n'y poussera, comme après la subversion de Sodome, de Gomorrhe, d'Adma et de Tséboïm, que Yahweh  détruisit dans sa colère et dans son indignation, -
@@ -875,14 +875,14 @@
 32:9 Car la portion de Yahweh, c'est son peuple ; Jacob est le lot de son héritage.
 32:10 Il le trouva dans un pays désert, dans une solitude, où il n'y avait que hurlements de désolation ; il l'entoura, il prit soin de lui ; il le garda comme la prunelle de son oeil ;
 32:11 Comme l'aigle qui réchauffe son nid et couve ses petits ; qui étend ses ailes, les prend, et les porte sur ses plumes.
-32:12 L'Yahweh seul l'a conduit, et il n'y a point eu avec lui de dieu étranger.
+32:12 Yahweh seul l'a conduit, et il n'y a point eu avec lui de dieu étranger.
 32:13 Il l'a fait passer à cheval sur les lieux élevés de la terre ; et Israël a mangé les produits des champs ; et il lui a fait sucer le miel de la roche et l'huile des plus durs rochers,
 32:14 Le beurre des vaches et le lait des brebis, avec la graisse des agneaux, des béliers nés à Bassan et des boucs, avec la fine fleur du froment. Et tu as bu le vin généreux, le sang de la grappe.
 32:15 Mais Jeshurun (Israël) s'est engraissé, et a regimbé. Tu es devenu gras, gros et épais. Il a abandonné le Dieu qui l'a fait, et a méprisé le Rocher de son salut.
 32:16 Ils ont excité sa jalousie par des dieux étrangers ; ils l'ont irrité par des abominations ;
 32:17 Ils ont sacrifié à des idoles, qui ne sont point Dieu ; à des dieux qu'ils ne connaissaient point, dieux nouveaux venus depuis peu, et que vos pères n'ont point redoutés.
 32:18 Tu as abandonné le Rocher qui t'a engendré, et tu as oublié le Dieu qui t'a formé.
-32:19 L'Yahweh l'a vu, et il a rejeté, dans son indignation, ses fils et ses filles ;
+32:19 Yahweh l'a vu, et il a rejeté, dans son indignation, ses fils et ses filles ;
 32:20 Et il a dit : Je cacherai d'eux ma face, je verrai quelle sera leur fin ; car ils sont une race perverse, des enfants en qui l'on ne peut se fier.
 32:21 Ils ont excité ma jalousie par ce qui n'est point Dieu, ils m'ont irrité par leurs vanités ; moi aussi j'exciterai leur jalousie par ce qui n'est point un peuple, je les irriterai par une nation insensée.
 32:22 Car le feu s'est embrasé dans ma colère ; il a brûlé jusqu'au Sépulcre souterrain, il a dévoré la terre et son fruit, et enflammé les fondements des montagnes.
@@ -917,7 +917,7 @@
 32:51 Parce que vous avez péché contre moi, au milieu des enfants d'Israël, aux eaux de la contestation de Kadès, au désert de Tsin ; parce que vous ne m'avez point sanctifié au milieu des enfants d'Israël.
 32:52 Car tu verras le pays devant toi, mais tu n'entreras point dans le pays que je donne aux enfants d'Israël.
 33:1 Or voici la bénédiction dont Moïse, homme de Dieu, bénit les enfants d'Israël avant sa mort.
-33:2 Il dit donc : L'Yahweh est venu de Sinaï, et s'est levé sur eux de Séir ; il a resplendi de la montagne de Paran ; il est sorti des myriades de saints ; de sa droite sortait pour eux le feu de la loi.
+33:2 Il dit donc : Yahweh est venu de Sinaï, et s'est levé sur eux de Séir ; il a resplendi de la montagne de Paran ; il est sorti des myriades de saints ; de sa droite sortait pour eux le feu de la loi.
 33:3 Oui, il aime les peuples. Tous ses saints sont en ta main. Ils se sont tenus à tes pieds pour recevoir tes paroles.
 33:4 Moïse nous a donné la loi, héritage de l'assemblée de Jacob ;
 33:5 Et il a été roi en Jeshurun (Israël), quand les chefs du peuple s'assemblaient avec les tribus d'Israël.
