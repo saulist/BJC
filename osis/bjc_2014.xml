@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
-<osisText osisIDWork="FreBJC" osisRefWork="defaultReferenceScheme" xml:lang="fr">
+<osisText osisIDWork="FreBJC" osisRefWork="Bible" xml:lang="fr">
 <header>
 	<work osisWork="FreBJC">
-		<title>Bible de Jésus-Christ (2014)</title>
+		<title>Bible de Jésus-Christ</title>
+		<date>2014-07-14</date>
+		<description>Révision de la Bible à partir du texte de la Bible Martin 1744.</description>
+		<type type="OSIS">Bible</type>
 		<identifier type="OSIS">Bible.FreBJC</identifier>
-		<refSystem>Bible.KJV</refSystem>
-	</work>
-	<work osisWork="defaultReferenceScheme">
-		<refSystem>Bible.KJV</refSystem>
+		<refSystem>Bible</refSystem>
+		<source>http://www.bible-de-jesus.org</source>
+		<publisher>ANJC Productions</publisher>
+		<rights>CC-BY-NC-SA 4.0</rights>
+		<language type="IETF">fr</language>
 	</work>
 </header>
 <div type="x-testament">
