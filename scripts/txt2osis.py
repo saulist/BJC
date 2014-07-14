@@ -87,19 +87,19 @@ out_file = '../../osis/bjc_2014.xml'
 data_w = open(out_file,'w')
 
 # print header
-data_w.write('<?xml version="1.0" encoding="UTF-8" ?>')
-data_w.write('<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">')
-data_w.write('<osisText osisIDWork="FreBJC" osisRefWork="defaultReferenceScheme" xml:lang="fr">')
-data_w.write('<header>')
-data_w.write('\t<work osisWork="FreBJC">')
-data_w.write('\t\t<title>Bible de Jésus-Christ (2014)</title>')
-data_w.write('\t\t<identifier type="OSIS">Bible.FreBJC</identifier>')
-data_w.write('\t\t<refSystem>Bible.KJV</refSystem>')
-data_w.write('\t</work>')
-data_w.write('\t<work osisWork="defaultReferenceScheme">')
-data_w.write('\t\t<refSystem>Bible.KJV</refSystem>')
-data_w.write('\t</work>')
-data_w.write('</header>')
+data_w.write('<?xml version="1.0" encoding="UTF-8" ?>\n')
+data_w.write('<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">\n')
+data_w.write('<osisText osisIDWork="FreBJC" osisRefWork="defaultReferenceScheme" xml:lang="fr">\n')
+data_w.write('<header>\n')
+data_w.write('\t<work osisWork="FreBJC">\n')
+data_w.write('\t\t<title>Bible de Jésus-Christ (2014)</title>\n')
+data_w.write('\t\t<identifier type="OSIS">Bible.FreBJC</identifier>\n')
+data_w.write('\t\t<refSystem>Bible.KJV</refSystem>\n')
+data_w.write('\t</work>\n')
+data_w.write('\t<work osisWork="defaultReferenceScheme">\n')
+data_w.write('\t\t<refSystem>Bible.KJV</refSystem>\n')
+data_w.write('\t</work>\n')
+data_w.write('</header>\n')
 
 # browse each source files
 for file_name in list_files :
@@ -110,17 +110,17 @@ for file_name in list_files :
 
     # if "Old Testament" book, once
     if ('01' <= book_num <= '39') and (div_testament == 0) :
-        data_w.write('<div type="x-testament">')
+        data_w.write('<div type="x-testament">\n')
         div_testament = 1
     # if "New Testament" book, once
     if ('40' <= book_num <= '66') and (div_testament == 1) :
-        data_w.write('</div>')
-        data_w.write('<div type="x-testament">')
+        data_w.write('</div>\n')
+        data_w.write('<div type="x-testament">\n')
         div_testament = 0
 
     # if new book
     if (div_book == 0) :
-        data_w.write('\t<div type="book" osisID="'+book_abbr[book_num][book_name]+'">')
+        data_w.write('\t<div type="book" osisID="'+book_abbr[book_num][book_name]+'">\n')
         div_book = 1
 
     # open and read file
@@ -133,25 +133,25 @@ for file_name in list_files :
         if (line[0] == book_name) :
             chapter_num = line[1].rstrip()
             if (div_chapter == 0) :
-                data_w.write('\t\t<chapter osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'">')
+                data_w.write('\t\t<chapter osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'">\n')
                 div_chapter = 1
             else :
-                data_w.write('\t\t</chapter>')
-                data_w.write('\t\t<chapter osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'">')
+                data_w.write('\t\t</chapter>\n')
+                data_w.write('\t\t<chapter osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'">\n')
         else :
             verse_num = line[0].rstrip()
             verse_txt = line[1].rstrip()
-            data_w.write('\t\t\t<verse osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'.'+verse_num+'">'+verse_txt+'</verse>')
+            data_w.write('\t\t\t<verse osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'.'+verse_num+'">'+verse_txt+'</verse>\n')
 
     # end of book
     data_r.close()
-    data_w.write('\t\t</chapter>')
-    data_w.write('\t</div>')
+    data_w.write('\t\t</chapter>\n')
+    data_w.write('\t</div>\n')
     div_book = 0
  
-data_w.write('</div>')
-data_w.write('</osisText>')
-data_w.write('</osis>')
+data_w.write('</div>\n')
+data_w.write('</osisText>\n')
+data_w.write('</osis>\n')
 
 data_w.close()
 
