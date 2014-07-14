@@ -4,13 +4,14 @@ import re
 from os import chdir
 from glob import glob
 
-# files directories
+# source files
 src_dir = '../txt/BJC/'
-out_dir = '../txt/'
-
-# list files in source directory
 chdir(src_dir)
 list_files = sorted(glob('*.txt'))
+
+# output file
+out_file = '../bjc_2014.txt'
+data_w = open(out_file,'w')
 
 # browse each source files
 for file_name in list_files :
@@ -29,6 +30,8 @@ for file_name in list_files :
         else :
             verse_num = line[0].rstrip()
             verse_txt = line[1].rstrip()
-            print(book_num+'\t'+chapter_num+'\t'+verse_num+'\t'+verse_txt)
+            data_w.write(book_num+'\t'+chapter_num+'\t'+verse_num+'\t'+verse_txt+'\n')
     data_r.close()
+
+data_w.close()
 
