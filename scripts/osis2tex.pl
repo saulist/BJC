@@ -93,40 +93,12 @@ if (! -d $dst) {
 # Read XML file
 my $bible = XMLin($src, ForceArray => 1);
 
-# Each book
-foreach my $book ( @{ $bible->{BIBLEBOOK} } ) {
-	# Get book number
-	my $bnumber = $book->{bnumber};
-	if(length($bnumber) < 2) {
-		$bnumber = '0'.$book->{bnumber};
-	}
+print Dumper($bible);
 
-	# Open output file for current book
-	open(OUT, "> ".$dst."/".$bnumber."-".$livre{$bnumber}.".tex")
-		or die("Impossible d'ouvrir le fichier ".$dst."/".$bnumber."-".$livre{$bnumber}.".tex :\n$!");
+#~ foreach my $book ( @{ $bible->{osisText} } ) {
+	#~ #
+#~ }
 
-	# Write book title
-	print(OUT "\\ShortTitle{".$livre{$bnumber}."}\\BookTitle{".$livre{$bnumber}."}\\BFont\n");
-
-	# Each chapter
-	foreach my $chapter ( @{ $book->{CHAPTER} } ) {
-		# Write chapter
-		print (OUT "\\Chap{".$chapter->{cnumber}."}\n");
-
-		# Each verse
-		foreach my $verse ( @{ $chapter->{VERS} } ) {
-			# Write verse
-			if($verse->{vnumber} == 1) {
-				print(OUT "\\VerseOne{}".$verse->{content}."\n");
-			} else {
-				print(OUT "\\VS{".$verse->{vnumber}."}".$verse->{content}."\n");
-			}
-		}
-	}
-
-	# Write 'end of paragraph
-	print(OUT "\\PPE{}\n");
-
-	# Close current book
-	close(OUT);
+foreach my $test (keys %{$bible->{osisText}}) {
+	print $test . ' is ' . $bible->{osisText} . "\n";
 }
