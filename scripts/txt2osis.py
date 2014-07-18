@@ -152,7 +152,8 @@ for file_name in list_files :
     data_w.write('\t\t</chapter>\n')
     data_w.write('\t</div>\n')
     div_book = 0
- 
+    div_chapter = 0
+
 data_w.write('</div>\n')
 data_w.write('</osisText>\n')
 data_w.write('</osis>\n')
