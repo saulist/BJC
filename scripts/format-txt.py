@@ -24,12 +24,14 @@ for file_name in list_files :
     list_lines = data_r.readlines()
     # browse each line of the file
     for line in list_lines :
-        line = line.split(' ',1)
-        if line[0] == book_name :
-            chapter_num = line[1].rstrip()
+        line = line.rstrip()
+        if (re.search(r'^'+book_name+'\s(\d+)', line)) or not (re.search(r'^\d', line)) :
+            line = line.split(' ')
+            chapter_num = line.pop().rstrip()
         else :
+            line = line.split(' ',1)
             verse_num = line[0].rstrip()
-            verse_txt = line[1].rstrip()
+            verse_txt = line.pop().rstrip()
             data_w.write(book_num+'\t'+chapter_num+'\t'+verse_num+'\t'+verse_txt+'\n')
     data_r.close()
 

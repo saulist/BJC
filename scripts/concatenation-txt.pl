@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
 # Variables
-my $name = 'martin_1744';
-my $src = '../TXT/'.$name;
-my $dst = '../TXT/'.$name.'-revision.txt';
+my $name = 'bjc_2014';
+my $src = '../txt/BJC/'.$name;
+my $dst = '../txt/'.$name.'.txt';
 
 # Ouverture fichier de sortie
 open(OUT, "> $dst");
@@ -13,7 +13,7 @@ open(OUT, "> $dst");
 
 # Parcours de chaque élément de la liste
 foreach(@dirLS) {
-	# Récuperation du nnuméro du livre
+	# Récuperation du numéro du livre
 	$numLivre = $1 if($_ =~ /(\d{2})/);
 	print("$numLivre\t\n");
 

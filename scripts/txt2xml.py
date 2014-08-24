@@ -83,27 +83,29 @@ chdir(src_dir)
 list_files = sorted(glob('*.txt'))
 
 # output file
-out_file = '../../osis/bjc_2014.xml'
+out_file = '../../xml/bjc_2014.xml'
 data_w = open(out_file,'w')
 
 # print header
-data_w.write('<?xml version="1.0" encoding="UTF-8" ?>\n')
-data_w.write('<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">\n')
-data_w.write('<osisText osisIDWork="FreBJC" osisRefWork="Bible" xml:lang="fr">\n')
-data_w.write('<header>\n')
-data_w.write('\t<work osisWork="FreBJC">\n')
-data_w.write('\t\t<title>Bible de Jésus-Christ</title>\n')
-data_w.write('\t\t<date>2014-08-24</date>\n')
-data_w.write('\t\t<description>Révision de la Bible à partir du texte de la Bible Martin 1744.</description>\n')
-data_w.write('\t\t<type type="OSIS">Bible</type>\n')
-data_w.write('\t\t<identifier type="OSIS">Bible.FreBJC</identifier>\n')
-data_w.write('\t\t<refSystem>Bible</refSystem>\n')
-data_w.write('\t\t<source>http://www.bible-de-jesus.org</source>\n')
-data_w.write('\t\t<publisher>ANJC Productions</publisher>\n')
-data_w.write('\t\t<rights>CC-BY-SA 4.0</rights>\n')
-data_w.write('\t\t<language type="IETF">fr</language>\n')
-data_w.write('\t</work>\n')
-data_w.write('</header>\n')
+data_w.write('<?xml version="1.0" encoding="utf-8"?>\n')
+data_w.write('<XMLBIBLE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zef2005.xsd" version="2.0.1.18" status="v" biblename="Bible Martin 1744" type="x-bible" revision="0">\n')
+data_w.write('<INFORMATION>\n')
+data_w.write('\t<subject>Bible</subject>\n')
+data_w.write('\t<publisher>ANJC Productions</publisher>\n')
+data_w.write('\t<format>Zefania XML Bible Markup Language</format>\n')
+data_w.write('\t<date>2014-08-24</date>\n')
+data_w.write('\t<title>Bible de Jésus-Christ</title>\n')
+data_w.write('\t<contributors>Sword</contributors>\n')
+data_w.write('\t<type>bible text</type>\n')
+data_w.write('\t<identifier>BJC2014</identifier>\n')
+data_w.write('\t<source>http://www.bible-de-jesus.org</source>\n')
+data_w.write('\t<language>FRE</language>\n')
+data_w.write('\t<coverage>provide the bible to the world</coverage>\n')
+data_w.write('\t<rights>\n')
+data_w.write('\t</rights>\n')
+data_w.write('\t<creator />\n')
+data_w.write('\t<description />\n')
+data_w.write('</INFORMATION>\n')
 
 # browse each source files
 for file_name in list_files :
@@ -112,19 +114,9 @@ for file_name in list_files :
     book_num = book_data[0]
     book_name = book_data[1]
 
-    # if "Old Testament" book, once
-    if ('01' <= book_num <= '39') and (div_testament == 0) :
-        data_w.write('<div type="x-testament">\n')
-        div_testament = 1
-    # if "New Testament" book, once
-    if ('40' <= book_num <= '66') and (div_testament == 1) :
-        data_w.write('</div>\n')
-        data_w.write('<div type="x-testament">\n')
-        div_testament = 0
-
     # if new book
     if (div_book == 0) :
-        data_w.write('\t<div type="book" osisID="'+book_abbr[book_num][book_name]+'">\n')
+        data_w.write('<BIBLEBOOK bnumber="'+book_num+'" bname="'+book_name+'" bsname="'+book_abbr[book_num][book_name]+'">\n')
         div_book = 1
 
     # open and read file
@@ -133,30 +125,43 @@ for file_name in list_files :
 
     # browse each line of the file
     for line in list_lines :
-        line = line.split(' ',1)
-        if (line[0] == book_name) :
-            chapter_num = line[1].rstrip()
+        # filter book name like : 2 Corinthiens 5
+        if re.search(r'^\d\s+[A-Za-zéèÉÈ]+\s*\d+\s*', line) :
+            line = line.split(' ')
+            bname = line[0]+' '+line[1].rstrip()
+            cnumber = line[2].rstrip()
             if (div_chapter == 0) :
-                data_w.write('\t\t<chapter osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'">\n')
+                data_w.write('\t<CHAPTER cnumber="'+cnumber+'">\n')
                 div_chapter = 1
             else :
-                data_w.write('\t\t</chapter>\n')
-                data_w.write('\t\t<chapter osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'">\n')
+                data_w.write('\t</CHAPTER>\n')
+                data_w.write('\t<CHAPTER cnumber="'+cnumber+'">\n')
+        # filter book name like : Romains 16
+        elif re.search(r'^[A-Za-zéèÉÈ]+\s*\d+\s*', line) :
+            line = line.split(' ',1)
+            bname = line[0].rstrip()
+            cnumber = line[1].rstrip()
+            if (div_chapter == 0) :
+                data_w.write('\t<CHAPTER cnumber="'+cnumber+'">\n')
+                div_chapter = 1
+            else :
+                data_w.write('\t</CHAPTER>\n')
+                data_w.write('\t<CHAPTER cnumber="'+cnumber+'">\n')
+        # otherwise it is a verse
         else :
-            verse_num = line[0].rstrip()
-            verse_txt = line[1].rstrip()
-            data_w.write('\t\t\t<verse osisID="'+book_abbr[book_num][book_name]+'.'+chapter_num+'.'+verse_num+'">'+verse_txt+'</verse>\n')
+            line = line.split(' ',1)
+            vnumber = line[0].rstrip()
+            vtext = line[1].rstrip()
+            data_w.write('\t\t<VERS vnumber="'+vnumber+'">'+vtext+'</VERS>\n')
 
     # end of book
     data_r.close()
-    data_w.write('\t\t</chapter>\n')
-    data_w.write('\t</div>\n')
+    data_w.write('\t</CHAPTER>\n')
+    data_w.write('</BIBLEBOOK>\n')
     div_book = 0
     div_chapter = 0
 
-data_w.write('</div>\n')
-data_w.write('</osisText>\n')
-data_w.write('</osis>\n')
+data_w.write('</XMLBIBLE>\n')
 
 data_w.close()
 

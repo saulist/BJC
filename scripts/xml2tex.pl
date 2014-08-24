@@ -80,9 +80,9 @@ my %livre = (
 );
 
 # Variables
-my $name = 'martin_1744';
-my $src = '../XML/'.$name.'.xml';
-my $dst = '../TEX/'.$name;
+my $name = 'bjc_2014';
+my $src = '../xml/'.$name.'.xml';
+my $dst = '../tex/'.$name;
 
 # Check if destination folder doesn't exists
 if (! -d $dst) {
@@ -107,6 +107,7 @@ foreach my $book ( @{ $bible->{BIBLEBOOK} } ) {
 
 	# Write book title
 	print(OUT "\\ShortTitle{".$livre{$bnumber}."}\\BookTitle{".$livre{$bnumber}."}\\BFont\n");
+	print(OUT "\\begin{multicols}{2}\n");
 
 	# Each chapter
 	foreach my $chapter ( @{ $book->{CHAPTER} } ) {
@@ -126,6 +127,7 @@ foreach my $book ( @{ $bible->{BIBLEBOOK} } ) {
 
 	# Write 'end of paragraph
 	print(OUT "\\PPE{}\n");
+	print(OUT "\\end{multicols}");
 
 	# Close current book
 	close(OUT);
