@@ -100,13 +100,15 @@ foreach my $book ( @{ $bible->{BIBLEBOOK} } ) {
 	if(length($bnumber) < 2) {
 		$bnumber = '0'.$book->{bnumber};
 	}
+	# Get book name
+	my $bname = $book->{bname};
 
 	# Open output file for current book
 	open(OUT, "> ".$dst."/".$bnumber."-".$livre{$bnumber}.".tex")
 		or die("Impossible d'ouvrir le fichier ".$dst."/".$bnumber."-".$livre{$bnumber}.".tex :\n$!");
 
 	# Write book title
-	print(OUT "\\ShortTitle{".$livre{$bnumber}."}\\BookTitle{".$livre{$bnumber}."}\\BFont\n");
+	print(OUT "\\ShortTitle{".$bname."}\\BookTitle{".$bname."}\\BFont\n");
 	print(OUT "\\begin{multicols}{2}\n");
 
 	# Each chapter
