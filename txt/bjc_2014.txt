@@ -547,7 +547,7 @@
 40	16	19	Je te donnerai les clefs du Royaume des cieux ; et tout ce que tu lieras sur la terre, sera lié dans les cieux ; et tout ce que tu délieras sur la terre, sera délié dans les cieux (3).
 40	16	20	Alors il recommanda expressément à ses disciples de ne dire à personne qu’il était le Christ.
 40	16	21	Dès lors Jésus commença à déclarer à ses disciples qu'il fallait qu'il aille à Jérusalem, qu'il souffre beaucoup de la part des anciens, des principaux sacrificateurs et des scribes, qu'il soit mis à mort, et qu'il ressuscite le troisième jour.
-40	16	22	Mais Pierre l'ayant pris à part, se mit à le reprendre en lui disant : A Dieu ne plaise Seigneur, cela ne t'arrivera point !
+40	16	22	Mais Pierre l'ayant pris à part, se mit à le reprendre en lui disant : Seigneur, aie pitié de toi, cela ne t'arrivera point !
 40	16	23	Mais Jésus, se retournant, dit à Pierre : Arrière de moi, Satan ! Tu m'es en scandale, car tu ne comprends pas les choses qui sont de Dieu, mais seulement celles qui sont des hommes.
 40	16	24	Alors Jésus dit à ses disciples : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, et qu'il se charge de sa croix, et qu’il me suive.
 40	16	25	Car quiconque voudra sauver son âme, la perdra ; mais quiconque perdra son âme à cause de son amour pour moi, la trouvera.
@@ -683,7 +683,7 @@
 40	21	1	Lorsqu’ils approchèrent de Jérusalem, et qu'ils furent arrivés à Bethphagé vers le Mont des oliviers, Jésus envoya alors deux disciples,
 40	21	2	en leur disant : Allez au village qui est devant vous. Vous trouverez une ânesse attachée, et son ânon avec elle. Détachez-les et amenez-les-moi.
 40	21	3	Et si quelqu'un vous dit quelque chose, vous direz que le Seigneur en a besoin ; et aussitôt il les laissera aller.
-40	21	4	Or, tout cela arriva afin que s’accomplît ce qui avait été annoncé par le prophète, en disant :
+40	21	4	Or, tout cela arriva afin que s’accomplisse ce qui avait été annoncé par le prophète, en disant :
 40	21	5	Dites à la fille de Sion : Voici, ton Roi vient à toi, plein de douceur, et monté sur un âne, sur un ânon, le petit d'une ânesse (1).
 40	21	6	Les disciples donc s'en allèrent, et firent ce que Jésus leur avait ordonné.
 40	21	7	Et ils amenèrent l'ânesse et l'ânon, et mirent leurs vêtements sur eux, et le firent asseoir dessus.
@@ -729,7 +729,7 @@
 40	22	1	Jésus, prenant la parole, leur parla de nouveau en paraboles, et il dit :
 40	22	2	Le Royaume des cieux est semblable à un roi qui fit des noces pour son fils.
 40	22	3	Il envoya ses serviteurs pour appeler ceux qui avaient été conviés aux noces ; mais ils ne voulurent pas venir.
-40	22	4	Il envoya encore d'autres serviteurs, disant : Dites aux conviés : Voici, j'ai préparé mon festin ; mes bœufs et mes bêtes grasses sont tuées, et tout est prêt ; venez aux noces.
+40	22	4	Il envoya encore d'autres serviteurs, disant : Dites aux conviés : Voici, j'ai préparé mon festin ; mes bœufs et mes bêtes grasses sont tués, et tout est prêt ; venez aux noces.
 40	22	5	Mais, sans tenir compte de l’invitation, ils s’en allèrent l'un à son champ, et l'autre à son trafic.
 40	22	6	Et les autres se saisirent de ses serviteurs, les outragèrent, et les tuèrent.
 40	22	7	Quand le roi l'entendit, il se mit en colère ; il envoya ses troupes, fit périr ces meurtriers, et brûla leur ville.
@@ -1574,7 +1574,7 @@
 41	12	43	Et Jésus, ayant appelé ses disciples, leur dit : Je vous le dis en vérité, cette pauvre veuve a plus mis dans le tronc que tous ceux qui y ont mis.
 41	12	44	Car tous ont mis de leur superflu ; mais elle a mis de son nécessaire, tout ce qu'elle possédait, tout ce qu’elle avait pour vivre.
 41	13	1	Lorsque Jésus sortit du temple, un de ses disciples lui dit : Maître, regarde quelles pierres et quelles constructions !
-41	13	2	Jésus lui répondit : Vois-tu ces grandes constructions ? Il ne restera pas pierre sur pierre qui ne soit pas renversée.
+41	13	2	Jésus lui répondit : Vois-tu ces grands bâtiments ? Il ne restera pas pierre sur pierre qui ne soit pas démolie.
 41	13	3	Il s’assit sur le Mont des oliviers, en face du temple. Et Pierre, Jacques, Jean et André, lui posèrent en particulier cette question :
 41	13	4	Dis-nous quand cela arrivera-t-il, et à quel signe connaîtra-t-on que ces choses vont s'accomplir ?
 41	13	5	Jésus se mit à leur dire : Prenez garde que personne ne vous séduise.
@@ -2687,7 +2687,7 @@
 42	21	3	Et il dit : Je vous le dis en vérité, cette pauvre veuve a mis plus que tous les autres.
 42	21	4	Car tous ceux-ci ont mis aux offrandes de Dieu, de leur superflu ; mais elle a mis de son nécessaire, tout ce qu'elle avait pour vivre.
 42	21	5	Comme quelques-uns disaient que le temple était orné de belles pierres et d’offrandes, il dit :
-42	21	6	Vous contemplez ces choses ! Les jours viendront où, il ne restera pas pierre sur pierre qui ne soit renversée.
+42	21	6	Vous contemplez ces choses ! Les jours viendront où, il ne restera pas pierre sur pierre qui ne soit démolie.
 42	21	7	Ils lui demandèrent : Maître, quand donc cela arrivera-t-il, et à quel signe connaîtra-t-on que ces choses vont arriver ?
 42	21	8	Jésus répondit : Prenez garde que vous ne soyez point séduits. Car plusieurs viendront en mon Nom, disant : C’est moi qui suis le Christ et le temps approche. Ne les suivez pas.
 42	21	9	Quand vous entendrez parler des guerres et des soulèvements, ne soyez pas effrayés ; car il faut que ces choses arrivent premièrement. Mais ce ne sera pas encore la fin.
@@ -2769,7 +2769,7 @@
 42	22	47	Et comme il parlait encore, voici une foule arriva ; et celui qui s’appelait Judas, l'un des douze, marchait devant elle. Il s’approcha de Jésus pour l’embrasser.
 42	22	48	Et Jésus lui dit : Judas, c’est par un baiser que tu trahis le Fils de l'homme ?
 42	22	49	Alors ceux qui étaient autour de lui, voyant ce qui allait arriver, lui dirent : Seigneur, frapperons-nous de l'épée ?
-42	22	5O	Et l'un d'eux frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille droite.
+42	22	50	Et l'un d'eux frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille droite.
 42	22	51	Mais Jésus prenant la parole dit : Laissez-les faire jusqu’ici. Et, ayant touché son oreille, il le guérit.
 42	22	52	Puis Jésus dit aux principaux sacrificateurs, aux chefs des gardes du temple, et aux anciens qui étaient venus contre lui : Etes-vous venus comme après un brigand avec des épées et des bâtons ?
 42	22	53	J’étais tous les jours avec vous dans le temple, et vous n'avez pas mis la main sur moi. Mais c'est ici votre heure, et la puissance des ténèbres.
@@ -2780,17 +2780,17 @@
 42	22	58	Peu après, un autre le voyant, dit : Tu es aussi de ces gens-là, mais Pierre dit : Ô homme ! Je n'en suis point.
 42	22	59	Environ une heure plus tard, un autre affirmait et disait : Certainement celui-ci aussi était avec lui car il est Galiléen.
 42	22	60	Pierre dit : Ô homme ! Je ne sais pas ce que tu dis. Au même instant, comme il parlait encore, le coq chanta.
-42	22	61	Et le Seigneur, s’étant retourné, regarda Pierre. Et Pierre se souvint de la parole que le Seigneur
-42	fois.	62	Alors Pierre étant sorti dehors, pleura amèrement.
-42	fois.	63	Les hommes qui tenaient Jésus , se moquaient de lui, et le frappaient.
-42	fois.	64	Ils lui bandèrent les yeux, ils lui donnaient des coups sur le visage, et l'interrogeaient, disant : Devine qui est celui qui t'a frappé ?
-42	fois.	65	Et ils proféraient contre lui beaucoup d’autres injures.
-42	fois.	66	Quand le jour fut venu, les anciens du peuple, les principaux sacrificateurs, et les scribes, s'assemblèrent, et firent amener Jésus dans le sanhédrin.
-42	fois.	67	Ils dirent : Si tu es le Christ, dis-le-nous. Et il leur répondit : Si je vous le dis, vous ne le croirez point ;
-42	fois.	68	et si je vous interroge, vous ne me répondrez pas, et vous ne me laisserez pas aller.
-42	fois.	69	Désormais le Fils de l'homme sera assis à la droite de la puissance de Dieu.
-42	fois.	70	Alors ils dirent tous : Tu es donc le Fils de Dieu ? Et il leur répondit : Vous le dites vous-mêmes, je le suis.
-42	fois.	71	Alors ils dirent : Qu'avons-nous besoin encore de témoignage ? Nous l'avons entendu nous-mêmes de sa bouche.
+42	22	61	Et le Seigneur, s’étant retourné, regarda Pierre. Et Pierre se souvint de la parole que le Seigneur lui avait dite : Avant que le coq chante, tu me renieras trois fois.
+42	22	62	Alors Pierre étant sorti dehors, pleura amèrement.
+42	22	63	Les hommes qui tenaient Jésus , se moquaient de lui, et le frappaient.
+42	22	64	Ils lui bandèrent les yeux, ils lui donnaient des coups sur le visage, et l'interrogeaient, disant : Devine qui est celui qui t'a frappé ?
+42	22	65	Et ils proféraient contre lui beaucoup d’autres injures.
+42	22	66	Quand le jour fut venu, les anciens du peuple, les principaux sacrificateurs, et les scribes, s'assemblèrent, et firent amener Jésus dans le sanhédrin.
+42	22	67	Ils dirent : Si tu es le Christ, dis-le-nous. Et il leur répondit : Si je vous le dis, vous ne le croirez point ;
+42	22	68	et si je vous interroge, vous ne me répondrez pas, et vous ne me laisserez pas aller.
+42	22	69	Désormais le Fils de l'homme sera assis à la droite de la puissance de Dieu.
+42	22	70	Alors ils dirent tous : Tu es donc le Fils de Dieu ? Et il leur répondit : Vous le dites vous-mêmes, je le suis.
+42	22	71	Alors ils dirent : Qu'avons-nous besoin encore de témoignage ? Nous l'avons entendu nous-mêmes de sa bouche.
 42	23	1	Ils se levèrent tous, et ils conduisirent Jésus devant Pilate.
 42	23	2	Ils se mirent à l'accuser, disant : Nous avons trouvé cet homme excitant notre nation à la révolte, et empêchant de payer le tribut à César, et se disant lui-même Christ, Roi.
 42	23	3	Pilate l'interrogea, disant : Es-tu le Roi des Juifs ? Et Jésus lui répondit : Tu le dis.
@@ -6720,7 +6720,7 @@
 55	3	17	afin que l'homme de Dieu soit accompli et parfaitement instruit pour toute bonne œuvre.
 55	4	1	Je te somme devant Dieu, et devant le Seigneur Jésus-Christ, qui doit juger les vivants et les morts, lors de son apparition et de son règne.
 55	4	2	Prêche la parole, insiste en toute occasion, favorable ou non. Reprends, censure, exhorte avec toute douceur d'esprit, et avec doctrine.
-55	4	3	Car il viendra temps où les hommes ne supporteront pas la saine doctrine, mais aimant qu'on leur chatouille les oreilles par des discours agréables, ils chercheront des docteurs qui répondent à leurs désirs (1).
+55	4	3	Car il viendra un temps où les hommes ne supporteront pas la saine doctrine, mais aimant qu'on leur chatouille les oreilles par des discours agréables, ils chercheront des docteurs qui répondent à leurs désirs (1).
 55	4	4	Et ils détourneront leurs oreilles de la vérité, et se tourneront vers les fables.
 55	4	5	Mais toi, veille en toutes choses, souffre les afflictions, fais l'œuvre d'un évangéliste, rends ton ministère pleinement approuvé.
 55	4	6	Car pour moi, je m'en vais maintenant servir de libation, et le temps de mon départ est proche.
@@ -7424,7 +7424,7 @@
 62	2	24	Que ce que vous avez entendu dès le commencement demeure en vous, car si ce que vous avez entendu dès le commencement demeure en vous, vous demeurerez aussi dans le Fils et dans le Père.
 62	2	25	Et c'est ici la promesse qu'il nous a faite, à savoir la vie éternelle.
 62	2	26	Je vous ai écrit ces choses au sujet de ceux qui vous séduisent.
-62	2	27	Mais l'onction que vous avez reçue de lui demeure en vous, et vous n'avez pas besoin qu'on vous enseigne ; mais comme la même onction vous enseigne toutes choses, qu'elle est véritable et n'est pas un mensonge, demeurerez en lui selon les enseignements qu’elle vous a donnés.
+62	2	27	Mais l'onction que vous avez reçue de lui demeure en vous, et vous n'avez pas besoin qu'on vous enseigne ; mais comme la même onction vous enseigne toutes choses, qu'elle est véritable et n'est pas un mensonge, demeurez en lui selon les enseignements qu’elle vous a donnés.
 62	2	28	Et maintenant, petits enfants, demeurez en lui, afin que lorsqu’il paraîtra, nous ayons de l’assurance, et qu’à son avènement (3) nous ne soyons pas confus et éloignés de lui.
 62	2	29	Si vous savez qu'il est juste, sachez que quiconque fait ce qui est juste est né de lui.
 62	3	1	Voyez quelle charité le Père nous a témoignée, pour que nous soyons appelés enfants de Dieu ! Mais le monde ne nous connaît point, parce qu'il ne l'a point connu.
@@ -7641,7 +7641,7 @@
 66	5	12	Et ils disaient à haute voix : L'Agneau qui a été immolé est digne de recevoir puissance, richesses, sagesse, force, honneur, gloire et louange.
 66	5	13	J'entendis aussi toutes les créatures qui sont dans le ciel, sur la terre, et sous la terre, et dans la mer, et toutes les choses qui y sont, disant : A celui qui est assis sur le trône, et à l'Agneau, soient louange, honneur, gloire, et force, aux siècles des siècles !
 66	5	14	Et les quatre animaux disaient : Amen ! Et les vingt-quatre vieillards se prosternèrent et adorèrent celui qui est vivant aux siècles des siècles.
-66	6	1	Et quand l'agneau eut ouvert l'un des sceaux, je regardai, et j'entendis l'un des quatre animaux qui disait comme avec une voix de tonnerre : Viens, et vois.
+66	6	1	Et quand l'Agneau eut ouvert l'un des sceaux, je regardai, et j'entendis l'un des quatre animaux qui disait comme avec une voix de tonnerre : Viens, et vois.
 66	6	2	Je regardai, et je vis un cheval blanc ; celui qui était monté dessus avait un arc, et il lui fut donné une couronne ; et il partit conquérir, pour remporter la victoire (1).
 66	6	3	Et quand il eut ouvert le second sceau, j'entendis le second animal qui disait : Viens, et vois.
 66	6	4	Et il sortit un autre cheval qui était roux ; il fut donné à celui qui était monté dessus de pouvoir ôter la paix de la terre, afin que les hommes se tuent les uns les autres ; et il lui fut donné une grande épée.
@@ -7756,7 +7756,7 @@
 66	12	16	Mais la terre secourut la femme, elle ouvrit sa bouche, et elle engloutit le fleuve que le dragon avait lancé de sa gueule.
 66	12	17	Alors le dragon fut irrité contre la femme, et s'en alla faire la guerre contre les autres qui sont de la semence de la femme, qui gardent les commandements de Dieu, et qui ont le témoignage de Jésus-Christ.
 66	12	18	Et je me tins sur le sable qui borde la mer.
-66	13	1	Et je vis monter de la mer une bête (1) qui avait sept têtes et dix cornes, et sur ses cornes dix diadèmes, et sur ses têtes un nom de blasphème.
+66	13	1	Et je vis monter de la mer une bête (1) qui avait sept têtes et dix cornes, et sur ses cornes dix diadèmes, et sur ses têtes des noms de blasphème.
 66	13	2	Et la bête que je vis était semblable à un léopard, ses pieds étaient comme ceux d'un ours ; sa gueule était comme la gueule d'un lion (2). Et le dragon lui donna sa puissance, son trône, et une grande autorité.
 66	13	3	Et je vis l'une de ses têtes comme blessée à mort, mais sa blessure mortelle fut guérie. Remplie d’admiration, la terre entière suivit la bête.
 66	13	4	Et ils adorèrent le dragon, parce qu’il avait donné l’autorité à la bête, et ils adorèrent aussi la bête, en disant : Qui est semblable à la bête, et qui peut combattre contre elle ?
@@ -7812,7 +7812,7 @@
 66	16	8	Ensuite, le quatrième ange versa sa coupe sur le soleil, et le pouvoir lui fut donné de brûler les hommes par le feu,
 66	16	9	de sorte que les hommes furent brûlés par de grandes chaleurs, et ils blasphémèrent le Nom de Dieu qui a puissance sur ces fléaux ; et ils ne se repentirent pas pour lui donner gloire.
 66	16	10	Le cinquième ange versa sa coupe sur le trône de la bête, et son royaume fut couvert de ténèbres, et les hommes se mordaient la langue à cause de la douleur qu'ils ressentaient.
-66	16	11Et	ils blasphémèrent le Dieu du ciel à cause de leurs douleurs et de leurs ulcères ; et ils ne se repentirent pas de leurs œuvres.
+66	16	11	Et ils blasphémèrent le Dieu du ciel à cause de leurs douleurs et de leurs ulcères ; et ils ne se repentirent pas de leurs œuvres.
 66	16	12	Puis le sixième ange versa sa coupe sur le grand fleuve, l’Euphrate. Et son eau tarit, afin de préparer la voie des rois venant du côté où le soleil se lève (l’orient).
 66	16	13	Et je vis sortir de la gueule du dragon, et de la gueule de la bête, et de la bouche du faux prophète, trois esprits impurs, semblables à des grenouilles.
 66	16	14	Car ce sont des esprits de démons, qui font des prodiges, et qui vont vers les rois de la terre et du monde entier, afin de les assembler pour le combat de ce grand jour du Dieu Tout-Puissant.
@@ -7899,7 +7899,7 @@
 66	20	11	Puis je vis un grand trône blanc, et celui qui était assis dessus. La terre et le ciel s’enfuirent devant sa face, et il ne fut plus trouvé de place pour eux.
 66	20	12	Et je vis les morts, les grands et les petits, qui se tenaient devant le trône de Dieu. Des livres furent ouverts, et un autre livre fut ouvert, celui qui est le Livre de vie. Et les morts furent jugés selon les choses qui étaient écrites dans les livres, c'est-à-dire selon leurs œuvres.
 66	20	13	Et la mer rendit les morts qui étaient en elle, et la mort et l'enfer rendirent les morts qui étaient en eux ; et ils furent jugés chacun selon ses œuvres.
-66	20	14	Et la Mort et l'Enfer furent jetés dans l'étang de feu (3). C'est la seconde mort.
+66	20	14	Et la mort et l'enfer furent jetés dans l'étang de feu (3). C'est la seconde mort.
 66	20	15	Et quiconque ne fut pas trouvé écrit dans le Livre de vie fut jeté dans l'étang de feu.
 66	21	1	Puis je vis un nouveau ciel et une nouvelle terre ; car le premier ciel et la première terre avaient disparu, et la mer n'était plus.
 66	21	2	Et moi, Jean, je vis la ville sainte, la nouvelle Jérusalem, qui descendait du ciel, d’auprès de Dieu, parée comme une épouse qui s'est ornée pour son mari.
