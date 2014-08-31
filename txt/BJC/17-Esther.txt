@@ -28,7 +28,7 @@ Esther 2
 4 et la jeune fille qui plaira au roi régnera à la place de Vasthi. Ce discours plût au roi, et il fit ainsi.
 5 Or, il y avait à Suse, la capitale, un juif nommé Mardochée, fils de Jaïr, fils de Schimeï, fils de Kis, Benjamite,
 6 qui avait été emmené de Jérusalem (1), parmi les captifs déportés avec Jeconia, roi de Juda, par Nebucadnetsar, roi de Babylone.
-7 Il élevait Hadassa, qui est Esther, fille de son oncle ; car elle n'avait ni père ni mère. La jeune fille était belle de taille et très belle de figure. Après la mort de son père et de sa mère, Mardochée l'avait prise pour fille.
+7 Il élevait Hadassa, qui est Esther, fille de son oncle ; car elle n'avait ni père ni mère. La jeune fille était belle de taille et très belle de figure. Après la mort de son père et de sa mère, Mardochée l'avait prise pour fille.
 8 Lorsqu’on eut publié l’ordre du roi et son édit, un grand nombre de jeunes filles furent rassemblées à Suse, la capitale, sous la charge d'Hégaï. Esther fut aussi amenée dans la maison du roi, sous la charge d'Hégaï, gardien des femmes.
 9 La jeune fille lui plut, et trouva grâce à ses yeux, il s’empressa de lui fournir les parfums nécessaires pour sa toilette, et pour sa subsistance, lui donna sept jeunes filles choisies, et établies dans la maison du roi, il lui fit changer d'appartement, et la logea, elle et ses servantes, dans le meilleur des appartements de la maison des femmes.
 10 Esther ne fit connaître ni son peuple ni sa parenté, car Mardochée lui avait ordonné de ne rien raconter.
@@ -79,7 +79,7 @@ Esther 4
 15 Esther fit cette réponse à Mardochée :
 16 Va, rassemble tous les juifs qui se trouvent à Suse, et jeûnez pour moi, sans manger ni boire pendant trois jours, ni la nuit ni le jour. Moi aussi et mes servantes nous jeûnerons de même, puis j'entrerai chez le roi, malgré la loi ; et si je dois périr, je périrai.
 17 Mardochée s'en alla, et fit comme Esther lui avait ordonné.
-Esther 1
+Esther 5
 1 Le troisième jour, Esther mit des vêtements royaux et se présenta dans la cour intérieure de la maison du roi, devant la maison du roi. Le roi était assis sur le trône dans la maison royale, en face de l’entrée de la maison.
 2 Dès que le roi vit la reine Esther debout dans la cour, elle trouva grâce à ses yeux ; le roi tendit à Esther le sceptre d'or qui était dans sa main. Esther s'approcha, et toucha le bout du sceptre.
 3 Le roi lui dit : Qu'as-tu, reine Esther, et que demandes-tu ? Quand ce serait la moitié du royaume, elle te serait donnée.
@@ -102,8 +102,8 @@ Esther 6
 5 Les serviteurs du roi répondirent : C’est Haman qui se tient dans la cour. Et le roi dit : Qu'il entre.
 6 Haman entra, et le roi lui dit : Que faudrait-il faire à un homme que le roi désire honorer ? Haman se dit en lui-même : A qui le roi voudrait-il faire plus honneur qu'à moi ?
 7 Haman répondit au roi : Pour un homme que le roi désire honorer,
-8 qu’on lui apporte le vêtement royal, dont le roi se vêt, et qu'on lui amène le cheval que le roi monte, et qu'on lui mette la couronne royale sur la tête. 
-9 Et qu'ensuite on donne ce vêtement et ce cheval à quelqu'un des principaux et des plus grands chefs qui sont auprès du roi, et qu'on revête l'homme que le roi prend plaisir d'honorer, et qu'on le fasse aller à cheval par les rues de la ville ; et qu'on crie devant lui : C'est ainsi qu'on doit faire à l'homme que le roi prend plaisir d'honorer. 
+8 qu’on lui apporte le vêtement royal, dont le roi se vêt, et qu'on lui amène le cheval que le roi monte, et qu'on lui mette la couronne royale sur la tête. 
+9 Et qu'ensuite on donne ce vêtement et ce cheval à quelqu'un des principaux et des plus grands chefs qui sont auprès du roi, et qu'on revête l'homme que le roi prend plaisir d'honorer, et qu'on le fasse aller à cheval par les rues de la ville ; et qu'on crie devant lui : C'est ainsi qu'on doit faire à l'homme que le roi prend plaisir d'honorer. 
 10 Alors le roi dit à Haman : Prends tout de suite le vêtement, et le cheval, comme tu l'as dit, et fais ainsi à Mardochée, le juif qui est assis à la porte du roi ; ne néglige rien de tout ce que tu as déclaré.
 11 Et Haman prit le vêtement et le cheval, il revêtit Mardochée, il le promena à cheval à travers les rues de la ville, et il criait devant lui : C'est ainsi que l’on fait à l'homme que le roi désire honorer.
 12 Mardochée retourna à la porte du roi, et Haman se retira en hâte dans sa maison, pleurant et ayant la tête voilée.
@@ -112,13 +112,13 @@ Esther 6
 Esther 7
 1 Le roi et Haman allèrent au festin chez la reine Esther.
 2 Le roi dit encore à Esther, ce second jour, pendant qu’on buvait le vin : Quelle est ta demande, reine Esther ? Elle te sera donnée. Que désires-tu ? Quand ce serait la moitié du royaume, cela te sera accordé.
-3 Alors la reine Esther répondit, et dit : Si j'ai trouvé grâce à tes yeux, ô roi ! et si le roi le trouve bon, que ma vie me soit donnée à ma demande, et que mon peuple me soit donné à ma prière. 
+3 Alors la reine Esther répondit, et dit : Si j'ai trouvé grâce à tes yeux, ô roi ! et si le roi le trouve bon, que ma vie me soit donnée à ma demande, et que mon peuple me soit donné à ma prière. 
 4 Car nous avons été vendus, mon peuple et moi, pour être détruits, tués, exterminés. Si nous avions été vendus pour être esclaves et serviteurs, j’aurais gardé le silence, bien que l'oppresseur ne saurait compenser le dommage fait au roi.
 5 Le roi Assuérus parla et dit à la reine Esther : Qui est-il et où est l’homme dont le cœur est consacré à faire cela ?
 6 Esther répondit : L'oppresseur, l'ennemi, c’est Haman, ce méchant ! Alors Haman fut terrifié en présence du roi et de la reine.
 7 Le roi, dans sa colère, se leva et quitta le festin, il entra dans le jardin du palais. Haman resta pour demander grâce pour sa vie à la reine Esther, car il voyait bien que sa perte était résolue par le roi.
 8 Puis le roi revint du jardin du palais dans la salle du festin, il vit Haman qui s’était précipité sur le lit où était Esther, et il dit : Serait-ce encore pour faire violence sous mes yeux à la reine dans cette maison ? Dès que la parole fut sortie de la bouche du roi, on voila le visage d'Haman.
-9 Et Harbona, l'un des eunuques, dit en présence du roi : Voici, le bois préparé par Haman pour Mardochée, qui a parlé pour le bien du roi, est dressé dans la maison d'Haman, à une hauteur de cinquante coudées. Le roi dit : Qu’on y pende Haman !
+9 Et Harbona, l'un des eunuques, dit en présence du roi : Voici, le bois préparé par Haman pour Mardochée, qui a parlé pour le bien du roi, est dressé dans la maison d'Haman, à une hauteur de cinquante coudées. Le roi dit : Qu’on y pende Haman !
 10 On pendit Haman au bois qu'il avait préparé pour Mardochée. Et la colère du roi fut apaisée.
 Esther 8
 1 Ce même jour, le roi Assuérus donna à la reine Esther la maison d'Haman, l'oppresseur des juifs ; et Mardochée fut introduit devant le roi, car Esther avait déclaré quel était son lien de parenté avec elle.

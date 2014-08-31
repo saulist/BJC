@@ -126,7 +126,7 @@ for file_name in list_files :
     # browse each line of the file
     for line in list_lines :
         # filter book name like : 2 Corinthiens 5
-        if re.search(r'^\d\s+[A-Za-zéèÉÈ]+\s*\d+\s*', line) :
+        if re.search(r'^\d\s+[A-Za-zéèêëîïôÉÈÊËÎÏ]+\s*\d+\s*', line) :
             line = line.split(' ')
             bname = line[0]+' '+line[1].rstrip()
             cnumber = line[2].rstrip()
@@ -137,7 +137,7 @@ for file_name in list_files :
                 data_w.write('\t</CHAPTER>\n')
                 data_w.write('\t<CHAPTER cnumber="'+cnumber+'">\n')
         # filter book name like : Romains 16
-        elif re.search(r'^[A-Za-zéèÉÈ]+\s*\d+\s*', line) :
+        elif re.search(r'^[A-Za-zéèêëîïôÉÈÊËÎÏ]+\s*\d+\s*', line) :
             line = line.split(' ',1)
             bname = line[0].rstrip()
             cnumber = line[1].rstrip()

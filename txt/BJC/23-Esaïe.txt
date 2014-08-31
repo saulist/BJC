@@ -168,7 +168,7 @@ Esaïe 8
 9 Poussez des cris de guerre, peuples ! Et vous serez brisés ; prêtez l'oreille, vous tous habitants des pays éloignés ! Préparez-vous au combat, et vous serez brisés. 
 10 Formez des projets, et ils seront anéantis ; et votre parole sera sans effet : Car le Dieu fort est avec nous. 
 11 Car ainsi m'a parlé Yahweh, quand sa main forte me saisit et qu’il m’avertit de ne pas marcher dans la voie de ce peuple :
-12 Ne dites point : Conjuration, toutes les fois que ce peuple dit conjuration ; ne craignez point ce qu'il craint, et ne soyez pas effrayés. 
+12 Ne dites point : Conjuration, toutes les fois que ce peuple dit conjuration ; ne craignez point ce qu'il craint, et ne soyez pas effrayés. 
 13 C’est Yahweh des armées que vous devez sanctifier, c’est lui que vous devez craindre et redouter. 
 14 Et il sera un sanctuaire, mais aussi une pierre d'achoppement (2), un rocher de scandale pour les deux maisons d'Israël, un filet et un piège pour les habitants de Jérusalem. 
 15 Plusieurs d’entre eux trébucheront, ils tomberont et se briseront, ils seront enlacés et pris. 
@@ -206,7 +206,7 @@ Esaïe 10
 2 pour refuser la justice aux pauvres et ravir leur droit aux malheureux de mon peuple, pour faire des veuves leur proie, et des orphelins leur butin ! 
 3 Que ferez-vous au jour du châtiment et de la ruine éclatante qui viendra de loin ? Vers qui fuirez-vous pour avoir du secours et où laisserez-vous votre gloire (1) ? 
 4 Les uns seront courbés parmi les prisonniers, les autres tomberont parmi les morts. Malgré tout cela, sa colère ne s’apaisera point, et sa main est encore étendue. 
-5 Malheur à l’Assyrie, verge de ma colère ! La verge dans sa main c’est l’instrument de ma fureur.  
+5 Malheur à l’Assyrie, verge de ma colère ! La verge dans sa main c’est l’instrument de ma fureur.  
 6 Je l’ai envoyé contre une nation impie, et je l’ai fait marcher contre le peuple de mon courroux, afin qu'il se livre au pillage et fasse du butin, pour qu’il le foule aux pieds comme la boue des rues. 
 7 Mais il n’en juge pas ainsi, et ce n’est pas là la pensée de son cœur ; mais il ne songe qu’à détruire, qu’à exterminer beaucoup de nations. 
 8 Car il dit : Mes princes ne sont-ils pas autant de rois ? 
@@ -427,7 +427,7 @@ Esaïe 22
 10 Vous comptez les maisons de Jérusalem, et vous démolissez les maisons pour fortifier la muraille.
 11 Vous faites un réservoir d'eau entre les deux murailles, pour les eaux de l’ancien étang. Mais vous ne regardez pas vers celui qui a voulu ces choses, vous ne voyez pas celui qui les a préparées de loin. 
 12 Le Seigneur, Yahweh des armées, vous appelle en ce jour à pleurer et à vous frapper la poitrine, à vous raser la tête et à ceindre le sac (2). 
-13 Et voici il y a de la joie et de l'allégresse ! On égorge des bœufs et l’on tue des moutons, on mange la viande, et l’on boit du vin ; puis on dit : Mangeons et buvons, car demain nous mourrons (3) ! 
+13 Et voici il y a de la joie et de l'allégresse ! On égorge des bœufs et l’on tue des moutons, on mange la viande, et l’on boit du vin ; puis on dit : Mangeons et buvons, car demain nous mourrons (3) ! 
 14 Yahweh des armées me l’a déclaré, disant : Non, cette iniquité ne sera point pardonnée que vous ne soyez morts, dit le Seigneur, Yahweh des armées.
 15 Ainsi parle le Seigneur, Yahweh des armées : Va, entre chez ce trésorier, chez Schebna, gouverneur du palais et dis-lui :
 16 Qu'as-tu à faire ici, et qu’as-tu ici qui t'appartienne, que tu creuses ici un sépulcre ? Il se creuse un sépulcre en hauteur, il se taille une demeure dans le rocher.
@@ -814,7 +814,7 @@ Esaïe 40
 11 Il paîtra son troupeau comme un berger, il rassemblera les agneaux dans ses bras, il les portera dans son sein ; il conduira celles qui allaitent (5). 
 12 Qui est celui qui a mesuré les eaux dans le creux de sa main, pris les dimensions des cieux avec la paume, qui a rassemblé toute la poussière de la terre dans un boisseau, et qui a pesé au crochet les montagnes et les collines à la balance ? 
 13 Qui a mesuré l'Esprit de Yahweh, ou qui a été son conseiller pour l’instruire (6) ? 
-14 De qui a-t-il pris conseil pour en recevoir de l’instruction ? Qui lui a appris le chemin de la justice ? Qui lui a enseigné la science et fait connaître le chemin de l’intelligence ? 
+14 De qui a-t-il pris conseil pour en recevoir de l’instruction ? Qui lui a appris le chemin de la justice ? Qui lui a enseigné la science et fait connaître le chemin de l’intelligence ? 
 15 Voici, les nations sont comme une goutte qui tombe d'un seau, et elles sont comme de la poussière sur une balance ; voici, les îles sont comme une fine poussière qui s’envole. 
 16 Le Liban ne suffirait pas pour le feu, et ses animaux ne seraient pas suffisants pour l'holocauste.
 17 Toutes les nations sont devant lui comme un rien, et il ne les considère que comme de la poussière, et comme un néant. 
@@ -905,7 +905,7 @@ Esaïe 43
 14 Ainsi parle Yahweh, votre rédempteur (4), le Saint d'Israël : Par amour pour vous, j’envoie l’ennemi contre Babylone, et je fais descendre tous les fugitifs, et on entendra le cri des Chaldéens sur les navires. 
 15 Moi, Yahweh, je suis votre Saint, le créateur d'Israël, votre Roi. 
 16 Ainsi parle Yahweh, qui fraya un chemin dans la mer, et un sentier parmi les eaux puissantes ; 
-17 qui mit en campagne des chars et des chevaux, une armée et de vaillants guerriers, pour être couchés ensembles et ne plus se relever, pour être anéantis, éteints comme une mèche de lin : 
+17 qui mit en campagne des chars et des chevaux, une armée et de vaillants guerriers, pour être couchés ensembles et ne plus se relever, pour être anéantis, éteints comme une mèche de lin : 
 18 Ne pensez plus aux choses passées, et ne considérez plus ce qui est ancien.
 19 Voici, je vais faire une chose nouvelle (5) qui paraîtra bientôt, ne la connaîtrez-vous pas ? Je mettrai un chemin dans le désert et des fleuves dans la solitude. 
 20 Les bêtes des champs me glorifieront, les serpents et les autruches, parce que j'aurai mis des eaux dans le désert et des fleuves dans la solitude, pour abreuver mon peuple que j'ai élu. 
@@ -955,7 +955,7 @@ Esaïe 45
 6 Afin que l’on sache, du soleil levant au soleil couchant, qu’à part moi il n'y a point Dieu. Je suis Yahweh, et il n'y en a point d'autre.
 7 Je forme la lumière et je crée les ténèbres ; je donne la paix et je crée l'adversité ; c'est moi Yahweh qui fais toutes ces choses. 
 8 Ô cieux ! Répandez la rosée d'en haut, et que les nuées laissent couler la justice ! Que la terre s'ouvre, qu'elle produise le salut, qu’elle fasse germer la justice ! Moi, Yahweh, je crée ces choses.
-9 Malheur à celui qui conteste avec celui qui l’a façonné ! Vase parmi des vases de terre ! L'argile dit-elle à celui qui la façonne : Que fais-tu ? Et l’œuvre dit-elle à l’ouvrier : Tu n'as point de mains (2) ? 
+9 Malheur à celui qui conteste avec celui qui l’a façonné ! Vase parmi des vases de terre ! L'argile dit-elle à celui qui la façonne : Que fais-tu ? Et l’œuvre dit-elle à l’ouvrier : Tu n'as point de mains (2) ? 
 10 Malheur à celui qui dit à son père : Pourquoi m’as-tu engendré ? Et à sa mère : Pourquoi m’as-tu enfanté ?
 11 Ainsi parle Yahweh, le Saint d'Israël, qui est son Créateur : Veut-on m’interroger sur les choses à venir, me donner des ordres sur mes fils, et sur l’œuvre de mes mains ? 
 12 C'est moi qui ai fait la terre et qui ai créé l'homme sur elle ; c'est moi qui ai étendu les cieux de mes mains, et qui ai donné la loi à toute leur armée.
@@ -1053,7 +1053,7 @@ Esaïe 49
 25 Car ainsi parle Yahweh : Oui, la capture du puissant lui sera enlevée, et le butin de l’impie lui sera enlevé ; car je combattrai moi-même tes adversaires, et je délivrerai tes fils. 
 26 Je ferai manger à tes oppresseurs leur propre chair ; ils s'enivreront de leur sang comme du moût, et toute chair connaîtra que je suis Yahweh, ton Sauveur, ton Rédempteur, le puissant de Jacob. 
 Esaïe 50
-1 Ainsi parle Yahweh : Où est la lettre de divorce par laquelle j’ai répudié votre mère (1) ? Ou bien, auquel de mes créanciers vous ai-je vendus ? Voici, vous avez été vendus à cause de vos iniquités, et votre mère a été répudiée à cause de vos péchés.
+1 Ainsi parle Yahweh : Où est la lettre de divorce par laquelle j’ai répudié votre mère (1) ? Ou bien, auquel de mes créanciers vous ai-je vendus ? Voici, vous avez été vendus à cause de vos iniquités, et votre mère a été répudiée à cause de vos péchés.
 2 Je suis venu : Pourquoi n’y avait-il personne ? J’ai appelé : Pourquoi personne n’a-t-il répondu ? Ma main est-elle trop courte pour racheter (2) ? N'y a-t-il plus de force en moi pour délivrer ? Par ma menace, je dessèche la mer, je réduis les fleuves en désert ; leurs poissons se corrompent faute d’eau, et ils meurent de soif. 
 3 Je revêts les cieux d’obscurité, et je fais d’un sac leur couverture. 
 4 Le Seigneur, Yahweh, m'a donné la langue des savants, pour que je sache soutenir par la parole celui qui est accablé de maux (3) ; chaque matin il me réveille soigneusement afin que je prête l'oreille aux discours des sages. 
@@ -1087,7 +1087,7 @@ Esaïe 51
 20 Tes fils en défaillance gisaient à tous les carrefours de toutes les rues, comme un bœuf sauvage pris dans les filets, pleins de la fureur de Yahweh, de la répréhension de ton Dieu. 
 21 C'est pourquoi, écoute maintenant ceci, ô malheureuse, ivre, mais non pas de vin :
 22 Ainsi parle Yahweh, ton Seigneur et ton Dieu, qui plaide la cause de son peuple : Voici, je prends de la main la coupe d'étourdissement, la lie de la coupe de ma fureur, tu ne la boiras plus !
-23 Car je la mettrai dans la main de tes oppresseurs, qui disaient à ton âme : Courbe-toi, et nous passerons ! Tu faisais alors de ton dos comme une terre, comme une rue pour les passants. 
+23 Car je la mettrai dans la main de tes oppresseurs, qui disaient à ton âme : Courbe-toi, et nous passerons ! Tu faisais alors de ton dos comme une terre, comme une rue pour les passants. 
 Esaïe 52
 1 Réveille-toi, réveille-toi, Sion ! Revêts-toi de ta force ! Jérusalem, ville sainte ! Revêts-toi de tes vêtements magnifiques ! Car il n’entrera plus chez toi ni incirconcis ni impur. 
 2 Jérusalem, secoue ta poussière, lève-toi, mets-toi sur ton séant ! Détache les liens de ton cou, captive, fille de Sion !
@@ -1095,11 +1095,11 @@ Esaïe 52
 4 Car ainsi parle le Seigneur, Yahweh : Mon peuple descendit jadis en Egypte pour y séjourner ; puis l’Assyrien l’opprima sans cause. 
 5 Et maintenant, qu'ai-je à faire ici, dit Yahweh, quand mon peuple a été enlevé gratuitement ? Ceux qui dominent sur lui le font hurler, dit Yahweh, et mon Nom est continuellement blasphémé chaque jour. 
 6 C'est pourquoi mon peuple connaîtra mon Nom ; c'est pourquoi il saura, en ce jour, que c'est moi qui parle : Me voici !
-7 Qu’ils sont beaux, sur les montagnes, les pieds de celui qui apporte de bonnes nouvelles, qui publie la paix (1) ! De celui qui apporte de bonnes nouvelles touchant le bien, de celui qui publie le salut ! De celui qui dit à Sion : Ton Dieu règne ! 
+7 Qu’ils sont beaux, sur les montagnes, les pieds de celui qui apporte de bonnes nouvelles, qui publie la paix (1) ! De celui qui apporte de bonnes nouvelles touchant le bien, de celui qui publie le salut ! De celui qui dit à Sion : Ton Dieu règne ! 
 8 Tes sentinelles élèvent leurs voix, elles se réjouissent ensemble avec chants de triomphe ; car de leurs propres yeux elles voient que Yahweh ramène Sion. 
 9 Déserts de Jérusalem, éclatez, réjouissez-vous ensemble avec chants de triomphe ; car Yahweh console son peuple, il rachète Jérusalem. 
 10 Yahweh manifeste le bras de sa sainteté aux yeux de toutes les nations (2), et toutes les extrémités de la terre verront le salut (3) de notre Dieu. 
-11 Retirez-vous, retirez-vous, sortez de là ! Ne touchez rien d’impur ! Sortez du milieu d'elle (4) ! Purifiez-vous, vous qui portez les vases de Yahweh. 
+11 Retirez-vous, retirez-vous, sortez de là ! Ne touchez rien d’impur ! Sortez du milieu d'elle (4) ! Purifiez-vous, vous qui portez les vases de Yahweh. 
 12 Car vous ne sortirez pas avec précipitation, et vous ne marcherez pas en fuyant, car Yahweh ira devant vous, et le Dieu d'Israël sera votre arrière-garde.
 13 Voici, mon serviteur prospérera, il sera fort exalté, élevé et glorifié.
 14 De même qu’il a été pour plusieurs un sujet d’étonnement, tant son visage était défiguré, tant son aspect différait de celui des fils de l’homme, 
@@ -1277,7 +1277,7 @@ Esaïe 63
 5 Je regardais, personne pour m’aider ; j’étais étonné, personne pour me soutenir ; alors mon bras m'a sauvé et ma fureur m'a soutenu. 
 6 Ainsi j'ai foulé des peuples dans ma colère, et je les ai enivrés dans ma fureur ; et j'ai répandu leur sang sur la terre. 
 7 Je publierai les bontés de Yahweh, les louanges de Yahweh, pour tous les bienfaits que Yahweh nous a faits ; je dirai sa grande bonté envers la maison d’Israël, qu’il a traitée selon ses compassions et la richesse de sa miséricorde.
-8 Il avait dit : Certainement, ils sont mon peuple, des enfants qui ne seront pas infidèles ! Et il a été pour eux un Sauveur.
+8 Il avait dit : Certainement, ils sont mon peuple, des enfants qui ne seront pas infidèles ! Et il a été pour eux un Sauveur.
 9 Dans toutes leurs détresses, il a été en angoisse, et l'ange qui est devant sa face les a délivrés (1) ; lui-même les a rachetés dans son amour et sa miséricorde, et constamment il les a soutenus et portés, aux anciens jours. 
 10 Mais ils ont été rebelles, et ils ont attristés son Esprit saint (2), c'est pourquoi il est devenu leur ennemi, il a lui-même combattu contre eux. 
 11 Alors son peuple se souvint des anciens jours de Moïse. Où est celui, a-t-on dit, qui les fit monter de la mer, avec les bergers de son troupeau ? Où est celui qui mettait au milieu d'eux son Esprit saint ? 

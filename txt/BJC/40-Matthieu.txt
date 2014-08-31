@@ -1,6 +1,6 @@
 Matthieu 1
 1 Livre de la généalogie de Jésus-Christ, fils de David, fils d’Abraham.
-2 Abraham engendra Isaac ; Isaac engendra Jacob ; Jacob engendra Juda et ses frères ; 
+2 Abraham engendra Isaac ; Isaac engendra Jacob ; Jacob engendra Juda et ses frères ; 
 3 Juda engendra Pérets et Zara, de Thamar ; Pérets engendra Esrom ; Esrom engendra Aram ; 
 4 Aram engendra Aminadab ; Aminadab engendra Naasson ; et Naasson engendra Salmon ; 
 5 Salmon engendra Boaz, de Rahab (1); Boaz engendra Obed, de Ruth (2) ; Obed engendra Isaï ; 
@@ -53,11 +53,11 @@ Matthieu 3
 2 Il disait : Repentez-vous, car le Royaume des cieux est proche. 
 3 Car c'est celui dont Esaïe le prophète a parlé, en disant : C’est ici la voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, aplanissez ses sentiers. 
 4 Jean avait un vêtement de poils de chameau, et une ceinture de cuir autour de ses reins. Et il se nourrissait de sauterelles et de miel sauvage. 
-5 Alors les habitants de Jérusalem, et de toute la Judée, et de tout le pays des environs du Jourdain, vinrent à lui ; 
+5 Alors les habitants de Jérusalem, et de toute la Judée, et de tout le pays des environs du Jourdain, vinrent à lui ; 
 6 et confessant leurs péchés, ils se faisaient baptiser par lui dans le Jourdain. 
 7 Mais, voyant venir à son baptême beaucoup de pharisiens et de sadducéens, il leur dit : Race de vipères, qui vous a appris à fuir la colère à venir ? 
 8 Produisez donc des fruits convenables à la repentance, 
-9 et ne prétendez pas dire en vous-mêmes : Nous avons Abraham pour père ! Car je vous dis que Dieu peut faire naître de ces pierres mêmes des enfants à Abraham. 
+9 et ne prétendez pas dire en vous-mêmes : Nous avons Abraham pour père ! Car je vous dis que Dieu peut faire naître de ces pierres mêmes des enfants à Abraham. 
 10 Et déjà la cognée est mise à la racine des arbres ; c'est pourquoi tout arbre qui ne produit pas de bons fruits sera coupé et jeté au feu. 
 11 Pour moi, je vous baptise d'eau en signe de repentance ; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de porter ses souliers ; celui-là vous baptisera du Saint-Esprit et de feu (1). 
 12 Il a son van à la main, et il nettoiera entièrement son aire, et il assemblera son froment dans le grenier ; mais il brûlera la paille dans un feu qui ne s'éteint point. 
@@ -74,9 +74,9 @@ Matthieu 4
 5 Alors le diable le transporta dans la sainte ville et le mit sur le haut du temple ; 
 6 et il lui dit : Si tu es le Fils de Dieu, jette-toi en bas ; car il est écrit : Il ordonnera à ses anges de te porter sur leurs mains, de peur que ton pied ne heurte contre une pierre (2). 
 7 Jésus lui dit : Il est aussi écrit : Tu ne tenteras point le Seigneur ton Dieu (3). 
-8 Le diable le transporta encore sur une forte haute montagne, et lui montra tous les royaumes du monde et leur gloire ;
+8 Le diable le transporta encore sur une forte haute montagne, et lui montra tous les royaumes du monde et leur gloire ;
 9 et il lui dit : Je te donnerai toutes ces choses, si tu te prosternes et m'adores. 
-10 Mais Jésus lui dit : Retire-toi Satan ! Car il est écrit : Tu adoreras le Seigneur ton Dieu, et tu le serviras lui seul (4). 
+10 Mais Jésus lui dit : Retire-toi Satan ! Car il est écrit : Tu adoreras le Seigneur ton Dieu, et tu le serviras lui seul (4). 
 11 Alors le diable le laissa. Et voici, des anges s'approchèrent et le servirent. 
 12 Jésus, ayant appris que Jean avait été mis en prison, se retira dans la Galilée. 
 13 Et ayant quitté Nazareth, il alla demeurer à Capernaüm, ville maritime, sur les confins de Zabulon et de Nephthali. 
@@ -84,7 +84,7 @@ Matthieu 4
 15 Le pays de Zabulon et le pays de Nephthali, de la contrée voisine de la mer, au-delà du Jourdain, et la Galilée des païens ; 
 16 Ce peuple, assis dans les ténèbres, a vu une grande lumière ; et à ceux qui étaient assis dans la région et l'ombre de la mort, la lumière elle-même s'est levée (5). 
 17 Dès lors, Jésus commença à prêcher et à dire : Repentez-vous, car le Royaume des cieux est proche. 
-18 Comme Jésus marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient leurs filets dans la mer ; car ils étaient pêcheurs. 
+18 Comme Jésus marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient leurs filets dans la mer ; car ils étaient pêcheurs. 
 19 Et il leur dit : Suivez-moi, et je vous ferai pêcheurs d'hommes. 
 20 Et ayant aussitôt quitté leurs filets, ils le suivirent. 
 21 Et de là étant allé plus avant, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, dans une barque, avec Zébédée leur père, qui réparaient leurs filets, et il les appela. 
@@ -114,7 +114,7 @@ Matthieu 5
 19 Celui donc qui aura violé l'un de ces petits commandements, et qui aura enseigné les hommes à faire de même, sera appelé le plus petit au Royaume des cieux ; mais celui qui les observera, et qui enseignera à les observer, celui-là sera appelé grand au Royaume des cieux. 
 20 Car je vous dis que si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le Royaume des cieux. 
 21 Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point, et celui qui tuera, sera puni par les juges.
-22 Mais moi je vous dis que quiconque se met en colère sans cause contre son frère sera puni par les juges ; et celui qui dira à son frère : Raca ! sera puni par le conseil ; et celui qui lui dira : Insensé ! sera puni par le feu de la géhenne (1). 
+22 Mais moi je vous dis que quiconque se met en colère sans cause contre son frère sera puni par les juges ; et celui qui dira à son frère : Raca ! sera puni par le conseil ; et celui qui lui dira : Insensé ! sera puni par le feu de la géhenne (1). 
 23 Si donc tu apportes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi, 
 24 laisse là ton offrande devant l'autel, et va te réconcilier d’abord avec ton frère, puis viens et offre ton offrande. 
 25 Accorde-toi rapidement avec ta partie adverse, tandis que tu es en chemin avec elle ; de peur que ta partie adverse ne te livre au juge, et que le juge ne te livre à l’officier de justice, et que tu ne sois mis en prison. 
@@ -154,7 +154,7 @@ Matthieu 6
 10 Que ton règne vienne. Que ta volonté soit faite sur la terre comme au ciel. 
 11 Donne-nous aujourd'hui notre pain quotidien. 
 12 Pardonne-nous nos offenses, comme nous aussi nous pardonnons à ceux qui nous ont offensés. 
-13 Ne nous induis pas en tentation ; mais délivre-nous du mal. Car c’est à toi qu’appartiennent, dans tous les siècles, le règne, et la puissance et la gloire. Amen ! 
+13 Ne nous induis pas en tentation ; mais délivre-nous du mal. Car c’est à toi qu’appartiennent, dans tous les siècles, le règne, et la puissance et la gloire. Amen ! 
 14 Car si vous pardonnez aux hommes leurs offenses, votre Père céleste vous pardonnera aussi les vôtres. 
 15 Mais si vous ne pardonnez point aux hommes leurs offenses, votre Père ne vous pardonnera point non plus vos offenses. 
 16 Et quand vous jeûnerez, ne prenez pas un air triste, comme font les hypocrites ; car ils se rendent le visage tout défait, afin de montrer aux hommes qu'ils jeûnent. Je vous le dis en vérité, ils reçoivent leur récompense. 
@@ -180,7 +180,7 @@ Matthieu 7
 1 Ne jugez point, afin que vous ne soyez point jugés. 
 2 Car on vous jugera du jugement dont vous jugez, et l’on vous mesurera avec la mesure dont vous mesurez. 
 3 Et pourquoi vois-tu la paille qui est dans l’œil de ton frère, et n’aperçois-tu pas la poutre qui est dans ton œil ? 
-4 Ou comment peux-tu dire à ton frère : Permets que j'ôte de ton œil cette paille, et n’aperçois-tu pas la poutre dans ton œil ?
+4 Ou comment peux-tu dire à ton frère : Permets que j'ôte de ton œil cette paille, et n’aperçois-tu pas la poutre dans ton œil ?
 5 Hypocrite, ôte premièrement de ton œil la poutre, et après cela tu verras comment tu ôteras la paille de l’œil de ton frère. 
 6 Ne donnez point les choses saintes aux chiens, et ne jetez point vos perles devant les pourceaux, de peur qu'ils ne les foulent aux pieds, ne se retournent et ne vous déchirent. 
 7 Demandez, et il vous sera donné. Cherchez, et vous trouverez. Frappez, et l’on vous ouvrira. 
@@ -215,7 +215,7 @@ Matthieu 8
 6 et disant : Seigneur, mon serviteur qui est paralytique est couché à la maison et il souffre extrêmement. 
 7 Jésus lui dit : J'irai, et je le guérirai. 
 8 Mais le centenier lui répondit : Seigneur, je ne suis pas digne que tu entres sous mon toit ; mais dis seulement une parole, et mon serviteur sera guéri. 
-9 Car moi-même qui suis un homme soumis à l’autorité d’un autre, j'ai des soldats sous mes ordres, et je dis à l'un : Va ! et il va ; et à un autre : Viens ! et il vient ; et à mon serviteur : Fais cela ! et il le fait. 
+9 Car moi-même qui suis un homme soumis à l’autorité d’un autre, j'ai des soldats sous mes ordres, et je dis à l'un : Va ! et il va ; et à un autre : Viens ! et il vient ; et à mon serviteur : Fais cela ! et il le fait. 
 10 Après l’avoir entendu, Jésus fut étonné et dit à ceux qui le suivaient : Je vous le dis en vérité, même en Israël je n'ai pas trouvé une aussi grande foi. 
 11 Or, je vous dis que plusieurs viendront de l’orient et de l’occident, et seront à table dans le Royaume des cieux, avec Abraham, Isaac et Jacob. 
 12 Et les enfants du Royaume seront jetés dans les ténèbres du dehors, où il y aura des pleurs et des grincements de dents. 
@@ -238,7 +238,7 @@ Matthieu 8
 29 Et voici, ils s'écrièrent : Qu'y a-t-il entre nous et toi, Jésus Fils de Dieu ? Es-tu venu ici nous tourmenter avant le temps ? 
 30 Et il y avait loin d'eux un grand troupeau de pourceaux qui paissaient. 
 31 Et les démons le priaient en disant : Si tu nous chasses dehors, permets-nous d’entrer dans ce troupeau de pourceaux. 
-32 Et il leur dit : Allez ! Et ils sortirent et entrèrent dans le troupeau de pourceaux. Et voici, tout le troupeau de pourceaux se précipita des pentes escarpées dans la mer, et ils périrent dans les eaux. 
+32 Et il leur dit : Allez ! Et ils sortirent et entrèrent dans le troupeau de pourceaux. Et voici, tout le troupeau de pourceaux se précipita des pentes escarpées dans la mer, et ils périrent dans les eaux. 
 33 Ceux qui les gardaient s'enfuirent et allèrent dans la ville, ils racontèrent toutes ces choses, et ce qui était arrivé aux démoniaques. 
 34 Et voici, toute la ville alla à la rencontre de Jésus, et l'ayant vu, ils le prièrent de se retirer de leur pays.
 Matthieu 9
@@ -246,7 +246,7 @@ Matthieu 9
 2 Et voici, on lui présenta un paralytique couché sur un lit. Et Jésus voyant leur foi, dit au paralytique : Prends courage, mon enfant ! Tes péchés te sont pardonnés. 
 3 Et voici, quelques-uns des scribes disaient au dedans d’eux : Cet homme blasphème. 
 4 Mais Jésus, connaissant leurs pensées, leur dit : Pourquoi avez-vous de mauvaises pensées dans vos cœurs ? 
-5 Car lequel est le plus aisé de dire : Tes péchés te sont pardonnés ; ou de dire : Lève-toi, et marche ? 
+5 Car lequel est le plus aisé de dire : Tes péchés te sont pardonnés ; ou de dire : Lève-toi, et marche ? 
 6 Or afin que vous sachiez que le Fils de l'homme a le pouvoir sur la terre de pardonner les péchés : Lève-toi, dit-il au paralytique, prends ton lit, et va dans ta maison. 
 7 Et il se leva, et s'en alla dans sa maison. 
 8 Quand la foule vit cela, elle fut saisie d’étonnement, et elle glorifiait Dieu qui a donné aux hommes un tel pouvoir. 
@@ -258,7 +258,7 @@ Matthieu 9
 14 Alors les disciples de Jean vinrent auprès de lui et lui dirent : Pourquoi nous et les pharisiens jeûnons-nous souvent, tandis que tes disciples ne jeûnent point ? 
 15 Et Jésus leur répondit : Les amis de l’époux peuvent-ils s'affliger pendant que l’époux est avec eux ? Mais les jours viendront où l’époux leur sera enlevé, alors ils jeûneront. 
 16 Aussi personne ne met une pièce de drap neuf à un vieil habit, car la pièce emporterait une partie de l’habit, et la déchirure serait pire. 
-17 On ne met pas non plus du vin nouveau dans de vieilles outres ; autrement les outres se rompent, et le vin se répand, et les outres sont perdues ; mais on met le vin nouveau dans des outres neuves, et l'un et l'autre se conservent. 
+17 On ne met pas non plus du vin nouveau dans de vieilles outres ; autrement les outres se rompent, et le vin se répand, et les outres sont perdues ; mais on met le vin nouveau dans des outres neuves, et l'un et l'autre se conservent. 
 18 Tandis qu’il leur disait ces choses, voici, arriva un chef qui se prosterna devant lui, en lui disant : Ma fille est morte il y a un instant, mais viens, et impose-lui ta main, et elle vivra. 
 19 Et Jésus s'étant levé le suivit avec ses disciples. 
 20 Et voici, une femme atteinte d'une perte de sang depuis douze ans s’approcha par-derrière, et toucha le bord de son vêtement. 
@@ -268,8 +268,8 @@ Matthieu 9
 24 il leur dit : Retirez-vous, car la jeune fille n'est pas morte, mais elle dort ; et ils se moquaient de lui. 
 25 Quand la foule eut été renvoyée, il entra, prit la main de la jeune fille, et elle se leva. 
 26 Et le bruit s'en répandit dans toute la contrée. 
-27 Etant parti de là, Jésus fut suivi par deux aveugles, qui criaient : Fils de David, aie pitié de nous ! 
-28 Et quand il fut arrivé dans la maison, les aveugles s’approchèrent de lui, et Jésus leur dit : Croyez-vous que je puisse faire ce que vous me demandez ? Ils lui répondirent : Oui, Seigneur !
+27 Etant parti de là, Jésus fut suivi par deux aveugles, qui criaient : Fils de David, aie pitié de nous ! 
+28 Et quand il fut arrivé dans la maison, les aveugles s’approchèrent de lui, et Jésus leur dit : Croyez-vous que je puisse faire ce que vous me demandez ? Ils lui répondirent : Oui, Seigneur !
 29 Alors il toucha leurs yeux en disant : Qu'il vous soit fait selon votre foi. 
 30 Et leurs yeux s’ouvrirent. Alors Jésus leur dit sévèrement : Prenez garde que personne ne le sache. 
 31 Mais, dès qu’ils furent sortis, ils répandirent sa renommée dans tout le pays. 
@@ -329,7 +329,7 @@ Matthieu 11
 3 Es-tu celui qui devait venir, ou devons-nous en attendre un autre ? 
 4 Et Jésus leur répondit : Allez, et rapportez à Jean les choses que vous entendez et que vous voyez. 
 5 Les aveugles recouvrent la vue, les boiteux marchent, les lépreux sont purifiés, les sourds entendent, les morts sont ressuscités, et l'Evangile est annoncé aux pauvres (1). 
-6 Mais, heureux celui pour qui je ne serai pas une occasion de chute !
+6 Mais, heureux celui pour qui je ne serai pas une occasion de chute !
 7 Et comme ils s'en allaient, Jésus se mit à dire à la foule au sujet de Jean : Mais qu'êtes-vous allés voir dans le désert ? Un roseau agité par le vent ? 
 8 Mais qu'êtes-vous allés voir ? Un homme vêtu de précieux vêtements ? Voici, ceux qui portent des habits précieux sont dans les maisons des rois. 
 9 Mais qu'êtes-vous allés voir ? Un prophète ? Oui, vous dis-je, et plus qu'un prophète. 
@@ -366,7 +366,7 @@ Matthieu 12
 9 Puis étant parti de là, il entra dans leur synagogue. 
 10 Et voici, il s’y trouvait un homme qui avait la main sèche. Et pour avoir sujet de l'accuser, ils l'interrogèrent en disant : Est-il permis de guérir les jours du sabbat ? 
 11 Et il répondit : Lequel d’entre vous s'il n’a qu’une brebis, et qu'elle vienne à tomber dans une fosse le jour du sabbat, ne la saisira-t-il pas pour l’en retirer ? 
-12 Combien un homme ne vaut-il pas plus qu'une brebis ! Il est donc permis de faire du bien les jours du sabbat. 
+12 Combien un homme ne vaut-il pas plus qu'une brebis ! Il est donc permis de faire du bien les jours du sabbat. 
 13 Alors il dit à cet homme : Etends ta main. Il l'étendit et elle devint saine comme l'autre. 
 14 Les pharisiens sortirent et ils se consultèrent sur les moyens de le faire périr. 
 15 Mais Jésus, l’ayant su, partit de là, et de grandes foules le suivirent. Il les guérit tous 
@@ -387,7 +387,7 @@ Matthieu 12
 30 Celui qui n'est pas avec moi, est contre moi, et celui qui n'assemble pas avec moi disperse. 
 31 C'est pourquoi je vous dis, que tout péché et tout blasphème sera pardonné aux hommes ; mais le blasphème contre l'Esprit ne leur sera point pardonné. 
 32 Quiconque parlera contre le Fils de l'homme, il lui sera pardonné ; mais quiconque parlera contre le Saint-Esprit, il ne lui sera pardonné ni dans ce siècle, ni dans le siècle à venir (3). 
-33 Ou dites que l'arbre est bon, et son fruit est bon ; ou dites que l'arbre est mauvais, et son fruit est mauvais ; car on connaît l'arbre par le fruit. 
+33 Ou dites que l'arbre est bon, et son fruit est bon ; ou dites que l'arbre est mauvais, et son fruit est mauvais ; car on connaît l'arbre par le fruit. 
 34 Race de vipères, comment pourriez-vous dire de bonnes choses, méchants comme vous l’êtes ? Car c’est de l'abondance du cœur que la bouche parle. 
 35 L'homme bon tire de bonnes choses du bon trésor de son cœur ; et l'homme méchant tire de mauvaises choses du mauvais trésor de son cœur. 
 36 Je vous le dis : Les hommes rendront compte au jour du jugement, de toute parole vaine qu'ils auront proférée. 
@@ -399,7 +399,7 @@ Matthieu 12
 42 La reine du Midi se lèvera au jour du jugement contre cette nation et la condamnera, parce qu'elle vint des extrémités de la terre pour entendre la sagesse de Salomon ; et voici, il y a ici plus que Salomon. 
 43 Lorsque l'esprit impur est sorti d'un homme, il va par des lieux arides, cherchant du repos, mais il n'en trouve point. 
 44 Alors il dit : Je retournerai dans ma maison, d'où je suis sorti ; et quand il arrive, il la trouve vide, balayée et ornée. 
-45 Puis il s'en va et il prend avec lui sept autres esprits plus méchants que lui ; ils entrent dans la maison, s’y établissent, et la dernière condition de cet homme est pire que la première. Il en sera de même pour cette génération perverse. 
+45 Puis il s'en va et il prend avec lui sept autres esprits plus méchants que lui ; ils entrent dans la maison, s’y établissent, et la dernière condition de cet homme est pire que la première. Il en sera de même pour cette génération perverse. 
 46 Et comme il parlait encore à la foule, voici, sa mère et ses frères qui étaient dehors cherchèrent à lui parler. 
 47 Et quelqu'un lui dit : Voici, ta mère et tes frères sont dehors et ils cherchent à te parler. 
 48 Mais il répondit à celui qui lui avait dit cela : Qui est ma mère, et qui sont mes frères ? 
@@ -410,7 +410,7 @@ Matthieu 13
 2 Une grande foule s'assembla auprès de lui, c’est pourquoi il monta dans une barque, et il s'assit. Aussi, toute la foule se tenait sur le rivage. 
 3 Et il leur parla en paraboles sur beaucoup de choses, et il dit : Un semeur sortit pour semer. 
 4 Et comme il semait, une partie de la semence tomba le long du chemin, et les oiseaux vinrent, et la mangèrent toute. 
-5 Et une autre partie tomba dans les endroits pierreux, où elle n'avait pas beaucoup de terre : Elle leva aussitôt, parce qu'elle n'entrait pas profondément dans la terre ;
+5 Et une autre partie tomba dans les endroits pierreux, où elle n'avait pas beaucoup de terre : Elle leva aussitôt, parce qu'elle n'entrait pas profondément dans la terre ;
 6 mais, quand le soleil parut, elle fut brûlée et sécha parce qu'elle n'avait point de racines. 
 7 Une autre partie tomba parmi les épines ; et les épines montèrent et l'étouffèrent. 
 8 Une autre partie tomba dans la bonne terre : Et elle donna du fruit, un grain en donna cent, un autre, soixante, et un autre, trente. 
@@ -465,7 +465,7 @@ Matthieu 13
 57 Et il était pour eux une occasion de chute. Mais Jésus leur dit : Un prophète n'est méprisé que dans sa patrie et dans sa maison. 
 58 Et il ne fit là que peu de miracles, à cause de leur incrédulité.
 Matthieu 14
-1 En ce temps-là, Hérode le tétrarque ayant entendu parler de Jésus, dit à ses serviteurs : C’est Jean-Baptiste ! 
+1 En ce temps-là, Hérode le tétrarque ayant entendu parler de Jésus, dit à ses serviteurs : C’est Jean-Baptiste ! 
 2 Il est ressuscité des morts, c'est pourquoi la puissance de faire des miracles agit puissamment en lui. 
 3 Car Hérode avait fait arrêter Jean, et l'avait fait lier et mettre en prison, à cause d'Hérodias, femme de Philippe son frère. 
 4 Parce que Jean lui disait : Il ne t'est pas permis de l'avoir pour femme. 
@@ -477,7 +477,7 @@ Matthieu 14
 10 Et il envoya décapiter Jean dans la prison. 
 11 Et sa tête fut apportée sur un plat et donnée à la fille qui la présenta à sa mère. 
 12 Puis ses disciples vinrent, et emportèrent son corps, et l'ensevelirent. Et ils allèrent l’annoncer à Jésus. 
-13 Et Jésus, ayant appris ce qu’Hérode avait fait, partit de là dans une barque, pour se retirer à l’écart dans un lieu désert ; et la foule l’ayant appris, sortit des villes voisines, et le suivit à pied. 
+13 Et Jésus, ayant appris ce qu’Hérode avait fait, partit de là dans une barque, pour se retirer à l’écart dans un lieu désert ; et la foule l’ayant appris, sortit des villes voisines, et le suivit à pied. 
 14 Et Jésus étant sorti, vit une grande foule, et il fut ému de compassion pour elle, et guérit les malades. 
 15 Et comme il se faisait tard, ses disciples vinrent à lui et lui dirent : Ce lieu est désert et l'heure est déjà avancée. Renvoie la foule, afin qu'elle aille dans les villages, pour s’acheter des vivres. 
 16 Mais Jésus leur dit : Ils n'ont pas besoin de s'en aller ; donnez-leur vous-mêmes à manger. 
@@ -490,11 +490,11 @@ Matthieu 14
 23 Et quand il l’eut renvoyée, il monta sur une montagne pour être à part, afin de prier ; et le soir étant venu, il était là seul. 
 24 La barque, déjà au milieu de la mer, était battue par les flots ; car le vent était contraire. 
 25 Et vers la quatrième veille de la nuit, Jésus alla vers eux, marchant sur la mer. 
-26 Et ses disciples le voyant marcher sur la mer, ils furent troublés, et ils dirent : C’est un fantôme ! Et, dans leur frayeur, ils poussèrent des cris. 
-27 Jésus leur dit aussitôt : Rassurez-vous, c'est moi, n'ayez pas de peur ! 
+26 Et ses disciples le voyant marcher sur la mer, ils furent troublés, et ils dirent : C’est un fantôme ! Et, dans leur frayeur, ils poussèrent des cris. 
+27 Jésus leur dit aussitôt : Rassurez-vous, c'est moi, n'ayez pas de peur ! 
 28 Et Pierre lui répondit : Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux. 
-29 Et il lui dit : Viens ! Pierre sortit de la barque, marcha sur les eaux pour aller vers Jésus. 
-30 Mais voyant que le vent était fort, il eut peur ; et comme il commençait à enfoncer, il s'écria : Seigneur ! Sauve-moi !
+29 Et il lui dit : Viens ! Pierre sortit de la barque, marcha sur les eaux pour aller vers Jésus. 
+30 Mais voyant que le vent était fort, il eut peur ; et comme il commençait à enfoncer, il s'écria : Seigneur ! Sauve-moi !
 31 Et aussitôt Jésus étendit sa main et le prit en lui disant : Homme de peu foi, pourquoi as-tu douté ?
 32 Et quand ils furent montés dans la barque, le vent s'apaisa. 
 33 Alors ceux qui étaient dans la barque, vinrent adorer Jésus et dirent : Certes, tu es le Fils de Dieu. 
@@ -509,11 +509,11 @@ Matthieu 15
 5 Mais vous, vous dites : Celui qui dira à son père ou à sa mère : Tout ce dont j’aurais pu t’assister est une offrande à Dieu, n’est pas coupable, quoiqu’il n’honore pas son père ou sa mère. 
 6 Vous annulez ainsi le commandement de Dieu par votre tradition. 
 7 Hypocrites, Esaïe a bien prophétisé de vous, en disant : 
-8 Ce peuple s’approche de moi de sa bouche et m’honore des lèvres ; mais son cœur est éloigné de moi. 
+8 Ce peuple s’approche de moi de sa bouche et m’honore des lèvres ; mais son cœur est éloigné de moi. 
 9 C’est en vain qu’ils m'honorent, en enseignant des doctrines qui ne sont que des commandements d'hommes (1). 
 10 Puis ayant appelé à lui la foule, il lui dit : Ecoutez, et comprenez ceci : 
 11 Ce n'est pas ce qui entre dans la bouche qui souille l'homme ; mais ce qui sort de la bouche c'est ce qui souille l'homme. 
-12 Alors ses disciples s'approchant, lui dirent : Sais-tu que les pharisiens ont été scandalisés des paroles qu’ils ont entendues ? 
+12 Alors ses disciples s'approchant, lui dirent : Sais-tu que les pharisiens ont été scandalisés des paroles qu’ils ont entendues ? 
 13 Il leur répondit : Toute plante que mon Père céleste n'a pas plantée sera déracinée. 
 14 Laissez-les, ce sont des aveugles qui conduisent des aveugles ; si un aveugle conduit un autre aveugle, ils tomberont tous deux dans une fosse. 
 15 Alors Pierre prenant la parole, lui dit : Explique-nous cette parabole. 
@@ -533,7 +533,7 @@ Matthieu 15
 29 Et Jésus quitta ces lieux, et vint près de la mer de Galilée. Etant monté sur une montagne, il s’y assit. 
 30 Et une grande foule vint à lui, ayant avec elle des boiteux, des aveugles, des muets, des estropiés, et beaucoup d’autres malades. On les mit aux pieds de Jésus, et il les guérit. 
 31 C’est ainsi que la foule était dans l’admiration de voir que les muets parlaient, que les estropiés étaient guéris, que les boiteux marchaient, que les aveugles voyaient ; et elle glorifiait le Dieu d'Israël. 
-32 Alors Jésus, ayant appelé ses disciples, dit : Je suis ému de compassion pour cette foule de gens ; car voilà trois jours qu'ils sont près de moi, et ils n'ont rien à manger. Je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent en chemin. 
+32 Alors Jésus, ayant appelé ses disciples, dit : Je suis ému de compassion pour cette foule de gens ; car voilà trois jours qu'ils sont près de moi, et ils n'ont rien à manger. Je ne veux pas les renvoyer à jeun, de peur que les forces ne leur manquent en chemin. 
 33 Et ses disciples lui dirent : Comment nous procurer dans ce lieu désert assez de pains pour rassasier une si grande foule ? 
 34 Et Jésus leur dit : Combien avez-vous de pains ? Ils lui dirent : Sept, et quelques petits poissons. 
 35 Alors il fit asseoir la foule par terre, 
@@ -563,19 +563,19 @@ Matthieu 16
 19 Je te donnerai les clefs du Royaume des cieux ; et tout ce que tu lieras sur la terre, sera lié dans les cieux ; et tout ce que tu délieras sur la terre, sera délié dans les cieux (3). 
 20 Alors il recommanda expressément à ses disciples de ne dire à personne qu’il était le Christ. 
 21 Dès lors Jésus commença à déclarer à ses disciples qu'il fallait qu'il aille à Jérusalem, qu'il souffre beaucoup de la part des anciens, des principaux sacrificateurs et des scribes, qu'il soit mis à mort, et qu'il ressuscite le troisième jour. 
-22 Mais Pierre l'ayant pris à part, se mit à le reprendre en lui disant : Seigneur, aie pitié de toi, cela ne t'arrivera point ! 
-23 Mais Jésus, se retournant, dit à Pierre : Arrière de moi, Satan ! Tu m'es en scandale, car tu ne comprends pas les choses qui sont de Dieu, mais seulement celles qui sont des hommes. 
+22 Mais Pierre l'ayant pris à part, se mit à le reprendre en lui disant : Seigneur, aie pitié de toi, cela ne t'arrivera point ! 
+23 Mais Jésus, se retournant, dit à Pierre : Arrière de moi, Satan ! Tu m'es en scandale, car tu ne comprends pas les choses qui sont de Dieu, mais seulement celles qui sont des hommes. 
 24 Alors Jésus dit à ses disciples : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, et qu'il se charge de sa croix, et qu’il me suive. 
 25 Car quiconque voudra sauver son âme, la perdra ; mais quiconque perdra son âme à cause de son amour pour moi, la trouvera. 
 26 Et que servirait-il à un homme de gagner tout le monde, s'il perdait son âme ? Ou, que donnerait un homme en échange de son âme ? 
-27 Car le Fils de l'homme doit venir dans la gloire de son Père avec ses anges ; et alors il rendra à chacun selon ses œuvres. 
+27 Car le Fils de l'homme doit venir dans la gloire de son Père avec ses anges ; et alors il rendra à chacun selon ses œuvres. 
 28 Je vous le dis en vérité, quelques-uns de ceux qui sont ici présents, ne mourront point, qu’ils n’aient vu le Fils de l'homme venir dans son règne (4).
 Matthieu 17
 1 Six jours après, Jésus prit Pierre, Jacques et Jean son frère, et les conduisit à l'écart sur une haute montagne. 
 2 Et il fut transfiguré devant eux et son visage resplendit comme le soleil ; et ses vêtements devinrent blancs comme la lumière. 
 3 Et voici, Moïse et Elie leur apparurent, s'entretenant avec lui. 
 4 Alors Pierre prenant la parole, dit à Jésus : Seigneur, il est bon que nous soyons ici. Faisons-y, si tu le veux, trois tentes, une pour toi, une pour Moïse, et une pour Elie. 
-5 Et comme il parlait encore, voici une nuée resplendissante les couvrit de son ombre. Et voici, une voix fit entendre de la nuée ces paroles : Celui-ci est mon Fils bien-aimé, en qui j'ai pris mon bon plaisir : Ecoutez-le ! 
+5 Et comme il parlait encore, voici une nuée resplendissante les couvrit de son ombre. Et voici, une voix fit entendre de la nuée ces paroles : Celui-ci est mon Fils bien-aimé, en qui j'ai pris mon bon plaisir : Ecoutez-le ! 
 6 Lorsque les disciples entendirent cette voix, ils tombèrent le visage contre terre et furent saisis d’une très grande frayeur. 
 7 Mais Jésus, s'approchant, les toucha, et leur dit : Levez-vous, et n'ayez pas peur. 
 8 Ils levèrent les yeux, et ne virent personne, excepté Jésus tout seul. 
@@ -597,7 +597,7 @@ Matthieu 17
 24 Et lorsqu'ils arrivèrent à Capernaüm, ceux qui percevaient les deux drachmes s'adressèrent à Pierre et lui dirent : Votre Maître ne paye-t-il pas les deux drachmes ? 
 25 Oui dit-il. Et quand il fut entré dans la maison, Jésus le prévint en lui disant : Qu'est-ce qu'il t'en semble, Simon ? Les rois de la terre, de qui perçoivent-ils des tributs, ou des impôts ? Est-ce de leurs enfants, ou des étrangers ? 
 26 Pierre dit : Des étrangers. Jésus lui répondit : Les enfants en sont donc exempts. 
-27 Mais, pour ne pas les scandaliser, va à la mer et jette l'hameçon, et prends le premier poisson qui viendra ; ouvre-lui la bouche, tu trouveras un statère. Prends-le, et donne-le-leur pour moi et pour toi.
+27 Mais, pour ne pas les scandaliser, va à la mer et jette l'hameçon, et prends le premier poisson qui viendra ; ouvre-lui la bouche, tu trouveras un statère. Prends-le, et donne-le-leur pour moi et pour toi.
 Matthieu 18
 1 En cette même heure-là, les disciples s’approchèrent de Jésus, et dirent : Qui est le plus grand dans le Royaume des cieux ? 
 2 Et Jésus ayant appelé un petit enfant, le mit au milieu d'eux, 
@@ -605,10 +605,10 @@ Matthieu 18
 4 C'est pourquoi quiconque deviendra humble, comme ce petit enfant, sera le plus grand dans le Royaume des cieux. 
 5 Et quiconque reçoit en mon Nom un petit enfant comme celui-ci, me reçoit moi-même. 
 6 Mais, si quelqu’un scandalisait un de ces petits qui croient en moi, il vaudrait mieux pour lui qu'on mette à son cou une meule d'âne, et qu'on le jette au fond de la mer. 
-7 Malheur au monde à cause des scandales ! Car il est nécessaire qu'il arrive des scandales ; mais malheur à l'homme par qui le scandale arrive ! 
+7 Malheur au monde à cause des scandales ! Car il est nécessaire qu'il arrive des scandales ; mais malheur à l'homme par qui le scandale arrive ! 
 8 Si ta main ou ton pied est pour toi une occasion de chute, coupe-les et jette-les loin de toi ; car il vaut mieux que tu entres boiteux ou manchot dans la vie, que d'avoir deux pieds ou deux mains, et d'être jeté dans le feu éternel. 
 9 Et si ton œil est pour toi une occasion de chute, arrache-le et jette-le loin de toi ; car il vaut mieux que tu entres dans la vie n'ayant qu'un œil, que d'avoir deux yeux, et d'être jeté dans le feu de la géhenne. 
-10 Gardez-vous de mépriser un seul de ces petits ; car je vous dis que dans les cieux leurs anges voient continuellement la face de mon Père qui est aux cieux. 
+10 Gardez-vous de mépriser un seul de ces petits ; car je vous dis que dans les cieux leurs anges voient continuellement la face de mon Père qui est aux cieux. 
 11 Car le Fils de l'homme est venu pour sauver ce qui était perdu. 
 12 Que vous en semble ? Si un homme a cent brebis, et que l’une d’elles s’égare, ne laisse-t-il pas les quatre-vingt-dix-neuf autres, pour aller dans les montagnes chercher celle qui s'est égarée ? 
 13 Et, s'il arrive qu'il la trouve, je vous le dis en vérité, elle lui cause plus de joie que les quatre-vingt-dix-neuf qui ne se sont pas égarées. 
@@ -619,14 +619,14 @@ Matthieu 18
 18 Je vous le dis en vérité, tout ce que vous lierez sur la terre, sera lié dans le ciel ; et tout ce que vous délierez sur la terre sera délié dans le ciel (2). 
 19 Je vous dis aussi que si deux d'entre vous s'accordent sur la terre pour demander une chose quelconque, elle leur sera accordée par mon Père qui est dans les cieux. 
 20 Car là où deux ou trois sont assemblés en mon Nom, je suis là au milieu d'eux. 
-21 Alors Pierre s'approchant, lui dit : Seigneur, combien de fois pardonnerai-je à mon frère lorsqu’il péchera contre moi ? Sera-ce jusqu'à sept fois ? 
+21 Alors Pierre s'approchant, lui dit : Seigneur, combien de fois pardonnerai-je à mon frère lorsqu’il péchera contre moi ? Sera-ce jusqu'à sept fois ? 
 22 Jésus lui répondit : Je ne te dis pas jusqu'à sept fois, mais jusqu'à soixante-dix fois sept fois. 
 23 C'est pourquoi le Royaume des cieux est semblable à un Roi qui voulut faire rendre compte à ses serviteurs. 
 24 Et quand il se mit à compter, on lui en présenta un qui lui devait dix mille talents. 
 25 Et parce qu'il n'avait pas de quoi payer, son maître ordonna qu'il fût vendu, lui, sa femme, ses enfants et tout ce qu'il avait, et que la dette fût acquittée. 
 26 Mais ce serviteur se jetant à ses pieds, le suppliait en disant : Seigneur, aie patience envers moi et je te paierai tout. 
 27 Alors le maître de ce serviteur, ému de compassion, le laissa aller et lui remit la dette. 
-28 Après qu’il fut sorti, ce serviteur rencontra un de ses compagnons de service, qui lui devait cent deniers. Il le saisit et l'étranglait, en lui disant : Paye-moi ce que tu me dois ! 
+28 Après qu’il fut sorti, ce serviteur rencontra un de ses compagnons de service, qui lui devait cent deniers. Il le saisit et l'étranglait, en lui disant : Paye-moi ce que tu me dois ! 
 29 Mais son compagnon de service se jetant à ses pieds, le suppliait en disant : Aie patience envers moi, et je te paierai le tout. 
 30 Mais l’autre ne voulut pas, et il alla le jeter en prison, jusqu'à ce qu'il ait payé la dette. 
 31 Or ses autres compagnons de service voyant ce qui était arrivé, en furent extrêmement attristés, et ils allèrent raconter à leur maître tout ce qui s'était passé. 
@@ -638,8 +638,8 @@ Matthieu 19
 1 Lorsque Jésus eut achevé ces discours, il quitta la Galilée, et alla dans le territoire de la Judée, au-delà du Jourdain. 
 2 Une grande foule le suivit, et là il guérit les malades. 
 3 Alors les pharisiens vinrent à lui pour l'éprouver, et ils lui dirent : Est-il permis à un homme de répudier sa femme pour quelque cause que ce soit ? 
-4 Et il répondit et leur dit : N'avez-vous pas lu que le Créateur, au commencement, fit l’homme et la femme ? 
-5 Et qu'il dit : C’est pourquoi l'homme quittera son père et sa mère, et s’attachera à sa femme, et les deux deviendront une seule chair ? 
+4 Et il répondit et leur dit : N'avez-vous pas lu que le Créateur, au commencement, fit l’homme et la femme ? 
+5 Et qu'il dit : C’est pourquoi l'homme quittera son père et sa mère, et s’attachera à sa femme, et les deux deviendront une seule chair ? 
 6 Ainsi ils ne sont plus deux, mais une seule chair (1). Que l’homme donc ne sépare pas ce que Dieu a mis ensemble sous un joug (2). 
 7 Ils lui dirent : Pourquoi donc Moïse a-t-il prescrit de donner la lettre de divorce, et de répudier sa femme (3) ? 
 8 Il leur dit : C'est à cause de la dureté de votre cœur que Moïse vous a permis de répudier vos femmes ; mais au commencement il n'en était pas ainsi. 
@@ -661,7 +661,7 @@ Matthieu 19
 24 Je vous le dis encore : Il est plus facile à un chameau de passer par le trou d'une aiguille (6), qu’à un riche d’entrer dans le Royaume de Dieu. 
 25 Ses disciples ayant entendu ces choses furent très étonnés, et dirent : Qui peut donc être sauvé ? 
 26 Et Jésus les regarda, et leur dit : Aux hommes, cela est impossible, mais à Dieu tout est possible. 
-27 Alors Pierre prenant la parole, lui dit : Voici, nous avons tout quitté et nous t'avons suivi ; qu’en serait-il pour nous ?
+27 Alors Pierre prenant la parole, lui dit : Voici, nous avons tout quitté et nous t'avons suivi ; qu’en serait-il pour nous ?
 28 Et Jésus leur dit : Je vous le dis en vérité, quand le Fils de l’homme, au renouvellement de toutes choses, sera assis sur le trône de sa gloire, vous qui m’avez suivi, vous serez assis sur douze trônes, et vous jugerez les douze tribus d'Israël. 
 29 Et quiconque aura quitté, à cause de mon Nom, ses maisons, ses frères, ou ses sœurs, ou son père, ou sa mère, ou sa femme, ou ses enfants, ou ses champs, recevra le centuple, et héritera la vie éternelle. 
 30 Plusieurs des premiers seront les derniers, et plusieurs des derniers seront les premiers.
@@ -680,14 +680,14 @@ Matthieu 20
 12 en disant : Ces derniers n'ont travaillé qu'une heure, et tu les traites à l’égal de nous qui avons supporté la fatigue du jour et la chaleur. 
 13 Et il répondit à l'un d'eux et lui dit : Mon ami, je ne te fais pas de tort, n'as-tu pas convenu avec moi d’un denier ? 
 14 Prends ce qui te revient, et va-t’en. Je veux donner à ce dernier autant qu'à toi, 
-15 ne m'est-il pas permis de faire ce que je veux de mes biens ? Ou vois-tu d’un mauvais œil que je sois bon ? 
+15 ne m'est-il pas permis de faire ce que je veux de mes biens ? Ou vois-tu d’un mauvais œil que je sois bon ? 
 16 Ainsi les derniers seront les premiers, et les premiers seront les derniers, car il y a beaucoup d'appelés, mais peu d'élus. 
 17 Pendant que Jésus montait à Jérusalem, il prit à part ses douze disciples, et il leur dit en chemin : 
 18 Voici, nous montons à Jérusalem, et le Fils de l'homme sera livré aux principaux sacrificateurs et aux scribes, et ils le condamneront à la mort. 
 19 Ils le livreront aux païens pour qu’ils se moquent de lui, le battent de verges, et le crucifient ; et le troisième jour il ressuscitera. 
 20 Alors la mère des fils de Zébédée s’approcha de lui avec ses fils, et se prosterna, pour lui demander quelque chose. 
 21 Et il lui dit : Que veux-tu ? Elle lui dit : Ordonne que mes deux fils, que voici, soient assis l'un à ta droite, et l'autre à ta gauche dans ton Royaume. 
-22 Et Jésus répondit et dit : Vous ne savez pas ce que vous demandez. Pouvez-vous boire la coupe que je dois boire, et être baptisés du baptême dont je dois être baptisé ? Ils lui répondirent : Nous le pouvons. 
+22 Et Jésus répondit et dit : Vous ne savez pas ce que vous demandez. Pouvez-vous boire la coupe que je dois boire, et être baptisés du baptême dont je dois être baptisé ? Ils lui répondirent : Nous le pouvons. 
 23 Et il leur dit : Il est vrai que vous boirez ma coupe et que vous serez baptisés du baptême dont je serai baptisé ; mais pour ce qui est d'être assis à ma droite ou à ma gauche, cela ne dépend pas de moi, et ne sera donné qu’à ceux à qui mon Père l’a réservé.
 24 Les dix autres disciples ayant entendu cela, furent indignés contre les deux frères. 
 25 Mais Jésus les appela et leur dit : Vous savez que les princes des nations les dominent, et que les grands les asservissent. 
@@ -703,24 +703,24 @@ Matthieu 20
 Matthieu 21
 1 Lorsqu’ils approchèrent de Jérusalem, et qu'ils furent arrivés à Bethphagé vers le Mont des oliviers, Jésus envoya alors deux disciples, 
 2 en leur disant : Allez au village qui est devant vous. Vous trouverez une ânesse attachée, et son ânon avec elle. Détachez-les et amenez-les-moi. 
-3 Et si quelqu'un vous dit quelque chose, vous direz que le Seigneur en a besoin ; et aussitôt il les laissera aller. 
+3 Et si quelqu'un vous dit quelque chose, vous direz que le Seigneur en a besoin ; et aussitôt il les laissera aller. 
 4 Or, tout cela arriva afin que s’accomplisse ce qui avait été annoncé par le prophète, en disant : 
 5 Dites à la fille de Sion : Voici, ton Roi vient à toi, plein de douceur, et monté sur un âne, sur un ânon, le petit d'une ânesse (1). 
 6 Les disciples donc s'en allèrent, et firent ce que Jésus leur avait ordonné. 
 7 Et ils amenèrent l'ânesse et l'ânon, et mirent leurs vêtements sur eux, et le firent asseoir dessus. 
 8 Alors de grandes foules étendirent leurs vêtements sur le chemin, et les autres coupaient des rameaux des arbres, et les étendaient sur le chemin. 
-9 Ceux qui précédaient et ceux qui suivaient Jésus criaient : Hosanna au Fils de David ! Béni soit celui qui vient au Nom du Seigneur ! Hosanna dans les lieux très hauts ! 
+9 Ceux qui précédaient et ceux qui suivaient Jésus criaient : Hosanna au Fils de David ! Béni soit celui qui vient au Nom du Seigneur ! Hosanna dans les lieux très hauts ! 
 10 Lorsqu’il entra dans Jérusalem, toute la ville fut émue, et l’on disait : Qui est celui-ci ? 
 11 Et la foule répondait : C’est Jésus, le prophète de Nazareth en Galilée. 
-12 Jésus entra dans le temple de Dieu. Il chassa dehors tous ceux qui vendaient et qui achetaient dans le temple ; il renversa les tables des changeurs, et les sièges de ceux qui vendaient des pigeons ; 
+12 Jésus entra dans le temple de Dieu. Il chassa dehors tous ceux qui vendaient et qui achetaient dans le temple ; il renversa les tables des changeurs, et les sièges de ceux qui vendaient des pigeons ; 
 13 et il leur dit : Il est écrit : Ma maison sera appelée une maison de prière, mais vous en avez fait une caverne de voleurs (2). 
 14 Alors des aveugles et des boiteux s’approchèrent de lui dans le temple, et il les guérit. 
 15 Mais les principaux sacrificateurs et les scribes furent indignés à la vue des choses merveilleuses qu'il avait faites, et des enfants qui criaient dans le temple : Hosanna au Fils de David ! 
-16 Et ils lui dirent : Entends-tu ce qu’ils disent ? Oui, leur répondit Jésus. N'avez-vous jamais lu ces paroles : Tu as tiré des louanges de la bouche des enfants, et de ceux qui sont à la mamelle (3) ? 
+16 Et ils lui dirent : Entends-tu ce qu’ils disent ? Oui, leur répondit Jésus. N'avez-vous jamais lu ces paroles : Tu as tiré des louanges de la bouche des enfants, et de ceux qui sont à la mamelle (3) ? 
 17 Et, les ayant laissés, il sortit de la ville, pour aller à Béthanie, où il passa la nuit. 
 18 Le matin, comme il retournait à la ville, il eut faim. 
-19 Et voyant un figuier qui était sur le chemin, il s'en approcha, mais il n'y trouva que des feuilles ; et il lui dit : Qu'aucun fruit ne naisse plus jamais de toi ! Et aussitôt le figuier sécha. 
-20 Les disciples qui virent cela furent étonnés, et dirent : Comment ce figuier est-il devenu sec en un instant ? 
+19 Et voyant un figuier qui était sur le chemin, il s'en approcha, mais il n'y trouva que des feuilles ; et il lui dit : Qu'aucun fruit ne naisse plus jamais de toi ! Et aussitôt le figuier sécha. 
+20 Les disciples qui virent cela furent étonnés, et dirent : Comment ce figuier est-il devenu sec en un instant ? 
 21 Jésus leur répondit : Je vous le dis en vérité, si vous aviez la foi, et que vous ne doutiez point, non seulement vous ferez ce qui a été fait à ce figuier, mais quand vous diriez à cette montagne : Ôte-toi de là et jette-toi dans la mer, cela se ferait. 
 22 Tout ce que vous demanderez avec foi par la prière à Dieu, vous le recevrez. 
 23 Puis, s’étant rendu dans le temple, les principaux sacrificateurs et les anciens du peuple vinrent auprès de lui, pendant qu’il enseignait, et lui dirent : Par quelle autorité fais-tu ces choses ; et qui t'a donné cette autorité ? 
@@ -728,7 +728,7 @@ Matthieu 21
 25 Le baptême de Jean d'où venait-il ? Du ciel, ou des hommes ? Mais ils raisonnèrent ainsi entre eux : Si nous disons : Du ciel, il nous dira : Pourquoi n’avez-vous pas cru en lui ? 
 26 Et si nous répondons : Des hommes, nous craignons la foule, car tous tiennent Jean pour un prophète. 
 27 Alors ils répondirent à Jésus : Nous ne savons pas. Et il leur dit : Moi non plus, je ne vous dirai pas par quelle autorité je fais ces choses. 
-28 Que vous en semble ? Un homme avait deux fils ; et s’adressant au premier, il lui dit : Mon fils, va travailler aujourd'hui dans ma vigne. 
+28 Que vous en semble ? Un homme avait deux fils ; et s’adressant au premier, il lui dit : Mon fils, va travailler aujourd'hui dans ma vigne. 
 29 Il répondit : Je ne veux pas y aller. Ensuite il se repentit et y alla. 
 30 S’adressant à l’autre, il lui dit la même chose. Et ce fils répondit : Je veux bien, seigneur. Et il n’alla pas. 
 31 Lequel des deux a fait la volonté du père ? Ils lui répondirent : Le premier. Et Jésus leur dit : Je vous le dis en vérité, les publicains et les prostituées vous devanceront dans le Royaume de Dieu. 
@@ -738,11 +738,11 @@ Matthieu 21
 35 Mais les vignerons s’étant saisis de ses serviteurs, fouettèrent l'un, tuèrent l'autre, et lapidèrent le troisième. 
 36 Il envoya encore d'autres serviteurs en plus grand nombre que les premiers, et ils leur firent de même. 
 37 Enfin, il envoya vers eux son propre fils, en disant : Ils auront du respect pour mon fils. 
-38 Mais quand les vignerons virent le fils, ils dirent entre eux : Voici l'héritier ; venez, tuons-le, et emparons-nous de son héritage. 
+38 Mais quand les vignerons virent le fils, ils dirent entre eux : Voici l'héritier ; venez, tuons-le, et emparons-nous de son héritage. 
 39 Et ils se saisirent de lui, le jetèrent hors de la vigne, et le tuèrent. 
 40 Maintenant donc, lorsque le maître de la vigne viendra, que fera-t-il à ces vignerons ? 
 41 Ils lui dirent : Il fera périr malheureusement ces méchants, et il affermera la vigne à d'autres vignerons, qui lui en rendront les fruits en leur saison. 
-42 Et Jésus leur dit : N'avez-vous jamais lu dans les Ecritures : La pierre qu’ont rejetée ceux qui bâtissaient, est devenue la principale de l’angle. C’est du Seigneur que cela est venu, et c’est un prodige à nos yeux (4) ? 
+42 Et Jésus leur dit : N'avez-vous jamais lu dans les Ecritures : La pierre qu’ont rejetée ceux qui bâtissaient, est devenue la principale de l’angle. C’est du Seigneur que cela est venu, et c’est un prodige à nos yeux (4) ? 
 43 C'est pourquoi je vous dis que le Royaume de Dieu vous sera enlevé, et il sera donné à une nation qui en rendra les fruits. 
 44 Celui qui tombera sur cette pierre s’y brisera, et celui sur qui elle tombera sera écrasé. 
 45 Après avoir entendu ses paraboles, les principaux sacrificateurs et les pharisiens comprirent qu'il parlait d'eux. 
@@ -754,7 +754,7 @@ Matthieu 22
 4 Il envoya encore d'autres serviteurs, disant : Dites aux conviés : Voici, j'ai préparé mon festin ; mes bœufs et mes bêtes grasses sont tués, et tout est prêt ; venez aux noces. 
 5 Mais, sans tenir compte de l’invitation, ils s’en allèrent l'un à son champ, et l'autre à son trafic. 
 6 Et les autres se saisirent de ses serviteurs, les outragèrent, et les tuèrent. 
-7 Quand le roi l'entendit, il se mit en colère ; il envoya ses troupes, fit périr ces meurtriers, et brûla leur ville. 
+7 Quand le roi l'entendit, il se mit en colère ; il envoya ses troupes, fit périr ces meurtriers, et brûla leur ville. 
 8 Puis il dit à ses serviteurs : Les noces sont prêtes, mais les conviés n’en étaient pas dignes. 
 9 Allez donc dans les carrefours des chemins, et autant de gens que vous trouverez, appelez-les aux noces. 
 10 Ces serviteurs allèrent dans les chemins, et rassemblèrent tous ceux qu'ils trouvèrent, méchants et bons, et la salle des noces fut remplie de conviés qui étaient à table. 
@@ -772,7 +772,7 @@ Matthieu 22
 22 Après avoir entendu cela, ils furent étonnés, ils le quittèrent, et s’en allèrent. 
 23 Le même jour, les sadducéens, qui disent qu'il n'y a pas de résurrection, vinrent auprès de lui, et lui posèrent cette question : 
 24 Maître, Moïse a dit : Si quelqu'un meurt sans enfants, son frère épousera sa femme et suscitera une postérité à son frère. 
-25 Or, il y avait parmi nous sept frères. Le premier se maria et mourut ; et, n'ayant pas eu d'enfants, il laissa sa femme à son frère. 
+25 Or, il y avait parmi nous sept frères. Le premier se maria et mourut ; et, n'ayant pas eu d'enfants, il laissa sa femme à son frère. 
 26 Il en fut de même du deuxième, puis du troisième, jusqu’au septième. 
 27 Après eux tous, la femme mourut aussi. 
 28 A la résurrection, duquel des sept sera-t-elle la femme ? Car tous l'ont eue. 
@@ -797,33 +797,33 @@ Matthieu 22
 Matthieu 23
 1 Alors Jésus parlant à la foule, et à ses disciples, 
 2 dit : Les scribes et les pharisiens sont assis dans la chaire de Moïse. 
-3 Faites donc et observez tout ce qu’ils vous disent ; mais n’agissez pas selon leurs œuvres. Car ils disent, et ne font pas. 
+3 Faites donc et observez tout ce qu’ils vous disent ; mais n’agissez pas selon leurs œuvres. Car ils disent, et ne font pas. 
 4 Ils lient ensemble des fardeaux pesants et insupportables, et les mettent sur les épaules des hommes ; mais ils ne veulent point les remuer de leur doigt. 
 5 Et ils font toutes leurs œuvres pour être vus des hommes. Ainsi, ils portent de larges phylactères, et de longues franges à leurs vêtements. 
 6 Ils aiment les premières places dans les festins, et les premiers sièges dans les synagogues. 
 7 Ils aiment les salutations dans les places publiques, et à être appelés par les hommes : Rabbi, Rabbi. 
 8 Mais vous, ne vous faites pas appeler Rabbi ; car Christ seul est votre Maître ; et vous êtes tous frères. 
 9 Et n'appelez personne sur la terre votre père ; car un seul est votre Père, celui qui est dans les cieux. 
-10 Ne vous faites pas appeler directeurs ; car Christ seul est votre Directeur. 
+10 Ne vous faites pas appeler directeurs ; car Christ seul est votre Directeur. 
 11 Que le plus grand parmi vous, soit votre serviteur. 
 12 Car quiconque s'élèvera sera abaissé ; et quiconque s'abaissera, sera élevé. 
-13 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous fermez le Royaume des cieux aux hommes ; vous n'y entrez pas vous-mêmes, et vous n’y laissez pas entrer ceux qui veulent entrer. 
-14 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous dévorez les maisons des veuves, et que vous faites pour l’apparence de longues prières, c'est pourquoi vous serez jugés plus sévèrement. 
+13 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous fermez le Royaume des cieux aux hommes ; vous n'y entrez pas vous-mêmes, et vous n’y laissez pas entrer ceux qui veulent entrer. 
+14 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous dévorez les maisons des veuves, et que vous faites pour l’apparence de longues prières, c'est pourquoi vous serez jugés plus sévèrement. 
 15 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous courez la mer et la terre pour faire un prosélyte, et quand il l'est devenu, vous le rendez fils de la géhenne, deux fois plus que vous. 
 16 Malheur à vous conducteurs aveugles, qui dites : Si quelqu’un jure par le temple, ce n'est rien ; mais si quelqu’un jure par l'or du temple, il est engagé. 
 17 Insensés et aveugles ! Car lequel est le plus grand, l'or, ou le temple qui sanctifie l'or ? 
 18 Si quelqu’un, dites-vous encore, jure par l'autel, ce n'est rien ; mais si quelqu’un jure par l’offrande qui est sur l'autel, il est engagé. 
 19 Insensés et aveugles ! Car lequel est le plus grand, l’offrande, ou l'autel qui sanctifie l’offrande ? 
 20 Celui donc qui jure par l'autel, jure par l'autel et par toutes les choses qui sont dessus. 
-21 Celui qui jure par le temple, jure par le temple et par celui qui y habite ; 
+21 Celui qui jure par le temple, jure par le temple et par celui qui y habite ; 
 22 et celui qui jure par le ciel, jure par le trône de Dieu et par celui qui y est assis. 
-23 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous payez la dîme (1) de la menthe, de l'aneth et du cumin ; et vous laissez les choses les plus importantes de la loi, c'est-à-dire la justice, la miséricorde et la fidélité. Il fallait pratiquer ces choses-là, sans négliger les autres choses. 
-24 Conducteurs aveugles ! Vous coulez le moucheron et vous engloutissez le chameau (2).
-25 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous nettoyez le dehors de la coupe et du plat ; alors qu’au-dedans ils sont pleins de rapine et d'intempérance. 
+23 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous payez la dîme (1) de la menthe, de l'aneth et du cumin ; et vous laissez les choses les plus importantes de la loi, c'est-à-dire la justice, la miséricorde et la fidélité. Il fallait pratiquer ces choses-là, sans négliger les autres choses. 
+24 Conducteurs aveugles ! Vous coulez le moucheron et vous engloutissez le chameau (2).
+25 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous nettoyez le dehors de la coupe et du plat ; alors qu’au-dedans ils sont pleins de rapine et d'intempérance. 
 26 Pharisien aveugle, nettoie premièrement l’intérieur de la coupe et du plat, afin que l’extérieur aussi devienne net. 
-27 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous êtes semblables aux sépulcres blanchis, qui paraissent beaux au-dehors, et qui au-dedans sont pleins d'ossements de morts, et de toutes espèces d’impuretés. 
+27 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous êtes semblables aux sépulcres blanchis, qui paraissent beaux au-dehors, et qui au-dedans sont pleins d'ossements de morts, et de toutes espèces d’impuretés. 
 28 Ainsi, au-dehors vous paraissez justes aux hommes, mais au-dedans vous êtes pleins d'hypocrisie et d'iniquité. 
-29 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous bâtissez les tombeaux des prophètes, et vous ornez les sépulcres des justes ; 
+29 Malheur à vous, scribes et pharisiens hypocrites ! Parce que vous bâtissez les tombeaux des prophètes, et vous ornez les sépulcres des justes ; 
 30 et vous dites : Si nous avions vécu du temps de nos pères, nous n'aurions pas participé avec eux au meurtre des prophètes. 
 31 Ainsi vous êtes témoins contre vous-mêmes, que vous êtes les enfants de ceux qui ont fait mourir les prophètes. 
 32 Comblez donc la mesure de vos pères. 
@@ -837,7 +837,7 @@ Matthieu 23
 Matthieu 24
 1 Comme Jésus sortait et s'en allait du temple, ses disciples s'approchèrent de lui pour lui faire remarquer les constructions. 
 2 Mais Jésus leur dit : Voyez-vous tout cela ? Je vous le dis en vérité, il ne restera pas ici pierre sur pierre qui ne soit démolie. 
-3 Il s’assit sur la montagne des oliviers. Et les disciples vinrent en particulier lui poser cette question : Dis-nous quand cela arrivera-t-il, et quel sera le signe de ton avènement, et de la fin du monde ? 
+3 Il s’assit sur la montagne des oliviers. Et les disciples vinrent en particulier lui poser cette question : Dis-nous quand cela arrivera-t-il, et quel sera le signe de ton avènement, et de la fin du monde ? 
 4 Jésus leur répondit : Prenez garde que personne ne vous séduise. 
 5 Car plusieurs viendront sous mon Nom, disant : Je suis le Christ. Et ils séduiront beaucoup de gens. 
 6 Vous entendrez parler de guerres et de bruits de guerres ; gardez-vous d’être troublés ; car il faut que toutes ces choses arrivent ; mais ce ne sera pas encore la fin. 
@@ -849,14 +849,14 @@ Matthieu 24
 12 Et parce que l'iniquité sera multipliée, la charité de plusieurs se refroidira. 
 13 Mais celui qui persévérera jusqu'à la fin, sera sauvé. 
 14 Cet Evangile du Royaume sera prêché dans toute la terre habitable, pour servir de témoignage à toutes les nations, et alors viendra la fin. 
-15 C’est pourquoi, lorsque vous verrez l'abomination de la désolation, qui a été prédite par Daniel le prophète (1), être établie dans le lieu saint, que celui qui lit ce prophète fasse attention !
-16 Alors, que ceux qui seront en Judée fuient dans les montagnes ; 
-17 que celui qui sera sur le toit ne descende pas pour emporter quoi que ce soit de sa maison ; 
+15 C’est pourquoi, lorsque vous verrez l'abomination de la désolation, qui a été prédite par Daniel le prophète (1), être établie dans le lieu saint, que celui qui lit ce prophète fasse attention !
+16 Alors, que ceux qui seront en Judée fuient dans les montagnes ; 
+17 que celui qui sera sur le toit ne descende pas pour emporter quoi que ce soit de sa maison ; 
 18 que celui qui sera dans les champs ne retourne pas en arrière pour prendre ses habits. 
 19 Malheur aux femmes enceintes, et à celles qui allaiteront en ces jours-là. 
 20 Priez pour que votre fuite n’arrive pas en hiver, ni un jour de sabbat (2). 
 21 Car alors, la détresse sera si grande qu’il n’y en a point eu de semblable depuis le commencement du monde jusqu’à présent, et qu’il n’y en aura jamais. 
-22 Et si ces jours n’étaient abrégés, personne ne serait sauvé ; mais à cause des élus, ces jours seront abrégés. 
+22 Et si ces jours n’étaient abrégés, personne ne serait sauvé ; mais à cause des élus, ces jours seront abrégés. 
 23 Alors si quelqu'un vous dit : Voici, le Christ est ici ; ou, il est là ; ne le croyez point. 
 24 Car il s'élèvera de faux christs et de faux prophètes, ils feront de grands prodiges et des miracles, pour séduire même les élus, s'il était possible. 
 25 Voici, je vous l'ai prédit. 
@@ -874,7 +874,7 @@ Matthieu 24
 37 Ce qui arriva du temps de Noé, arrivera de même à l'avènement du Fils de l'homme. 
 38 Car, dans les jours qui précédèrent le déluge, les hommes mangeaient et buvaient, se mariaient, et donnaient en mariage leurs enfants, jusqu'au jour où Noé entra dans l'arche ; 
 39 et ils ne se doutèrent de rien, jusqu’à ce que le déluge, vienne et les emporte tous ; il en sera de même à l'avènement du Fils de l'homme. 
-40 Alors, de deux hommes qui seront dans un champ ; l'un sera pris, et l'autre laissé ; 
+40 Alors, de deux hommes qui seront dans un champ ; l'un sera pris, et l'autre laissé ; 
 41 de deux femmes qui moudront à la meule, l'une sera prise, et l'autre laissée. 
 42 Veillez donc, car vous ne savez point à quelle heure votre Seigneur doit venir. 
 43 Sachez-le bien, si un père de famille savait à quelle veille de la nuit le voleur doit venir, il veillerait et ne laisserait pas percer sa maison. 
@@ -889,10 +889,10 @@ Matthieu 24
 Matthieu 25
 1 Alors le Royaume des cieux sera semblable à dix vierges qui, ayant pris leurs lampes, allèrent à la rencontre de l'époux. 
 2 Cinq d’entre elles étaient sages, et cinq folles. 
-3 Les folles, en prenant leurs lampes, ne prirent pas d'huile avec elles ; 
+3 Les folles, en prenant leurs lampes, ne prirent pas d'huile avec elles ; 
 4 mais les sages prirent de l'huile dans leurs vases avec leurs lampes. 
 5 Et comme l'époux tardait à venir, elles s’assoupirent et s'endormirent toutes. 
-6 A minuit un cri s’éleva : Voici, l'époux vient, allez à sa rencontre !
+6 A minuit un cri s’éleva : Voici, l'époux vient, allez à sa rencontre !
 7 Alors toutes ces vierges se réveillèrent (1), et préparèrent leurs lampes. 
 8 Et les folles dirent aux sages : Donnez-nous de votre huile, car nos lampes s'éteignent. 
 9 Mais les sages répondirent : Nous ne pouvons pas vous en donner, de peur que nous n'en ayons pas assez pour nous et pour vous ; mais allez plutôt chez ceux qui en vendent, et achetez-en pour vous. 
@@ -909,7 +909,7 @@ Matthieu 25
 20 Alors celui qui avait reçu les cinq talents, vint, et présenta cinq autres talents, en disant : Seigneur, tu m'as confié cinq talents, voici, j'en ai gagné cinq autres par-dessus. 
 21 Et son Seigneur lui dit : C’est bien, bon et fidèle serviteur ; tu as été fidèle en peu de choses, je t'établirai sur beaucoup ; viens participer à la joie de ton Seigneur. 
 22 Ensuite, celui qui avait reçu les deux talents, vint, et dit : Seigneur, tu m'as confié deux talents ; voici, j'en ai gagné deux autres par-dessus. 
-23 Et son Seigneur lui dit : C’est bien, bon et fidèle serviteur, tu as été fidèle en peu de choses, je t'établirai sur beaucoup ; viens prendre part à la joie de ton Seigneur. 
+23 Et son Seigneur lui dit : C’est bien, bon et fidèle serviteur, tu as été fidèle en peu de choses, je t'établirai sur beaucoup ; viens prendre part à la joie de ton Seigneur. 
 24 Mais celui qui n'avait reçu qu'un talent, vint, et dit : Seigneur, je savais que tu es un homme dur, qui moissonnes où tu n'as point semé, et qui amasses où tu n'as point vanné,
 25 c'est pourquoi craignant de perdre ton talent, je suis allé le cacher dans la terre. Voici, tu as ici ce qui t'appartient. 
 26 Et son Seigneur lui répondit : Méchant et paresseux serviteur, tu savais que je moissonnais où je n'ai point semé, et que j'amassais où je n'ai point vanné, 
@@ -925,7 +925,7 @@ Matthieu 25
 36 j'étais nu, et vous m'avez vêtu ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus vers moi. 
 37 Alors les justes lui répondront : Seigneur, quand t'avons-nous vu avoir faim, et t'avons-nous donné à manger ; ou avoir soif, et t'avons-nous donné à boire ? 
 38 Quand t'avons-nous vu étranger, et t'avons-nous recueilli ; ou nu, et t'avons-nous vêtu ? 
-39 Quand t'avons-nous vu malade, ou en prison, et sommes-nous allés vers toi ? 
+39 Quand t'avons-nous vu malade, ou en prison, et sommes-nous allés vers toi ? 
 40 Et le Roi leur répondra : Je vous le dis en vérité, toutes les fois que vous avez fait ces choses à l'un de ces plus petits de mes frères, c’est à moi que vous les avez faites. 
 41 Alors il dira aussi à ceux qui seront à sa gauche : Maudits, retirez-vous de moi, et allez dans le feu éternel, qui a été préparé pour le diable et pour ses anges. 
 42 Car j'ai eu faim, et vous ne m'avez point donné à manger ; j'ai eu soif et vous ne m'avez point donné à boire ; 
@@ -943,7 +943,7 @@ Matthieu 26
 7 une femme s’approcha de lui tenant un vase d'albâtre, plein d'un parfum de grand prix, et pendant qu’il était à table, elle répandit le parfum sur sa tête. 
 8 Ses disciples voyant cela, furent indignés, et dirent : A quoi sert cette perte ? 
 9 On aurait pu vendre ce parfum très cher, et en donner le prix aux pauvres. 
-10 Mais Jésus, s’en étant aperçu, leur dit : Pourquoi faites-vous de la peine à cette femme ? Car elle a fait une bonne action à mon égard ;
+10 Mais Jésus, s’en étant aperçu, leur dit : Pourquoi faites-vous de la peine à cette femme ? Car elle a fait une bonne action à mon égard ;
 11 car vous aurez toujours des pauvres avec vous ; mais vous ne m'aurez pas toujours. 
 12 En répandant ce parfum sur mon corps, elle l'a fait pour ma sépulture. 
 13 Je vous le dis en vérité, partout où cet Evangile sera prêché, dans le monde entier, on racontera aussi en mémoire de cette femme ce qu’elle a fait. 
@@ -957,14 +957,14 @@ Matthieu 26
 21 Pendant qu’ils mangeaient, il dit : Je vous le dis en vérité, l'un de vous me trahira. 
 22 Ils furent profondément attristés, et chacun d'eux commença à lui dire : Seigneur, est-ce moi ? 
 23 Mais il leur répondit : Celui qui a mis avec moi la main dans le plat pour tremper, c'est celui qui me trahira. 
-24 Le Fils de l'homme s'en va, selon qu'il est écrit de lui ; mais malheur à cet homme par qui le Fils de l'homme est trahi ! Mieux vaudrait pour cet homme qu’il ne soit pas né. 
+24 Le Fils de l'homme s'en va, selon qu'il est écrit de lui ; mais malheur à cet homme par qui le Fils de l'homme est trahi ! Mieux vaudrait pour cet homme qu’il ne soit pas né. 
 25 Judas qui le trahissait, prit la parole et dit : Maître, est-ce moi ? Jésus lui dit : Tu l'as dit. 
 26 Pendant qu’ils mangeaient, Jésus prit le pain, et après avoir rendu grâces à Dieu, il le rompit et le donna à ses disciples, et leur dit : Prenez, mangez, ceci est mon corps. 
-27 Il prit ensuite la coupe, et après avoir rendu grâces à Dieu, il la leur donna, en leur disant : Buvez-en tous ; 
+27 Il prit ensuite la coupe, et après avoir rendu grâces à Dieu, il la leur donna, en leur disant : Buvez-en tous ; 
 28 car ceci est mon sang, le sang de l’alliance, qui est répandu pour beaucoup, pour la rémission des péchés. 
 29 Je vous le dis, je ne boirai plus désormais de ce fruit de la vigne, jusqu'au jour où j’en boirai du nouveau avec vous, dans le Royaume de mon Père. 
 30 Après avoir chanté les cantiques (2), ils se rendirent à la montagne des oliviers. 
-31 Alors Jésus leur dit : Je serai pour vous tous, cette nuit, une occasion de chute ; car il est écrit : Je frapperai le Berger, et les brebis du troupeau seront dispersées (3). 
+31 Alors Jésus leur dit : Je serai pour vous tous, cette nuit, une occasion de chute ; car il est écrit : Je frapperai le Berger, et les brebis du troupeau seront dispersées (3). 
 32 Mais, après que je serai ressuscité, je vous précéderai en Galilée. 
 33 Pierre, prenant la parole, lui dit : Même si tu étais pour tous une occasion de chute, tu ne le seras jamais pour moi. 
 34 Jésus lui dit : Je te le dis en vérité, cette nuit même, avant que le coq chante, tu me renieras trois fois. 
@@ -972,9 +972,9 @@ Matthieu 26
 36 Alors Jésus alla avec eux dans un lieu appelé Gethsémané, et il dit à ses disciples : Asseyez-vous ici, pendant que je m’éloignerai pour prier. 
 37 Il prit avec lui Pierre et les deux fils de Zébédée, et il commença à éprouver de la tristesse et des angoisses. 
 38 Il leur dit : Mon âme est tristesse jusqu’à la mort ; restez ici, et veillez avec moi. 
-39 Puis, ayant fait quelques pas en avant, il se prosterna le visage contre terre, et pria ainsi : Mon Père, s'il est possible, que cette coupe s’éloigne de moi ! Toutefois, non pas ce que je veux, mais ce que tu veux. 
+39 Puis, ayant fait quelques pas en avant, il se prosterna le visage contre terre, et pria ainsi : Mon Père, s'il est possible, que cette coupe s’éloigne de moi ! Toutefois, non pas ce que je veux, mais ce que tu veux. 
 40 Puis il vint vers ses disciples, qu’il trouva endormis, et il dit à Pierre : Vous n’avez pas pu veiller une heure avec moi ? 
-41 Veillez et priez, afin que vous ne tombiez pas en tentation ; l'esprit est bien disposé, mais la chair est faible. 
+41 Veillez et priez, afin que vous ne tombiez pas en tentation ; l'esprit est bien disposé, mais la chair est faible. 
 42 Il s’éloigna encore pour la seconde fois, et il pria, disant : Mon Père, s'il n'est pas possible que cette coupe s’éloigne sans que je la boive, que ta volonté soit faite. 
 43 Il revint ensuite, et les trouva encore endormis ; car leurs yeux étaient appesantis. 
 44 Et les ayant laissés, il s'en alla encore, et pria pour la troisième fois, disant les mêmes paroles. 
@@ -982,12 +982,12 @@ Matthieu 26
 46 Levez-vous, allons. Voici, celui qui me trahit s'approche. 
 47 Comme il parlait encore, voici, Judas, l'un des douze, vint, et avec lui une grande foule, avec des épées et des bâtons, envoyée par les principaux sacrificateurs et par les anciens du peuple. 
 48 Celui qui le trahissait leur avait donné ce signe : Celui à qui je donnerai un baiser, c'est lui, saisissez-le. 
-49 Aussitôt, s'approchant de Jésus, il lui dit : Salut. Rabbi ! Et il lui donna un baiser. 
+49 Aussitôt, s'approchant de Jésus, il lui dit : Salut. Rabbi ! Et il lui donna un baiser. 
 50 Jésus lui dit : Mon ami, ce que tu es venu faire, fais-le. Alors s'étant approchés, ils mirent la main sur Jésus, et le saisirent. 
-51 Et voici, l'un de ceux qui étaient avec Jésus, étendit la main et tira son épée ; il frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille. 
+51 Et voici, l'un de ceux qui étaient avec Jésus, étendit la main et tira son épée ; il frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille. 
 52 Alors Jésus lui dit : Remets ton épée à sa place ; car tous ceux qui prendront l'épée, périront par l'épée. 
 53 Crois-tu que je ne puisse pas maintenant prier mon Père, qui me donnerait à l’instant plus de douze légions d'anges ? 
-54 Comment donc s’accompliraient les Ecritures qui disent qu'il faut que cela arrive ainsi ?
+54 Comment donc s’accompliraient les Ecritures qui disent qu'il faut que cela arrive ainsi ?
 55 En ce même instant Jésus dit à la foule : Vous êtes venus avec des épées et des bâtons, comme après un brigand, pour me prendre ; j'étais tous les jours assis parmi vous, enseignant dans le temple, et vous ne m'avez pas saisi. 
 56 Mais tout ceci est arrivé afin que les Ecritures des prophètes soient accomplies. Alors tous les disciples l'abandonnèrent, et s'enfuirent. 
 57 Ceux qui avaient saisi Jésus l'amenèrent chez Caïphe, le souverain sacrificateur, où les scribes et les anciens étaient assemblés. 
@@ -998,7 +998,7 @@ Matthieu 26
 62 Alors le souverain sacrificateur se leva, et lui dit : Ne réponds-tu rien ? Qu’est-ce que ces hommes déposent contre toi ? 
 63 Jésus garda le silence. Et le souverain sacrificateur prenant la parole, lui dit : Je t’adjure par le Dieu vivant, de nous dire si tu es le Christ, le Fils de Dieu. 
 64 Jésus lui dit : Tu l'as dit. De plus, je vous dis que désormais vous verrez le Fils de l'homme assis à la droite de la puissance de Dieu, et venant sur les nuées du ciel. 
-65 Alors le souverain sacrificateur déchira ses vêtements, en disant : Il a blasphémé ! Qu’avons-nous encore besoin de témoins ? Voici, vous avez entendu maintenant son blasphème. Que vous en semble ? 
+65 Alors le souverain sacrificateur déchira ses vêtements, en disant : Il a blasphémé ! Qu’avons-nous encore besoin de témoins ? Voici, vous avez entendu maintenant son blasphème. Que vous en semble ? 
 66 Ils répondirent : Il mérite la mort. 
 67 Alors ils lui crachèrent au visage, et lui donnèrent des coups de poing et des soufflets, et les autres le frappaient avec leurs bâtons ; 
 68 en disant : Christ, prophétise, dis-nous qui t’a frappé. 
@@ -1022,7 +1022,7 @@ Matthieu 27
 10 et ils les ont données pour acheter le champ d'un potier, selon ce que le Seigneur l’avait ordonné (1). 
 11 Jésus comparut devant le gouverneur. Le gouverneur l'interrogea : Es-tu le Roi des Juifs ? Jésus lui répondit : Tu le dis. 
 12 Mais il ne répondit rien aux accusations des principaux sacrificateurs et des anciens. 
-13 Alors Pilate lui dit : N'entends-tu pas de combien de choses ils t’accusent ? 
+13 Alors Pilate lui dit : N'entends-tu pas de combien de choses ils t’accusent ? 
 14 Mais il ne lui donna de réponse sur aucune parole, ce qui étonna beaucoup le gouverneur. 
 15 Or le gouverneur avait coutume de relâcher un prisonnier à chaque fête, celui que demandait la foule. 
 16 Et il y avait alors un prisonnier fameux, nommé Barabbas. 
@@ -1035,7 +1035,7 @@ Matthieu 27
 23 Et le gouverneur leur dit : Mais quel mal a-t-il fait ? Et ils crièrent encore plus fort, en disant : Qu’il soit crucifié ! 
 24 Alors Pilate voyant qu'il ne gagnait rien, mais que le tumulte s'augmentait, prit de l'eau et lava ses mains devant le peuple, en disant : Je suis innocent du sang de ce juste. Cela vous regarde. 
 25 Et tout le peuple répondit : Que son sang retombe sur nous et sur nos enfants ! 
-26 Alors il leur relâcha Barabbas ; et après avoir fait battre de verges Jésus, il le livra pour être crucifié. 
+26 Alors il leur relâcha Barabbas ; et après avoir fait battre de verges Jésus, il le livra pour être crucifié. 
 27 Les soldats du gouverneur amenèrent Jésus dans le prétoire, et assemblèrent devant lui toute la cohorte. 
 28 Et après l'avoir dépouillé, ils le revêtirent d’un manteau d'écarlate. 
 29 Puis, ayant fait une couronne d'épines entrelacées, ils la mirent sur sa tête, et ils lui mirent un roseau dans sa main droite ; puis s'agenouillant devant lui, ils se moquaient de lui, en disant : Nous te saluons, Roi des Juifs ! 
@@ -1049,9 +1049,9 @@ Matthieu 27
 37 Ils mirent aussi au-dessus de sa tête un écriteau, où la cause de sa condamnation était marquée en ces mots : Celui-ci est Jésus, le Roi des Juifs. 
 38 Avec lui furent crucifiés deux brigands, l'un à sa droite, et l'autre à sa gauche. 
 39 Ceux qui passaient par là, l’injuriaient et secouaient la tête 
-40 en disant : Toi qui détruis le temple, et qui le rebâtis en trois jours, sauve-toi toi-même ! Si tu es le Fils de Dieu, descends de la croix !
+40 en disant : Toi qui détruis le temple, et qui le rebâtis en trois jours, sauve-toi toi-même ! Si tu es le Fils de Dieu, descends de la croix !
 41 De même, les principaux sacrificateurs avec les scribes et les anciens, se moquaient aussi de lui, et disaient : 
-42 Il a sauvé les autres, et il ne peut pas se sauver lui-même ! S’il est le Roi d'Israël, qu'il descende maintenant de la croix, et nous croirons en lui. 
+42 Il a sauvé les autres, et il ne peut pas se sauver lui-même ! S’il est le Roi d'Israël, qu'il descende maintenant de la croix, et nous croirons en lui. 
 43 Il s’est confié en Dieu ; que Dieu le délivre maintenant, s’il aime, car il a dit : Je suis le Fils de Dieu. 
 44 Les brigands, crucifiés avec lui, l’insultaient de la même manière. 
 45 Depuis la sixième heure jusqu’à la neuvième, il y eut des ténèbres sur toute la terre. 
@@ -1078,12 +1078,12 @@ Matthieu 27
 66 Ils s'en allèrent donc, et s’assurèrent du sépulcre, au moyen d’une garde, après avoir scellé la pierre. 
 Matthieu 28
 1 Après le sabbat, à l’aube du premier jour de la semaine, Marie de Magdala, et l'autre Marie, allèrent voir le sépulcre. 
-2 Et voici, il eut un grand tremblement de terre ; car un ange du Seigneur descendit du ciel, vint rouler la pierre à côté de l'entrée du sépulcre, et s'assit dessus. 
+2 Et voici, il eut un grand tremblement de terre ; car un ange du Seigneur descendit du ciel, vint rouler la pierre à côté de l'entrée du sépulcre, et s'assit dessus. 
 3 Son visage était comme un éclair, et son vêtement blanc comme de la neige. 
 4 Les gardes furent tellement saisis de frayeur, qu'ils devinrent comme morts. 
 5 Mais l'ange prit la parole, et dit aux femmes : Pour vous, ne craignez pas ; car je sais que vous cherchez Jésus, qui a été crucifié. 
 6 Il n'est point ici car il est ressuscité comme il l'avait dit. Venez et voyez le lieu où le Seigneur était couché, 
-7 et allez rapidement dire à ses disciples qu'il est ressuscité des morts. Et voici, il vous précède en Galilée ; c’est là que vous le verrez. Voici, je vous l’ai dit. 
+7 et allez rapidement dire à ses disciples qu'il est ressuscité des morts. Et voici, il vous précède en Galilée ; c’est là que vous le verrez. Voici, je vous l’ai dit. 
 8 Alors elles sortirent rapidement du sépulcre avec crainte et une grande joie ; et coururent l'annoncer à ses disciples. 
 9 Mais comme elles allaient pour l'annoncer à ses disciples, voici, Jésus se présenta devant elles, et leur dit : Je vous salue. Et elles s'approchèrent, embrassèrent ses pieds, et l'adorèrent. 
 10 Alors Jésus leur dit : Ne craignez point. Allez, et dites à mes frères d'aller en Galilée, c’est là qu'ils me verront. 
