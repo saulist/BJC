@@ -9,6 +9,7 @@ for file in $( ls ../txt/BJC/*.txt ); do
 	rm $file
 	mv ${file}.utf8 $file
 	sed -i '1s/^\xef\xbb\xbf//' $file
+	sed -i 's/ / /g' $file
 done
 
 IFS=$old_IFS
