@@ -3,7 +3,7 @@ Bible de Jésus-Christ
 
 Fichiers sources, srcipts, etc. de la BJC
 
-## Installation des outils Git et LaTeX/XeTeX (Debian)
+## Installation des outils (Debian)
 
 ```bash
 # installation des paquets nécessaires
