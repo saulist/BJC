@@ -1,6 +1,6 @@
 ## Ajout titres et renvois
 
-Les titres sont entre crochet `[]` et les renvois entre parenthèses `()`. Pour faire un retour à la ligne, utiliser un double antislash `\\`.
+Les titres sont entre crochets `[]` et les renvois entre parenthèses `()`. Pour faire un retour à la ligne, utiliser un double antislash `\\`.
 
 Titre simple :
 ```tex
