@@ -1,4 +1,4 @@
-BJC
+Bible de Jésus-Christ
 ===
 
 Fichiers sources, srcipts, etc. de la BJC
