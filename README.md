@@ -6,12 +6,14 @@ Fichiers sources, srcipts, etc. de la BJC
 ## Installation des outils Git et LaTeX/XeTeX (Debian)
 
 ```bash
+# installation des paquets nécessaires
 apt-get install git texmaker texlive-lang-french texlive-fonts-recommended texlive-xetex
 ```
 
 ## Récupération des fichiers
 
 ```bash
+# copie locale du dépôt
 git clone git@github.com:bible2vie/BJC.git
 ```
 
