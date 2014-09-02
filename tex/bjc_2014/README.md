@@ -2,18 +2,18 @@
 
 Les titres sont entre crochets `[]` et les renvois entre parenthèses `()`. Pour faire un retour à la ligne, utiliser un double antislash `\\`.
 
-Titre simple :
+* Titre simple :
 ```tex
 \TextTitle{[Famine en Juda]}
 ```
 
-Titre avec renvois :
+* Titre avec renvois :
 ```tex
 \TextTitle{[Retour du Roi de la terre à la fin de la tribulation]
 \\(Mc. 13:24-27 ; Lu. 21:25-28)}
 ```
 
-Exemples :
+* Exemples :
 
 ```tex
 % en tête de chapitre
@@ -42,7 +42,7 @@ Exemples :
 
 Utiliser la commande `{\FTNT{}}` collée au mot auquel lequel doit correspondre la note.
 
-Exemple :
+* Exemple :
 
 ```tex
 \VS{9}Après avoir entendu le roi, ils partirent. Et voici, l'étoile{\FTNT{Il est évident que cette étoile qui se déplace pour guider les mages n’est pas une étoile ordinaire. Il s’agit de Jésus-Christ lui-même (Ap. 22:16).}} qu'ils avaient vue en Orient allait devant eux, jusqu’au moment où, arrivée au-dessus du lieu où était le petit enfant, elle s’arrêta.
