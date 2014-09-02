@@ -1,7 +1,7 @@
 Bible de Jésus-Christ
 ===
 
-Fichiers sources et scripts de la BJC
+Scripts et fichiers sources de la BJC
 
 ## Installation des outils (Debian)
 
@@ -41,3 +41,4 @@ cd ~/BJC/tex/bjc_2014/
 # lancer la compilation avec xelatex
 xelatex bjc_2014.tex
 ```
+Prochainement en ligne, site de présentation : http://www.bible-de-jesus.org/
