@@ -32,7 +32,7 @@ cd ~/BJC/scripts/
 ./xml2tex.pl
 ```
 
-## Compilation
+## Compilation PDF
 
 ```bash
 # se placer dans le dossier des fichiers LaTeX
