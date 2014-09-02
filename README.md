@@ -1,7 +1,7 @@
 Bible de Jésus-Christ
 ===
 
-Fichiers sources, srcipts, etc. de la BJC
+Fichiers sources et scripts de la BJC
 
 ## Installation des outils (Debian)
 
