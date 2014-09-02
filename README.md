@@ -19,7 +19,7 @@ git clone git@github.com:bible2vie/BJC.git ~/BJC
 
 ## Génération des fichiers LaTeX
 
-Étape facultative si les fichiers `.tex` sont déjà présents dans le dépôts. Si vous lancez ces scripts, les fichiers existants (et leurs éventuelles personnalisations : titres, commentaires, corrections, etc.) seront écrasés.
+Étape facultative si les fichiers `.tex` sont déjà présents dans le dépôt. Si vous lancez ces scripts, les fichiers existants (et leurs éventuelles personnalisations : titres, commentaires, corrections, etc.) seront écrasés.
 
 ```bash
 # se placer dans le dossier scripts
