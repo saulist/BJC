@@ -38,7 +38,7 @@ Les titres sont entre crochets `[]` et les renvois entre parenthèses `()`. Pour
 \VS{17}Alors s’accomplit ce qui avait été annoncé par Jérémie le prophète :
 ```
 
-## Ajout note
+## Ajout notes
 
 Utiliser la commande `{\FTNT{}}` collée au mot auquel lequel doit correspondre la note.
 
