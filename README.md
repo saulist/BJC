@@ -3,11 +3,23 @@ Bible de Jésus-Christ
 
 Fichiers sources, srcipts, etc. de la BJC
 
+## Installation des outils Git et LaTeX/XeTeX (Debian)
+
+```bash
+apt-get install git texmaker texlive-lang-french texlive-fonts-recommended texlive-xetex
+```
+
+## Récupération des fichiers
+
+```bash
+git clone git@github.com:bible2vie/BJC.git
+```
+
 ## Compilation
 
 ```bash
 # se placer dans le dossier scripts
-cd ./scripts/
+cd ./BJC/scripts/
 
 # lancer l'export des fichiers txt vers le format XML
 ./txt2xml.py
