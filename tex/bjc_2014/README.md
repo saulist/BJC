@@ -1,11 +1,13 @@
-## Ajout titre
+## Ajout titres et renvois
+
+Les titres sont entre crochet `[]` et les renvois entre parenthèses `()`. Pour faire un retour à la ligne, utiliser un double antislash `\\`.
 
 Titre simple :
 ```tex
 \TextTitle{[Famine en Juda]}
 ```
 
-Titre avec renvoie(s) :
+Titre avec renvois :
 ```tex
 \TextTitle{[Retour du Roi de la terre à la fin de la tribulation]
 \\(Mc. 13:24-27 ; Lu. 21:25-28)}
@@ -37,6 +39,8 @@ Exemples :
 ```
 
 ## Ajout note
+
+Utiliser la commande `{\FTNT{}}` collée au mot auquel lequel doit correspondre la note.
 
 Exemple :
 
