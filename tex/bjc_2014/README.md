@@ -45,5 +45,5 @@ Utiliser la commande `{\FTNT{}}` collée au mot auquel lequel doit correspondre 
 * Exemple :
 
 ```tex
-\VS{9}Après avoir entendu le roi, ils partirent. Et voici, l'étoile{\FTNT{Il est évident que cette étoile qui se déplace pour guider les mages n’est pas une étoile ordinaire. Il s’agit de Jésus-Christ lui-même (Ap. 22:16).}} qu'ils avaient vue en Orient allait devant eux, jusqu’au moment où, arrivée au-dessus du lieu où était le petit enfant, elle s’arrêta.
+\VS{9}Après avoir entendu le roi, ils partirent. Et voici, l'étoile\FTNT{Il est évident que cette étoile qui se déplace pour guider les mages n’est pas une étoile ordinaire. Il s’agit de Jésus-Christ lui-même (Ap. 22:16).} qu'ils avaient vue en Orient allait devant eux, jusqu’au moment où, arrivée au-dessus du lieu où était le petit enfant, elle s’arrêta.
 ```
