@@ -40,7 +40,7 @@ Les titres sont entre crochets `[]` et les renvois entre parenthèses `()`. Pour
 
 ## Ajout notes
 
-Utiliser la commande `{\FTNT{}}` collée au mot auquel lequel doit correspondre la note.
+Utiliser la commande `\FTNT{}` collée au mot auquel lequel doit correspondre la note.
 
 * Exemple :
 
