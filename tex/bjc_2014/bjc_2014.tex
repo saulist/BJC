@@ -175,12 +175,12 @@
 \clearpage\input{66-Apocalypse}
 \addcontentsline{toc}{chapter}{Aide}
 \clearpage
-\newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1:}}\markboth{#1}{#1}}%
+\newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}%
 \addcontentsline{toc}{section}{Dictionnaire}%
 \makeatletter%
 \def\@oddhead{{\small{Dictionnaire\hfil\thepage\hfil\rightmark---\leftmark}}}%
 \def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Dictionnaire}}}%
-%\clearpage\makeatother\small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{dictionnaire}\clearpage}
+\clearpage\makeatother\small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{dico}\clearpage}
 \markboth{}{}\makeatletter%
 \def\@oddhead{\hfil\thepage\hfil}%
 \def\@evenhead{\hfil}%
