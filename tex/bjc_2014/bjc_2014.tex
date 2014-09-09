@@ -8,6 +8,8 @@
 \usepackage{lettrine}
 \usepackage{fontspec}
 \usepackage{ragged2e}
+\usepackage[xetex]{hyperref}
+\usepackage{hyperxmp}
 \setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
@@ -54,6 +56,14 @@
 \newcommand{\JFont}{\bfseries\small}		% Words of Jesus - bold face
 \newcommand{\BFont}{\normalfont\small}	% Other words
 \renewcommand{\thefootnote}{\alph{footnote}}
+% Copyright input
+\hypersetup{
+    pdfauthor = {ANJC Productions},
+    pdftitle = {Bible de Jésus-Christ},
+    pdfkeywords = {BJC, Bible, Jesus},
+    pdfcopyright = {Copyright © ANJC Productions. Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International},
+    pdflicenseurl = {http://creativecommons.org/licenses/by-nc-nd/4.0/}
+}
 \begin{document}
 %\frontmatter
 %\pagenumbering{roman}
