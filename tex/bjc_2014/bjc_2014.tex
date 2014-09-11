@@ -52,9 +52,10 @@
 \newcommand{\TextTitle}[1]{
     \begin{center}
     %\needspace{2\baselineskip} % Need at least 2 lines of text available on page
-    \NoAutoSpaceBeforeFDP{\textit{#1\nopagebreak[4]}}
+    %\NoAutoSpaceBeforeFDP{\textit{#1\nopagebreak[4]}}
+    \NoAutoSpaceBeforeFDP{\textit{#1}}
     \end{center}
-    \PPE
+    %\PPE
 }
 \newcommand{\PsalmBookTitle}[1]{\goodbreak\bigskip{\Large\hangindent=0mm\parindent=0mm #1}\nobreak\nopagebreak}
 \newcommand{\PsalmTitle}[1]{\nopagebreak{\medskip\hangindent=0mm\parindent=5mm #1\nobreak\par\nobreak\medskip\nopagebreak}}
@@ -72,7 +73,7 @@
     pdfauthor = {ANJC Productions},
     pdftitle = {Bible de Jésus-Christ},
     pdfkeywords = {BJC, Bible, Jesus},
-    pdfcopyright = {Copyright © ANJC Productions. Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International},
+    pdfcopyright = {ANJC Productions. Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International},
     pdflicenseurl = {http://creativecommons.org/licenses/by-nc-nd/4.0/}
 }
 \begin{document}
