@@ -41,6 +41,7 @@
     \needspace{2\baselineskip} % Need at least X lines of text available on page
     \lettrine[nindent=0pt, lines=3]{$^{\vchap }$}
 }
+\newcommand{\PP}{\par\parindent=0mm}
 \newcommand{\PPE}{\par\parindent=4mm}
 \newcommand{\PFL}{\par\parindent=0mm\hangafter=1\hangindent=12mm}
 \newcommand{\PNL}{\par\parindent=8mm\hangafter=1\hangindent=12mm}
@@ -52,9 +53,9 @@
 \newcommand{\TextTitle}[1]{
     \begin{center}
     %\needspace{2\baselineskip} % Need at least 2 lines of text available on page
-    \NoAutoSpaceBeforeFDP{\textit{#1\nopagebreak[4]}}
+    \NoAutoSpaceBeforeFDP{\textit{#1}}
     \end{center}
-    \PPE
+    \PP
 }
 \newcommand{\PsalmBookTitle}[1]{\goodbreak\bigskip{\Large\hangindent=0mm\parindent=0mm #1}\nobreak\nopagebreak}
 \newcommand{\PsalmTitle}[1]{\nopagebreak{\medskip\hangindent=0mm\parindent=5mm #1\nobreak\par\nobreak\medskip\nopagebreak}}
