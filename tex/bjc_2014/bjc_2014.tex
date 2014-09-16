@@ -212,18 +212,20 @@
 \def\@evenhead{\hfil}%
 \makeatother%
 \clearpage
-\newcommand{\ConcordanceEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}\newline}\markboth{#1}{#1}}%
-\addcontentsline{toc}{section}{Concordance}%
-\makeatletter%
-\def\@oddhead{{\small{Concordance\hfil\thepage\hfil\rightmark---\leftmark}}}%
-\def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Concordance}}}%
+\addcontentsline{toc}{section}{Histoire d'Israël}
+\input{histoire-israel}
+%\newcommand{\ConcordanceEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}\newline}\markboth{#1}{#1}}%
+%\addcontentsline{toc}{section}{Concordance}%
+%\makeatletter%
+%\def\@oddhead{{\small{Concordance\hfil\thepage\hfil\rightmark---\leftmark}}}%
+%\def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Concordance}}}%
 %\clearpage\makeatother\small{\parindent=0mm{\begin{center}\Large\bfseries{Concordance}\end{center}}\par\input{concordance}\clearpage}
-\markboth{}{}\makeatletter%
-\def\@oddhead{\hfil\thepage\hfil}%
-\def\@evenhead{\hfil}%
-\makeatother%
+%\markboth{}{}\makeatletter%
+%\def\@oddhead{\hfil\thepage\hfil}%
+%\def\@evenhead{\hfil}%
+%\makeatother%
 %\end{multicols}
-\clearpage
+%\clearpage
 %\resizebox{\textwidth}{!}{\includegraphics{map.eps}}\addcontentsline{toc}{section}{Map}
 %\clearpage
 \end{document}
