@@ -14,7 +14,7 @@ apt-get install git texmaker texlive-lang-french texlive-fonts-recommended texli
 
 ```bash
 # copie locale du dépôt
-git clone git@github.com:bible2vie/BJC.git ~/BJC
+git clone https://github.com/bible2vie/BJC.git ~/BJC
 ```
 
 ## Génération des fichiers LaTeX
